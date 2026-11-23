@@ -1,0 +1,5 @@
+can_data/*
+!can_data/.gitkeep
+data_checkpoints/*
+!data_checkpoints/.gitkeep
+data_analysis/panel_cpv*.csv

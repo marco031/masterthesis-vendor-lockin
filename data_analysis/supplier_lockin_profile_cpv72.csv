@@ -1,0 +1,4258 @@
+WIN_NAME_FINAL,n_total_buyers,n_locked_in_buyers,mean_cumulative_ties,n_captive_buyers,captive_share,lock_in_pct
+Deutsche Telekom AG,143,46,2.9279279279279278,10,0.06993006993006994,0.32167832167832167
+adesso SE,120,34,1.6666666666666667,3,0.025,0.2833333333333333
+Atos SE,101,30,2.4915254237288136,0,0.0,0.297029702970297
+Bechtle AG,109,29,2.0444444444444443,4,0.03669724770642202,0.26605504587155965
+Computacenter AG & Co. oHG,53,28,2.6885245901639343,1,0.018867924528301886,0.5283018867924528
+SAP Deutschland SE & Co. KG,69,24,1.7619047619047619,4,0.057971014492753624,0.34782608695652173
+Microsoft Deutschland GmbH,46,22,3.3684210526315788,4,0.08695652173913043,0.4782608695652174
+Fujitsu Technology Solutions GmbH,64,22,3.803921568627451,2,0.03125,0.34375
+hays ag,66,21,2.2439024390243905,1,0.015151515151515152,0.3181818181818182
+IBM Deutschland GmbH,47,21,3.225,4,0.0851063829787234,0.44680851063829785
+Sopra Steria SE,45,19,2.272727272727273,1,0.022222222222222223,0.4222222222222222
+Materna SE,43,18,3.5,4,0.09302325581395349,0.4186046511627907
+msg systems ag,83,18,2.975609756097561,0,0.0,0.21686746987951808
+CGI Deutschland B.V. & Co. KG,41,17,2.5555555555555554,0,0.0,0.4146341463414634
+BearingPoint GmbH,44,17,2.25,3,0.06818181818181818,0.38636363636363635
+TÜV Informationstechnik GmbH,31,15,1.1764705882352942,0,0.0,0.4838709677419355
+Datagroup SE,41,14,2.4074074074074074,3,0.07317073170731707,0.34146341463414637
+SVA GmbH,47,14,1.608695652173913,0,0.0,0.2978723404255319
+accenture gmbh,29,12,2.272727272727273,1,0.034482758620689655,0.41379310344827586
+CONET Technologies Holding GmbH,47,12,2.7916666666666665,3,0.06382978723404255,0.2553191489361702
+Oracle Deutschland B.V. & Co. KG,20,12,3.0714285714285716,0,0.0,0.6
+Comparex AG,41,12,1.75,1,0.024390243902439025,0.2926829268292683
+gisa gmbh,39,12,1.6111111111111112,3,0.07692307692307693,0.3076923076923077
+init AG für digitale Kommunikation,43,11,2.0625,3,0.06976744186046512,0.2558139534883721
+gai novacon gmbh,11,11,1.0,0,0.0,1.0
+Capgemini Deutschland GmbH,39,10,3.1666666666666665,0,0.0,0.2564102564102564
+KPMG AG Wirtschaftsprüfungsgesellschaft,37,9,1.6,0,0.0,0.24324324324324326
+innobis ag,14,9,1.75,4,0.2857142857142857,0.6428571428571429
+Cancom SE,45,8,1.6428571428571428,0,0.0,0.17777777777777778
+swiss post solutions gmbh,15,8,1.1111111111111112,0,0.0,0.5333333333333333
+virtual7 GmbH,35,8,1.3636363636363635,0,0.0,0.22857142857142856
+PricewaterhouseCoopers GmbH WPG,32,8,1.5384615384615385,0,0.0,0.25
+Deloitte GmbH Wirtschaftsprüfungsgesellschaft,43,8,1.6153846153846154,2,0.046511627906976744,0.18604651162790697
+juris gmbh,19,7,1.2222222222222223,2,0.10526315789473684,0.3684210526315789
+DXC Technology Deutschland GmbH,17,7,2.1538461538461537,0,0.0,0.4117647058823529
+Hewlett-Packard,10,6,1.5,0,0.0,0.6
+NTT Group,29,6,2.4615384615384617,1,0.034482758620689655,0.20689655172413793
+Controlware GmbH,21,6,3.4166666666666665,0,0.0,0.2857142857142857
+Verlag C.H. Beck oHG,22,6,1.1666666666666667,1,0.045454545454545456,0.2727272727272727
+q_perior ag,15,5,2.8,0,0.0,0.3333333333333333
+babiel gmbh,7,5,1.2857142857142858,0,0.0,0.7142857142857143
+PROFI Engineering Systems AG,14,5,1.2857142857142858,0,0.0,0.35714285714285715
+scheer gmbh,26,5,1.2857142857142858,1,0.038461538461538464,0.19230769230769232
+HiSolutions AG,35,4,2.3333333333333335,0,0.0,0.11428571428571428
+sinc gmbh,13,4,6.363636363636363,0,0.0,0.3076923076923077
+Trans4mation BS GmbH,14,4,1.8571428571428572,1,0.07142857142857142,0.2857142857142857
+Seven Principles AG,6,4,1.6,0,0.0,0.6666666666666666
+ikor ag,13,4,1.0,0,0.0,0.3076923076923077
+Vision Consulting GmbH & Co. KG,9,4,2.0,0,0.0,0.4444444444444444
+COMLINE Computer + Softwarelösungen SE,8,4,1.2,2,0.25,0.5
+fabasoft deutschland gmbh,12,4,1.2,0,0.0,0.3333333333333333
+scopeland technology gmbh,7,4,1.2,1,0.14285714285714285,0.5714285714285714
+colt technology services gmbh,22,4,1.75,1,0.045454545454545456,0.18181818181818182
+gaf ag,8,4,3.5714285714285716,1,0.125,0.5
+secunet security networks ag,33,4,2.8181818181818183,0,0.0,0.12121212121212122
+quadrio beratungsgesellschaft mbh,11,4,1.0,0,0.0,0.36363636363636365
+pico engineering gmbh,12,4,1.8571428571428572,0,0.0,0.3333333333333333
+ib-bank-systems gmbh,5,4,1.25,1,0.2,0.8
+condat ag,9,4,1.3333333333333333,1,0.1111111111111111,0.4444444444444444
+disy informationssysteme gmbh,8,3,1.0,1,0.125,0.375
+codecentric ag,4,3,1.0,1,0.25,0.75
+isb ag,8,3,1.8,1,0.125,0.375
+Open Text Software GmbH,12,3,4.0,0,0.0,0.25
+con terra gmbh,9,3,2.0,0,0.0,0.3333333333333333
+init ag,14,3,1.0,0,0.0,0.21428571428571427
+SoftwareONE Deutschland GmbH,46,3,1.0,0,0.0,0.06521739130434782
+etengo (deutschland) ag,20,3,1.0,0,0.0,0.15
+zalaris deutschland ag,6,3,1.0,0,0.0,0.5
+ordix ag,4,3,1.3333333333333333,0,0.0,0.75
+imtb consulting gmbh,8,3,1.4,0,0.0,0.375
+goetzfried ag,6,3,3.5,0,0.0,0.5
+usu gmbh,17,3,1.25,0,0.0,0.17647058823529413
+micro focus gmbh,3,3,1.25,0,0.0,1.0
+best practice consulting AG,8,3,1.25,1,0.125,0.375
+accso accelerated solutions gmbh,6,3,1.8,1,0.16666666666666666,0.5
+xima media gmbh,18,3,1.25,1,0.05555555555555555,0.16666666666666666
+INTEND Geoinformatik GmbH,9,3,2.0,1,0.1111111111111111,0.3333333333333333
+ebp deutschland gmbh,5,3,1.25,1,0.2,0.6
+Infora GmbH,8,3,1.0,0,0.0,0.375
+b1 systems gmbh,12,3,1.0,0,0.0,0.25
+cellebrite gmbh,3,3,1.0,0,0.0,1.0
+steep gmbh,5,3,2.375,0,0.0,0.6
+Allgeier Experts Pro GmbH,22,3,2.6,0,0.0,0.13636363636363635
+iabg mbh,8,3,1.6,0,0.0,0.375
+Esri Deutschland GmbH,16,3,1.25,1,0.0625,0.1875
+sks solutions gmbh,14,3,1.0,0,0.0,0.21428571428571427
+Ernst & Young GmbH Wirtschaftsprüfungsgesellschaft,22,3,3.6666666666666665,0,0.0,0.13636363636363635
+BTC Business Technology Consulting AG,28,3,1.3333333333333333,1,0.03571428571428571,0.10714285714285714
+msgGillardon AG,6,2,1.5,0,0.0,0.3333333333333333
+arvato systems perdata gmbh,13,2,1.0,0,0.0,0.15384615384615385
+novedas consulting gmbh,2,2,1.0,0,0.0,1.0
+mt ag,3,2,1.3333333333333333,0,0.0,0.6666666666666666
+Geißendörfer & Leschinsky GmbH,3,2,1.0,0,0.0,0.6666666666666666
+it-novum gmbh,3,2,1.0,1,0.3333333333333333,0.6666666666666666
+Dedalus HealthCare GmbH,10,2,1.0,2,0.2,0.2
+sd&c solutions development & consulting gmbh,2,2,2.0,1,0.5,1.0
+CSC Deutschland GmbH,5,2,1.3333333333333333,0,0.0,0.4
+tedsoft gmbh,2,2,1.0,0,0.0,1.0
+aok systems gmbh,5,2,1.3333333333333333,0,0.0,0.4
+intevation gmbh,2,2,1.75,0,0.0,1.0
+Rohde & Schwarz Cybersecurity GmbH,4,2,1.3333333333333333,0,0.0,0.5
+pdv-systeme gmbh,5,2,1.0,0,0.0,0.4
+xcontrol gmbh,2,2,3.3333333333333335,1,0.5,1.0
+märz network services gmbh,4,2,1.0,1,0.25,0.5
+magellan netzwerke gmbh,7,2,1.0,2,0.2857142857142857,0.2857142857142857
+netlution gmbh,3,2,1.3333333333333333,0,0.0,0.6666666666666666
+Administration Intelligence AG,5,2,5.166666666666667,0,0.0,0.4
+systhemis ag,18,2,1.0,0,0.0,0.1111111111111111
+objektkultur software gmbh,4,2,1.75,0,0.0,0.5
+sthree gmbh,30,2,1.0,0,0.0,0.06666666666666667
+seitenbau gmbh,3,2,1.5,1,0.3333333333333333,0.6666666666666666
+european it consultancy eitco gmbh,8,2,2.5,0,0.0,0.25
+Advantics GmbH,2,2,1.0,0,0.0,1.0
+Advitec Informatik GmbH,4,2,1.75,0,0.0,0.5
+baramundi software ag,2,2,1.0,1,0.5,1.0
+src security research & consulting gmbh,3,2,2.2,0,0.0,0.6666666666666666
+werum software & systems ag,3,2,3.0,0,0.0,0.6666666666666666
+nortal ag,10,2,1.0,0,0.0,0.2
+Systema Gesellschaft für angewandte Datentechnik mbH,6,2,1.0,1,0.16666666666666666,0.3333333333333333
+exxonit gmbh,3,2,2.5,0,0.0,0.6666666666666666
+i.syde Informationstechnik GmbH,2,2,4.0,0,0.0,1.0
+urano informationssysteme gmbh,5,2,2.6666666666666665,0,0.0,0.4
+regiocom se,3,2,1.0,0,0.0,0.6666666666666666
+consist software solutions gmbh,2,2,2.0,0,0.0,1.0
+Crayon Deutschland GmbH,32,2,1.0,0,0.0,0.0625
+GDV Gesellschaft für geografische Datenverarbeitung mbH,3,2,5.714285714285714,0,0.0,0.6666666666666666
+norcom information technology gmbh & co. kgaa,5,2,1.3333333333333333,0,0.0,0.4
+sas institute gmbh,3,2,1.5,0,0.0,0.6666666666666666
+top itservices ag,11,2,2.0,0,0.0,0.18181818181818182
+communardo software gmbh,4,2,1.0,0,0.0,0.5
+isax gmbh & co. kg,4,2,1.75,0,0.0,0.5
+Schmidt + Partner GmbH,2,2,1.3333333333333333,0,0.0,1.0
+Hydrotec Ingenieurgesellschaft für Wasser und Umwelt mbH,5,2,1.5,0,0.0,0.4
+SPIRIT/21 AG,3,2,3.625,0,0.0,0.6666666666666666
+Swiss IT Security Deutschland GmbH,10,2,1.75,0,0.0,0.2
+cubeserv gmbh,15,2,2.6666666666666665,0,0.0,0.13333333333333333
+ernst & young gmbh,17,2,1.0,0,0.0,0.11764705882352941
+governikus,2,2,1.3333333333333333,0,0.0,1.0
+cronos unternehmensberatung gmbh,3,2,1.75,0,0.0,0.6666666666666666
+rola Security Solutions GmbH,4,2,3.5,0,0.0,0.5
+IVU Traffic Technologies AG,5,2,1.0,0,0.0,0.4
+robotron datenbank-software gmbh,13,2,1.3333333333333333,0,0.0,0.15384615384615385
+gartner deutschland gmbh,11,2,1.3333333333333333,0,0.0,0.18181818181818182
+comma soft ag,3,2,1.0,0,0.0,0.6666666666666666
+iso public services gmbh,5,2,1.0,0,0.0,0.4
+ESG Elektroniksystem- und Logistik-GmbH,2,2,2.8333333333333335,0,0.0,1.0
+udf consulting ag,9,2,2.0,0,0.0,0.2222222222222222
+gulp consulting services gmbh,6,2,1.0,0,0.0,0.3333333333333333
+science + computing ag,4,2,1.6666666666666667,0,0.0,0.5
+Dell GmbH,7,2,1.5,0,0.0,0.2857142857142857
+deutsche post e-post solutions gmbh,3,2,1.3333333333333333,1,0.3333333333333333,0.6666666666666666
+schütze consulting ag,11,2,1.0,0,0.0,0.18181818181818182
+Lufthansa Industry Solutions AS GmbH,8,2,1.0,0,0.0,0.25
+pdv gmbh,7,2,1.0,1,0.14285714285714285,0.2857142857142857
+promatis software gmbh,2,2,1.0,1,0.5,1.0
+Unisys Deutschland GmbH,4,2,1.0,0,0.0,0.5
+d-fine gmbh,17,2,2.0,0,0.0,0.11764705882352941
+]init[ Aktiengesellschaft für digitale Kommunikation,8,2,1.3333333333333333,1,0.125,0.25
+operational services gmbh & co. kg,12,2,1.0,1,0.08333333333333333,0.16666666666666666
+Fraunhofer-Gesellschaft zur Förderung der angewandten Forschung e. V.,6,2,1.75,0,0.0,0.3333333333333333
+act it-consulting & services ag,2,2,1.3333333333333333,0,0.0,1.0
+Konica Minolta Business Solutions Deutschland GmbH,2,1,1.0,0,0.0,0.5
+PROCON IT Aktiengesellschaft,1,1,1.0,0,0.0,1.0
+OpenSource Security Ralf Spenneberg,1,1,2.0,0,0.0,1.0
+Thomson Reuters (Markets) Deutschland GmbH,1,1,1.0,0,0.0,1.0
+Rosenberger GmbH & Co. KG,6,1,1.0,0,0.0,0.16666666666666666
+Media Consulta GmbH,1,1,1.0,0,0.0,1.0
+bw bildung und wissen verlag und software gmbh,1,1,1.0,0,0.0,1.0
+apliconus gmbh,1,1,2.0,0,0.0,1.0
+TMK Thomas Mack Kommunikation GmbH,6,1,1.0,0,0.0,0.16666666666666666
+"ML Consulting Schulung, Service & Support GmbH",4,1,2.5,0,0.0,0.25
+cassini consulting ag,9,1,1.0,0,0.0,0.1111111111111111
+Ricoh Deutschland GmbH,6,1,1.0,1,0.16666666666666666,0.16666666666666666
+SI Software Innovation GmbH,1,1,1.0,0,0.0,1.0
+pb consult gmbh,1,1,1.0,1,1.0,1.0
+TÜV Rheinland Consulting GmbH,3,1,2.0,0,0.0,0.3333333333333333
+nextcloud gmbh,4,1,1.0,0,0.0,0.25
+aqua-institut gmbh,2,1,1.0,0,0.0,0.5
+cbg mbh,1,1,1.0,0,0.0,1.0
+araneaconsult gmbh,2,1,1.0,1,0.5,0.5
+arvato systems s4m gmbh,17,1,2.0,0,0.0,0.058823529411764705
+assure consulting gmbh,1,1,2.0,0,0.0,1.0
+atene KOM GmbH,4,1,1.5,0,0.0,0.25
+best-blu consulting with energy GmbH,1,1,1.0,0,0.0,1.0
+neues handeln AG,5,1,1.0,1,0.2,0.2
+bg ebcsoft gmbh und ebcservice gmbh,1,1,1.5,1,1.0,1.0
+björnsen beratende ingenieure,1,1,1.0,0,0.0,1.0
+netques daten & diagnostik,1,1,1.0,1,1.0,1.0
+nect gmbh,2,1,1.0,0,0.0,0.5
+reichert gmbh,1,1,1.0,0,0.0,1.0
+procontext consulting gmbh,1,1,1.0,0,0.0,1.0
+rheinmetall landsysteme gmbh,1,1,1.0,0,0.0,1.0
+bitech ag,3,1,1.0,0,0.0,0.3333333333333333
+rmk,1,1,1.0,0,0.0,1.0
+brainsphere Informationsworks GmbH,2,1,1.5,0,0.0,0.5
+aubi-plus gmbh,1,1,2.0,0,0.0,1.0
+empic gmbh,1,1,1.0,1,1.0,1.0
+aperto gmbh,4,1,1.5,0,0.0,0.25
+UNIT4 Business Software GmbH,2,1,1.0,0,0.0,0.5
+andrena objects ag,2,1,1.5,0,0.0,0.5
+arreba consulting gmbh,1,1,1.0,0,0.0,1.0
+Universität Bern,1,1,1.0,0,0.0,1.0
+Utimaco GmbH,2,1,3.0,0,0.0,0.5
+bsi business systems integration ag,2,1,1.0,0,0.0,0.5
+"bscd business solutions, consulting and development gmbh",1,1,1.0,0,0.0,1.0
+aareon deutschland gmbh,3,1,1.0,0,0.0,0.3333333333333333
+abat ag,1,1,1.0,1,1.0,1.0
+abl social federation gmbh,1,1,1.0,0,0.0,1.0
+aviso gmbh,1,1,1.0,0,0.0,1.0
+axians it security gmbh,2,1,1.0,0,0.0,0.5
+blu systems gmbh,1,1,2.5,0,0.0,1.0
+act expert services gmbh,3,1,1.0,0,0.0,0.3333333333333333
+björnsen beratende ingenieure gmbh,1,1,1.5,0,0.0,1.0
+adiccon gmbh,2,1,1.5,0,0.0,0.5
+proventa ag,3,1,1.5,0,0.0,0.3333333333333333
+pixida gmbh,2,1,1.0,0,0.0,0.5
+alberding gmbh,2,1,1.0,0,0.0,0.5
+nexus technology gmbh,1,1,1.0,0,0.0,1.0
+borisgloger consulting gmbh,1,1,1.0,0,0.0,1.0
+aracom it services ag,1,1,1.0,0,0.0,1.0
+wisit solutions gmbh,1,1,1.5,0,0.0,1.0
+cenit ag,2,1,1.0,0,0.0,0.5
+paul it-service gmbh,3,1,1.0,0,0.0,0.3333333333333333
+dcon software & service ag,2,1,3.0,0,0.0,0.5
+roos it gmbh & co. kg,1,1,1.5,0,0.0,1.0
+datatrain gmbh,2,1,1.0,1,0.5,0.5
+traffgo road gmbh,3,1,1.0,0,0.0,0.3333333333333333
+creotech instruments s.a.,1,1,1.0,0,0.0,1.0
+trivadis,1,1,1.5,0,0.0,1.0
+trivadis gmbh,1,1,1.0,0,0.0,1.0
+aic group,1,1,1.0,0,0.0,1.0
+akquinet health service gmbh,3,1,1.0,0,0.0,0.3333333333333333
+netqa gmbh,1,1,1.0,0,0.0,1.0
+convit gmbh,1,1,1.0,0,0.0,1.0
+univativ gmbh & co. kg,2,1,2.5,0,0.0,0.5
+rec gmbh,1,1,1.0,0,0.0,1.0
+unternehmensberatung elgershäuser,1,1,1.0,1,1.0,1.0
+realtech ag,1,1,1.0,0,0.0,1.0
+raynet gmbh,1,1,2.0,0,0.0,1.0
+usu ag,8,1,1.0,0,0.0,0.125
+usu software ag,2,1,1.0,0,0.0,0.5
+content5 ag,1,1,2.5,0,0.0,1.0
+also enterprise services gmbh,2,1,1.0,0,0.0,0.5
+vdi technologiezentrum gmbh,1,1,1.5,0,0.0,1.0
+tgs-telonic gmbh,1,1,2.5,0,0.0,1.0
+terrestris gmbh & co. kg,3,1,1.5,0,0.0,0.3333333333333333
+telexiom ag,5,1,1.5,0,0.0,0.2
+mid gmbh,1,1,1.0,0,0.0,1.0
+World Wide WAN GmbH,1,1,1.5,0,0.0,1.0
+servicetrace gmbh,1,1,1.0,0,0.0,1.0
+smart enterprise solutions gmbh,1,1,1.0,0,0.0,1.0
+sylvia pötzsch,1,1,1.0,0,0.0,1.0
+die it-menufaktur – ronald güttler,1,1,1.0,0,0.0,1.0
+solvin information management gmbh,2,1,1.0,0,0.0,0.5
+acg automation consulting group gmbh,1,1,1.0,0,0.0,1.0
+sqs software quality systems ag,2,1,2.0,0,0.0,0.5
+microTOOL GmbH,1,1,1.0,0,0.0,1.0
+strike consulting gmbh,2,1,1.0,0,0.0,0.5
+technische universität dresden,1,1,4.0,1,1.0,1.0
+subshell gmbh,1,1,3.0,0,0.0,1.0
+sbc systems gmbh,1,1,1.5,0,0.0,1.0
+saascom gmbh,1,1,1.5,0,0.0,1.0
+actum consulting products GmbH,1,1,2.0,0,0.0,1.0
+synalis gmbh & co. kg,2,1,1.0,1,0.5,0.5
+süd it ag,1,1,1.0,0,0.0,1.0
+t.e.a.m. unternehmensberatung ag,1,1,5.5,0,0.0,1.0
+deborate gmbh,2,1,2.5,0,0.0,0.5
+technidata it-service gmbh,3,1,1.5,0,0.0,0.3333333333333333
+virtualcitysystems gmbh,2,1,1.0,0,0.0,0.5
+vitaserv ag,3,1,1.0,1,0.3333333333333333,0.3333333333333333
+consolut gmbh,2,1,1.0,0,0.0,0.5
+pit-cup gmbh,1,1,1.0,1,1.0,1.0
+clc xinteg gmbh,1,1,1.5,0,0.0,1.0
+4process AG,1,1,1.0,1,1.0,1.0
+amoria bond gmbh,1,1,1.0,0,0.0,1.0
+Bietergemeinschaft PPI AG Informationstechnologie und FinMaC GmbH,1,1,1.0,0,0.0,1.0
+anexia internetdienstleistungs gmbh,1,1,1.0,1,1.0,1.0
+CARENOBLE Gesellschaft für Gesundheitsökonomie mbH & Co.KG,4,1,1.0,0,0.0,0.25
+cimt objects ag,1,1,1.0,0,0.0,1.0
+pkn datenkommunikations gmbh,2,1,1.0,0,0.0,0.5
+Consulting4IT GmbH,3,1,1.0,0,0.0,0.3333333333333333
+Dimitar Kuzumski ProperIT Consulting,1,1,1.5,0,0.0,1.0
+codesense gmbh,2,1,3.0,0,0.0,0.5
+E-PROJECTA GmbH,1,1,1.0,0,0.0,1.0
+picturesafe management gmbh,2,1,1.0,1,0.5,0.5
+Gesundheitsforen Leipzig GmbH,4,1,1.5,1,0.25,0.25
+HENRICHSEN AG,1,1,1.0,0,0.0,1.0
+pica gmbh,1,1,1.0,0,0.0,1.0
+HanseVision GmbH,5,1,1.5,0,0.0,0.2
+Harald Friedrich EDV-Organisations-Beratung,1,1,2.5,0,0.0,1.0
+HxGN Safety & Infrastructure GmbH,5,1,2.5,0,0.0,0.2
+IBR-Ingenieurbüro Riemer Ges. für Geoinformation mbH,2,1,1.0,0,0.0,0.5
+cloudogu gmbh,1,1,1.5,0,0.0,1.0
+1 & 1 versatel deutschland gmbh,2,1,1.0,0,0.0,0.5
+volavis gmbh,7,1,1.0,0,0.0,0.14285714285714285
+one identity software international dac,1,1,1.0,0,0.0,1.0
+voquz it solutions gmbh,2,1,1.0,0,0.0,0.5
+wbs it-service gmbh,5,1,3.0,0,0.0,0.2
+web commerce gmbh,1,1,2.0,0,0.0,1.0
+pwp-systems gmbh,2,1,1.5,1,0.5,0.5
+next consulting informations- und kommunikationsmanagement gmbh,1,1,1.5,0,0.0,1.0
+pwc gmbh wpg,1,1,1.0,0,0.0,1.0
+weinz & feser business integration partner,1,1,1.0,0,0.0,1.0
+nexus deutschland gmbh,13,1,1.0,0,0.0,0.07692307692307693
+psi transcom gmbh,2,1,1.0,1,0.5,0.5
+complion ag,2,1,1.5,0,0.0,0.5
+comNET Gesellschaft für Kommunikation und Netzwerke mbH,1,1,1.0,1,1.0,1.0
+bucet ag,1,1,1.0,0,0.0,1.0
+compax software development gmbh,1,1,1.0,0,0.0,1.0
+witcom wiesbadener informations- und telekommunikations gmbh,1,1,1.0,0,0.0,1.0
+comdok gmbh,1,1,1.0,0,0.0,1.0
+xapio gmbh,4,1,1.5,0,0.0,0.25
+xft gmbh,5,1,1.0,1,0.2,0.2
+zedal ag,1,1,1.0,1,1.0,1.0
+one business & technology gmbh,2,1,1.0,0,0.0,0.5
+zott + co. gesellschaft zur entwicklung von hard- und software für mikroprozessorsysteme mbh,1,1,2.0,0,0.0,1.0
+rvse mittelstandsallianz gmbh & co. ohg,1,1,1.0,0,0.0,1.0
+eftas fernerkundung technologietransfer gmbh,4,1,1.0,0,0.0,0.25
+bytes & building gmbh,1,1,1.0,1,1.0,1.0
+navum gmbh,1,1,1.5,0,0.0,1.0
+mayato gmbh,3,1,2.0,0,0.0,0.3333333333333333
+hlp informationsmanagement gmbh,1,1,1.0,0,0.0,1.0
+EAB Elektroanlagenbau GmbH Rhein/Main,1,1,2.0,0,0.0,1.0
+mgm consulting partners gmbh,3,1,1.0,1,0.3333333333333333,0.3333333333333333
+wheregroup gmbh & co. kg,1,1,1.0,0,0.0,1.0
+aki gmbh,1,1,2.0,0,0.0,1.0
+mindbox gmbh,1,1,1.0,1,1.0,1.0
+headhunter systems ltd.,1,1,1.0,0,0.0,1.0
+haysgroup,1,1,1.0,0,0.0,1.0
+mobivention gmbh,2,1,1.0,0,0.0,0.5
+neros gbr konsortium,1,1,1.0,0,0.0,1.0
+picture gmbh,7,1,1.0,0,0.0,0.14285714285714285
+nexus institut für kooperationsmanagement und interdisziplinäre forschung gmbh,1,1,1.0,0,0.0,1.0
+opensource security gmbh,1,1,1.0,0,0.0,1.0
+optivation mainz gmbh,1,1,2.0,0,0.0,1.0
+zf friedrichshafen ag,2,1,1.0,0,0.0,0.5
+orbit gesellschaft für applikations- und informationssysteme mbh,3,1,1.0,0,0.0,0.3333333333333333
+spot.consulting gmbh,2,1,1.0,0,0.0,0.5
+pan dacom direkt gmbh,1,1,1.0,1,1.0,1.0
+pan planungsbüro für angewandten naturschutz gmbh,1,1,1.0,0,0.0,1.0
+paradatec gesellschaft für parallele datentechnik mbh,2,1,1.0,0,0.0,0.5
+paul it-service,1,1,2.0,0,0.0,1.0
+vilua healthcare gmbh,1,1,1.0,0,0.0,1.0
+windhoff software services gmbh,4,1,2.5,0,0.0,0.25
+horvath & partner gmbh,1,1,1.0,0,0.0,1.0
+dcp consulting gmbh,1,1,1.0,0,0.0,1.0
+topm software gmbh,1,1,1.0,0,0.0,1.0
+DECON-network Systemhaus und EDV-Vertriebs GmbH,1,1,1.5,0,0.0,1.0
+interactive instruments gesellschaft für software-entwicklung mbh,3,1,1.0,0,0.0,0.3333333333333333
+CA Deutschland GmbH,1,1,2.0,0,0.0,1.0
+Bloomberg Finance L.P.,1,1,3.0,0,0.0,1.0
+ip systems gmbh,1,1,1.0,0,0.0,1.0
+trevedi it-consulting gmbh,1,1,1.0,0,0.0,1.0
+iqdoq gmbh,4,1,1.0,0,0.0,0.25
+correct power institute gmbh,1,1,1.0,0,0.0,1.0
+it unlimited ag,2,1,1.5,0,0.0,0.5
+it-service mario schatz,1,1,1.0,0,0.0,1.0
+igt global services limited,1,1,1.5,0,0.0,1.0
+Anstalt für Kommunale Datenverarbeitung in Bayern (AKDB),4,1,1.0,1,0.25,0.25
+cqse gmbh,2,1,1.0,0,0.0,0.5
+itgain consulting gesellschaft für it-beratung mbh,2,1,1.0,0,0.0,0.5
+ifb se,1,1,1.0,0,0.0,1.0
+jungvornweg gmbh,1,1,1.5,0,0.0,1.0
+kalinowski consulting gmbh,1,1,1.0,0,0.0,1.0
+Parcs IT-Consulting GmbH,1,1,2.0,0,0.0,1.0
+hypertegrity ag,2,1,1.5,0,0.0,0.5
+allgeier it gmbh,4,1,1.0,0,0.0,0.25
+pentasys ag,3,1,1.0,0,0.0,0.3333333333333333
+doubleslash net-business gmbh,1,1,1.0,0,0.0,1.0
+dfn-verein,1,1,1.0,0,0.0,1.0
+ferchau gmbh,5,1,1.0,0,0.0,0.2
+topdev gmbh,3,1,1.5,0,0.0,0.3333333333333333
+sbp gmbh,1,1,2.0,0,0.0,1.0
+scaflex it gmbh,1,1,1.0,0,0.0,1.0
+schoppa institut gmbh,1,1,1.0,0,0.0,1.0
+scs consulting gmbh,2,1,1.5,0,0.0,0.5
+seccommerce informationssysteme gmbh,3,1,1.0,0,0.0,0.3333333333333333
+thales deutschland gmbh,1,1,1.5,1,1.0,1.0
+teradata gmbh,1,1,1.0,0,0.0,1.0
+serima consulting gmbh,1,1,1.0,0,0.0,1.0
+si pro gmbh,1,1,1.5,0,0.0,1.0
+six offene systeme gmbh,2,1,1.0,1,0.5,0.5
+plus-it gmbh,1,1,2.5,0,0.0,1.0
+DAVID Systems GmbH,1,1,1.0,0,0.0,1.0
+softwareschneiderei gmbh,2,1,1.0,0,0.0,0.5
+PCS Beratungscontor AG,1,1,1.0,0,0.0,1.0
+exxsens gmbh,1,1,1.0,0,0.0,1.0
+GODYO Enterprise Computing AG,1,1,1.0,0,0.0,1.0
+spinner data gmbh,1,1,1.0,0,0.0,1.0
+sst it-services ag,1,1,1.0,0,0.0,1.0
+explicatis gmbh,3,1,3.0,0,0.0,0.3333333333333333
+esell bayern gmbh,2,1,1.0,1,0.5,0.5
+eska consulting gmbh,1,1,1.0,0,0.0,1.0
+t60 consulting gmbh,1,1,1.0,0,0.0,1.0
+rudolf lang,1,1,2.5,0,0.0,1.0
+abakus it-solutions germany gmbh,1,1,1.0,0,0.0,1.0
+u.n.p.-software gmbh,1,1,4.0,0,0.0,1.0
+wemove digital solutions gmbh,1,1,1.0,0,0.0,1.0
+werk21 gmbh,2,1,1.0,0,0.0,0.5
+vodafone gmbh,17,1,1.0,0,0.0,0.058823529411764705
+visart gmbh,1,1,1.5,0,0.0,1.0
+gfk se,1,1,1.0,1,1.0,1.0
+proximity technology gmbh,3,1,1.0,0,0.0,0.3333333333333333
+dvhaus software & solutions gmbh,2,1,1.0,0,0.0,0.5
+q-con gmbh,1,1,2.0,0,0.0,1.0
+genius technoconsult,1,1,1.0,1,1.0,1.0
+general storage gbr,1,1,1.0,0,0.0,1.0
+quanto ag,1,1,1.0,0,0.0,1.0
+quanto solutions gmbh,7,1,1.0,0,0.0,0.14285714285714285
+usu,4,1,1.0,0,0.0,0.25
+e.discom Telekommunikations GmbH,2,1,1.0,0,0.0,0.5
+rainer koch informatik,1,1,1.5,0,0.0,1.0
+x-root software gmbh,1,1,1.0,0,0.0,1.0
+regio it gesellschaft für informationstechnologie mbh,7,1,1.0,1,0.14285714285714285,0.14285714285714285
+rhainblick gmbh,1,1,1.0,0,0.0,1.0
+g+h systems gmbh,1,1,1.0,0,0.0,1.0
+zeb.rolfes.schierenbeck.associates.gmbh,1,1,1.0,0,0.0,1.0
+fpi fuchs ingenieure gmbh & co. kg,2,1,1.0,0,0.0,0.5
+Dr. Jürgen Blume-Nienhaus,1,1,1.0,0,0.0,1.0
+innovative datensysteme gmbh,1,1,1.0,1,1.0,1.0
+infomax websolutions gmbh,1,1,1.5,1,1.0,1.0
+dr. wiescher und partner,1,1,1.0,0,0.0,1.0
+dkd internet service gmbh,1,1,1.0,0,0.0,1.0
+aStec angewandte Systemtechnik GmbH,1,1,1.0,0,0.0,1.0
+komm.one aör,1,1,1.0,0,0.0,1.0
+doctra gmbh,1,1,1.0,0,0.0,1.0
+dok systeme gmbh,5,1,1.0,0,0.0,0.2
+kogit gmbh,1,1,1.0,0,0.0,1.0
+dr karb gmbh,1,1,1.0,0,0.0,1.0
+solvvision ag,2,1,1.0,0,0.0,0.5
+dr. lippke und dr. wagner gmbh,2,1,1.0,0,0.0,0.5
+dr. nagler & company gmbh,1,1,1.5,0,0.0,1.0
+dresearch digital media systems gmbh,3,1,1.5,0,0.0,0.3333333333333333
+infofabrik gmbh,4,1,1.0,0,0.0,0.25
+keil business solutions gmbh,1,1,1.0,0,0.0,1.0
+e-illusions,1,1,1.0,0,0.0,1.0
+ecsec gmbh,2,1,1.5,0,0.0,0.5
+shc netzwerktechnik gmbh,2,1,1.0,0,0.0,0.5
+cib software gmbh,3,1,1.0,0,0.0,0.3333333333333333
+spacedatists gmbh,1,1,1.5,1,1.0,1.0
+eligo psychologische personalsoftware gmbh,1,1,1.5,0,0.0,1.0
+sandata edv systemhaus gmbh,1,1,1.0,0,0.0,1.0
+essendi it gmbh,2,1,1.0,0,0.0,0.5
+jupitec gmbh,1,1,1.0,1,1.0,1.0
+snoopmedia gmbh,1,1,1.0,0,0.0,1.0
+die software peter fitzon gmbh,1,1,4.0,0,0.0,1.0
+dias gmbh,1,1,1.0,0,0.0,1.0
+leica geosystems technology gmbh,1,1,1.0,0,0.0,1.0
+cassini consulting gmbh,2,1,2.0,0,0.0,0.5
+archibus solution centers germany gmbh,1,1,1.0,0,0.0,1.0
+bizcon ag,1,1,1.5,0,0.0,1.0
+"be shaping the future - performance, transformation, digital gmbh",3,1,1.0,0,0.0,0.3333333333333333
+meco gmbh,1,1,1.0,0,0.0,1.0
+alogo gmbh,4,1,5.0,0,0.0,0.25
+schufa holding ag,1,1,1.0,0,0.0,1.0
+albert schneider gmbh,1,1,1.0,0,0.0,1.0
+compusafe data systems ag,1,1,3.0,0,0.0,1.0
+sdev gmbh,1,1,1.5,0,0.0,1.0
+c-oms gmbh,1,1,1.5,0,0.0,1.0
+akquinet ag,7,1,1.5,0,0.0,0.14285714285714285
+conogy gmbh,1,1,1.0,0,0.0,1.0
+airbus defence and space gmbh,1,1,1.0,0,0.0,1.0
+rheinmetall waffe munition gmbh,1,1,1.0,0,0.0,1.0
+credativ gmbh,1,1,1.0,0,0.0,1.0
+cv cryptovision gmbh,2,1,1.0,0,0.0,0.5
+adobe systems software ireland ltd.,1,1,1.5,0,0.0,1.0
+accantec consulting ag,1,1,1.0,0,0.0,1.0
+decadis ag,1,1,3.5,0,0.0,1.0
+avantum consult gmbh,1,1,1.0,0,0.0,1.0
+expertenpower gmbh,1,1,1.0,0,0.0,1.0
+ezcon network gmbh,3,1,1.0,0,0.0,0.3333333333333333
+Stausberg & Vosding GmbH,2,1,1.5,0,0.0,0.5
+cologne data gmbh,1,1,1.5,0,0.0,1.0
+hauptwegnebenwege gmbh,1,1,1.5,0,0.0,1.0
+teuto.net netzdienste gmbh,1,1,1.0,0,0.0,1.0
+tfi-institut für bodensysteme an der rwth aachen e.v.,1,1,1.0,0,0.0,1.0
+heuser software ag,1,1,1.0,0,0.0,1.0
+interactive tools GmbH,1,1,1.0,1,1.0,1.0
+integrated services gmbh,1,1,1.5,0,0.0,1.0
+hm informatik ag,1,1,2.0,0,0.0,1.0
+IT Professionals AG,4,1,1.5,0,0.0,0.25
+integra gmbh,1,1,1.0,0,0.0,1.0
+the project group informationstechnologie gmbh,1,1,1.0,0,0.0,1.0
+HL komm Telekommunikations GmbH,1,1,1.0,0,0.0,1.0
+hörn software und beratung,1,1,2.5,0,0.0,1.0
+tiffinger & thiel gmbh,1,1,1.5,0,0.0,1.0
+ibykus ag für informationstechnologie,2,1,1.0,0,0.0,0.5
+icss gmbh,1,1,1.0,0,0.0,1.0
+"Fraunhofer-Institut für Optronik, Systemtechnik und Bildauswertung IOSB",2,1,1.5,0,0.0,0.5
+idts information dokumentation technik und soziale systeme,1,1,1.0,0,0.0,1.0
+idv ag,4,1,1.0,0,0.0,0.25
+Excelsior Ges. für Angewandte Computer Systeme mbH,1,1,1.0,0,0.0,1.0
+iges institut gmbh,2,1,1.0,0,0.0,0.5
+indibit gmbh,3,1,1.0,0,0.0,0.3333333333333333
+comcon gmbh,1,1,1.5,0,0.0,1.0
+guc gesellschaft für umweltplanung und computergrafik mbh,1,1,1.0,0,0.0,1.0
+sql projekt ag,3,1,1.0,0,0.0,0.3333333333333333
+grüninger gmbh,1,1,1.0,0,0.0,1.0
+Selectric Nachrichten-Systeme GmbH,1,1,1.0,0,0.0,1.0
+RosCon GmbH,1,1,1.0,0,0.0,1.0
+itz informationstechnologie gmbh,2,1,1.5,1,0.5,0.5
+Proact Deutschland GmbH,2,1,1.0,0,0.0,0.5
+itiso GmbH,1,1,1.5,0,0.0,1.0
+Pinuts media + science Multimedia-Agentur GmbH,3,1,1.0,0,0.0,0.3333333333333333
+fnt gmbh,5,1,1.0,0,0.0,0.2
+Palasthotel Gesellscahft für digitale Pracht mbH,1,1,1.0,0,0.0,1.0
+Optimal Systems GmbH,5,1,1.0,1,0.2,0.2
+it-haus gmbh,1,1,1.0,0,0.0,1.0
+Novatec Consulting GmbH,2,1,1.0,0,0.0,0.5
+isr information products ag,3,1,2.0,0,0.0,0.3333333333333333
+arvato systems digital gmbh,2,1,1.0,0,0.0,0.5
+tacticx consulting gmbh,1,1,1.0,0,0.0,1.0
+gid gmbh,1,1,1.0,1,1.0,1.0
+giscon systems gmbh,1,1,2.5,0,0.0,1.0
+LS telcom AG,1,1,2.5,0,0.0,1.0
+is4it gmbh,6,1,1.5,0,0.0,0.16666666666666666
+governikus gmbh & co. kg,2,1,1.0,0,0.0,0.5
+ted soft gmbh,1,1,1.0,0,0.0,1.0
+greenlight consulting gmbh,3,1,1.0,0,0.0,0.3333333333333333
+docconsult gmbh,1,1,1.0,0,0.0,1.0
+sogeti deutschland gmbh,5,1,1.0,0,0.0,0.2
+set gmbh,1,1,1.0,0,0.0,1.0
+itaricon gmbh,1,1,1.0,0,0.0,1.0
+dv-system-consulting gmbh,1,1,1.0,0,0.0,1.0
+accso gmbh,1,1,1.0,0,0.0,1.0
+acceptit gmbh,4,1,1.0,0,0.0,0.25
+em-software gmbh,2,1,1.0,0,0.0,0.5
+energy4u gmbh,3,1,1.0,0,0.0,0.3333333333333333
+technische universität münchen-wissenschaftszentrum weihenstephan-lehrstuhl für ökologischen landbau und pflanzenbausysteme,1,1,1.0,1,1.0,1.0
+erm gmbh,1,1,1.0,0,0.0,1.0
+frequentis ag,1,1,1.0,0,0.0,1.0
+itroxx gmbh,1,1,1.5,0,0.0,1.0
+fichtner it consulting ag,1,1,1.0,1,1.0,1.0
+achelos gmbh,1,1,1.0,0,0.0,1.0
+fimunis gmbh,2,1,1.0,0,0.0,0.5
+elect it gmbh,2,1,1.0,0,0.0,0.5
+fraunhofer iais,1,1,1.5,0,0.0,1.0
+isarnet ag,1,1,2.5,0,0.0,1.0
+ft consult unternehmensberatung ag,1,1,1.0,0,0.0,1.0
+g&s it consulting gmbh,2,1,3.0,0,0.0,0.5
+gcc grothcompany concepts gmbh,1,1,1.0,0,0.0,1.0
+ips projects gmbh,1,1,1.0,0,0.0,1.0
+thinking objects gmbh,1,1,1.0,0,0.0,1.0
+k2 projektpartner gmbh,1,1,1.5,0,0.0,1.0
+kisters ag,4,1,1.0,0,0.0,0.25
+gesellschaft für innovative personalwirtschaftssysteme (gip) mbh,2,1,1.0,1,0.5,0.5
+datadirect networks gmbh,1,1,1.0,1,1.0,1.0
+arxio gmbh,1,1,1.0,0,0.0,1.0
+speedpoint gmbh,2,1,1.0,0,0.0,0.5
+controlware gmbh kommunikationssysteme,1,1,1.0,0,0.0,1.0
+convista consulting ag,4,1,1.0,0,0.0,0.25
+spot.consulting gmbh (a spot.group company),1,1,1.0,0,0.0,1.0
+cosinex gmbh,4,1,1.5,0,0.0,0.25
+arge syspä k130 c/o atlas elektronik gmbh,1,1,1.0,0,0.0,1.0
+archibus solution centers germany-saarbrücken gmbh,1,1,1.0,0,0.0,1.0
+damovo deutschland gmbh & co. kg,3,1,1.5,0,0.0,0.3333333333333333
+lehmann + partner gmbh,4,1,1.0,0,0.0,0.25
+konsortium trapeze germany gmbh & scheidt & bachmann gmbh,1,1,1.5,0,0.0,1.0
+lbw optimization gmbh,2,1,1.5,1,0.5,0.5
+delta projects gmbh,2,1,3.5,1,0.5,0.5
+königstein beratungsgesellschaft für edv-dienstleistungen mbh,1,1,2.0,0,0.0,1.0
+department x gmbh,1,1,1.0,0,0.0,1.0
+kunert business software gmbh,1,1,1.0,1,1.0,1.0
+sw media gmbh,2,1,1.0,0,0.0,0.5
+dialogika gmbh,2,1,1.5,0,0.0,0.5
+krystone gmbh,1,1,1.0,0,0.0,1.0
+sysback ag,2,1,1.0,0,0.0,0.5
+geomer gmbh,2,1,1.0,0,0.0,0.5
+timetoact gmbh,1,1,1.0,0,0.0,1.0
+interface ag,4,1,1.0,0,0.0,0.25
+ingenieurbüro klaas schlenkermann,1,1,1.0,0,0.0,1.0
+ARGE IP Systems GmbH und Kalinowski Consulting GmbH,1,1,1.0,0,0.0,1.0
+imbus rhein-main gmbh,1,1,1.0,0,0.0,1.0
+imbus rheinland gmbh,4,1,1.0,0,0.0,0.25
+in2code gmbh,3,1,1.0,0,0.0,0.3333333333333333
+infodas gmbh,5,1,2.0,0,0.0,0.2
+infolytics ag,2,1,1.0,0,0.0,0.5
+heavens-above gmbh,1,1,1.5,0,0.0,1.0
+information factory deutschland gmbh,1,1,1.0,0,0.0,1.0
+informedia gmbh,2,1,1.0,0,0.0,0.5
+imp computersysteme ag,1,1,2.5,0,0.0,1.0
+in4md service gmbh,4,1,1.0,0,0.0,0.25
+ingenieurgruppe ivv gmbh & co. kg,4,1,1.0,0,0.0,0.25
+initions ag,2,1,1.5,1,0.5,0.5
+innovas gmbh,22,1,2.0,0,0.0,0.045454545454545456
+image pro gmbh,2,1,1.0,1,0.5,0.5
+verbavoice gmbh,1,1,1.0,0,0.0,1.0
+icraft gmbh,1,1,1.0,0,0.0,1.0
+hucon it-beratung gmbh,1,1,1.0,0,0.0,1.0
+we4it gmbh,1,1,1.5,0,0.0,1.0
+interactive tools gmbh – agentur für digitale medien,1,1,1.0,1,1.0,1.0
+ikor management- und systemberatung gmbh,4,1,1.0,0,0.0,0.25
+junghans datennetztechnik gmbh,1,1,3.0,0,0.0,1.0
+gevas software systementwicklung und verkehrsinformatik gmbh,1,1,1.0,0,0.0,1.0
+informatik dv gmbh,1,1,1.0,0,0.0,1.0
+MORE Holding Gesellschaft für Vertriebs- und Managementberatung mbH,1,1,1.0,1,1.0,1.0
+gfa consulting group gmbh,1,1,2.5,0,0.0,1.0
+gis consult gmbh,4,1,1.5,0,0.0,0.25
+sertronics gmbh,1,1,1.0,0,0.0,1.0
+glamus gesellschaft für moderne kommunikation mbh,1,1,1.5,0,0.0,1.0
+gonicus gmbh,1,1,1.0,0,0.0,1.0
+Fraunhofer-Gesellschaft,1,1,1.0,0,0.0,1.0
+udata gmbh,1,1,1.0,0,0.0,1.0
+halfer it-systeme e. k.,1,1,1.0,1,1.0,1.0
+heavens above gmbh,1,1,1.5,0,0.0,1.0
+universum kommunikation und medien ag,1,1,1.0,0,0.0,1.0
+ultrafast innovations gmbh,1,1,1.0,1,1.0,1.0
+Cosmonauts & Kings GmbH,2,1,1.0,0,0.0,0.5
+unite+ consulting gmbh,1,1,2.0,0,0.0,1.0
+unity ag,3,1,1.0,0,0.0,0.3333333333333333
+hochfrequenz unternehmensberatung gmbh,2,1,1.0,0,0.0,0.5
+Bokowski + Laymann GmbH,1,1,2.0,0,0.0,1.0
+holger gadorosi consulting,1,1,1.0,0,0.0,1.0
+univention gmbh,1,1,1.0,0,0.0,1.0
+ia information systems ag,2,1,1.0,1,0.5,0.5
+consensit gmbh,1,1,1.0,0,0.0,1.0
+living business ag,1,1,1.0,0,0.0,1.0
+comsysto gmbh,1,1,2.0,0,0.0,1.0
+Schönhofer Sales and Engineering GmbH,4,1,1.0,0,0.0,0.25
+pass it-consulting dipl.-inf. g. rienecker gmbh & co. kg,5,1,1.0,0,0.0,0.2
+partner für bürokommunikation eisenacher & motzko gmbh,1,1,1.0,0,0.0,1.0
+dialogika,2,1,1.0,0,0.0,0.5
+Infopark AG,1,1,1.5,0,0.0,1.0
+cbrain a/s,1,1,1.0,0,0.0,1.0
+"digitalklang creating solutions, Inhaber Michael Westermann",1,1,1.0,0,0.0,1.0
+digitas pixelpark gmbh,4,1,1.0,0,0.0,0.25
+panaya gmbh,1,1,1.0,0,0.0,1.0
+Railistics GmbH,1,1,1.0,1,1.0,1.0
+Scisys Deutschland GmbH,2,1,1.5,0,0.0,0.5
+INFODAS Gesellschaft für Systementwicklung und Informationsverarbeitung mbH,4,1,1.0,0,0.0,0.25
+Senacor FCS GmbH,3,1,3.0,0,0.0,0.3333333333333333
+SimpleThings GmbH,2,1,1.5,0,0.0,0.5
+outermedia gmbh,3,1,2.5,1,0.3333333333333333,0.3333333333333333
+]init[ ag,6,1,1.0,0,0.0,0.16666666666666666
+abs team gmbh,7,1,1.5,0,0.0,0.14285714285714285
+"research industrial systems engineering (rise) forschungs-, entwicklungs- und großprojektberatung gmbh",4,1,1.5,1,0.25,0.25
+oia gmbh,1,1,2.5,0,0.0,1.0
+actico gmbh,2,1,1.0,0,0.0,0.5
+advanced unibyte gmbh,5,1,6.5,0,0.0,0.2
+pass system management ag,3,1,1.0,0,0.0,0.3333333333333333
+Hönigsberg & Düvel Datentechnik GmbH,1,1,1.0,0,0.0,1.0
+logiball gmbh,2,1,1.0,0,0.0,0.5
+plenum ag,10,1,1.0,0,0.0,0.1
+craftingit gmbh,1,1,1.0,1,1.0,1.0
+pwc,2,1,1.5,0,0.0,0.5
+conigon gmbh,1,1,1.0,0,0.0,1.0
+Aleri Solutions GmbH,5,1,1.0,0,0.0,0.2
+Avanade Deutschland GmbH,3,1,1.0,0,0.0,0.3333333333333333
+BMC Software Distribution B.V.,3,1,1.0,0,0.0,0.3333333333333333
+Beckmann & Partner Consult GmbH,2,1,2.5,0,0.0,0.5
+con terra,1,1,1.0,0,0.0,1.0
+plus.line ag,1,1,1.5,0,0.0,1.0
+planware beratung & software gmbh,1,1,1.0,0,0.0,1.0
+HiScout GmbH,4,1,1.0,0,0.0,0.25
+collogia it services gmbh,1,1,1.0,0,0.0,1.0
+DATA MART Consulting GmbH,2,1,1.0,0,0.0,0.5
+phat consulting gmbh,1,1,1.0,0,0.0,1.0
+personatec gmbh,1,1,1.5,0,0.0,1.0
+persona grata gmbh,1,1,1.5,0,0.0,1.0
+datenschutz cert gmbh,1,1,2.0,0,0.0,1.0
+HaCon Ingenieurgesellschaft mbH,5,1,1.0,0,0.0,0.2
+HauptwegNebenwege Agentur für Kommunukation GmbH,1,1,1.0,0,0.0,1.0
+Heusch/Boesefeldt GmbH,2,1,1.0,0,0.0,0.5
+adweko consulting gmbh,4,1,1.0,0,0.0,0.25
+rialgo realtime systems gmbh & co. kg,1,1,1.0,0,0.0,1.0
+novasib gmbh,5,1,4.0,1,0.2,0.2
+ernst & young,1,1,1.0,0,0.0,1.0
+beta systems dci software ag,5,1,1.5,0,0.0,0.2
+microstrategy deutschland gmbh,1,1,2.0,0,0.0,1.0
+systemhaus sar gmbh,1,1,2.0,0,0.0,1.0
+michael christian krempler,1,1,1.0,0,0.0,1.0
+bms consulting gmbh,1,1,1.0,0,0.0,1.0
+mentz gmbh,5,1,1.0,0,0.0,0.2
+btc ag,2,1,1.0,0,0.0,0.5
+ibm ix berlin gmbh,2,1,1.0,0,0.0,0.5
+basconsult gmbh,1,1,1.0,0,0.0,1.0
+ccp software gmbh,4,1,1.0,0,0.0,0.25
+röwaplan ag,1,1,2.5,0,0.0,1.0
+b+m informatik ag,1,1,1.0,0,0.0,1.0
+eurofunk Kappacher GmbH Deutschland,3,1,1.0,1,0.3333333333333333,0.3333333333333333
+cjt Systemtechnik AG,1,1,1.0,0,0.0,1.0
+cjt systemsoftware ag,1,1,1.0,0,0.0,1.0
+make studio gmbh,1,1,1.0,1,1.0,1.0
+mainlevel consulting ag,1,1,1.0,0,0.0,1.0
+com software gmbh,1,1,1.5,0,0.0,1.0
+evia solutions gmbh,1,1,1.0,0,0.0,1.0
+comback gmbh,1,1,1.0,1,1.0,1.0
+minax intermedia gmbh & co. kg,1,1,3.0,0,0.0,1.0
+b3 it systeme gmbh,2,1,1.0,0,0.0,0.5
+azri deutschland gmbh,1,1,1.5,0,0.0,1.0
+axxessio gmbh,1,1,1.0,0,0.0,1.0
+akg software consulting gmbh,2,1,1.5,0,0.0,0.5
+nord west business consult gmbh,1,1,1.5,0,0.0,1.0
+alphaBit GmbH,4,1,4.0,0,0.0,0.25
+s&p global market intelligence llc,1,1,1.5,0,0.0,1.0
+anymotion graphics gmbh,1,1,1.0,0,0.0,1.0
+appsfactory gmbh,6,1,1.0,0,0.0,0.16666666666666666
+boc information technologies consulting gmbh,2,1,1.0,0,0.0,0.5
+ft consult unternehmensberatung gmbh,1,1,1.0,0,0.0,1.0
+net at work gmbh,2,1,1.0,0,0.0,0.5
+neam it-services gmbh,1,1,1.0,0,0.0,1.0
+ars computer und consulting gmbh,2,1,6.0,0,0.0,0.5
+arvato systems gmbh,1,1,1.5,1,1.0,1.0
+arxes-tolina GmbH,6,1,1.0,0,0.0,0.16666666666666666
+atg edv-beratung gmbh,1,1,1.0,0,0.0,1.0
+move elevator gmbh,1,1,1.0,0,0.0,1.0
+monday consulting gmbh,3,1,1.0,0,0.0,0.3333333333333333
+mociety consult gmbh,1,1,1.0,0,0.0,1.0
+securitas gmbh mobil,1,1,1.0,0,0.0,1.0
+axway gmbh,1,1,2.0,0,0.0,1.0
+kitconcept gmbh,2,1,1.0,0,0.0,0.5
+esg interop solutions gmbh,2,1,1.5,0,0.0,0.5
+pixelpark gmbh,2,1,1.5,0,0.0,0.5
+noris network ag,2,1,1.5,0,0.0,0.5
+netfox ag,6,1,1.0,0,0.0,0.16666666666666666
+m.o.s.s. computer grafik systeme gmbh,2,1,1.0,1,0.5,0.5
+genua gmbh,1,1,1.0,0,0.0,1.0
+geo net solution gmbh,1,1,1.0,0,0.0,1.0
+lumesse gmbh,1,1,1.0,0,0.0,1.0
+interface projects gmbh,2,1,1.0,0,0.0,0.5
+netfox aktiengesellschaft,1,1,1.5,0,0.0,1.0
+intense ag,2,1,1.0,0,0.0,0.5
+eantc ag,1,1,1.0,0,0.0,1.0
+login consultants germany gmbh,2,1,3.5,0,0.0,0.5
+solcom gmbh,3,1,1.0,0,0.0,0.3333333333333333
+xyzzy.it jürgen bloß,1,1,1.0,0,0.0,1.0
+join gmbh,2,1,1.0,1,0.5,0.5
+mach ag,8,1,1.0,1,0.125,0.125
+digionline gmbh,1,1,1.0,0,0.0,1.0
+opitz consulting deutschland gmbh,10,1,3.0,0,0.0,0.1
+gewi europe gmbh & co. kg,9,1,1.0,0,0.0,0.1111111111111111
+rs group gmbh,1,1,1.0,0,0.0,1.0
+Thönnes Datensysteme GmbH,2,1,1.0,0,0.0,0.5
+kontur networx gmbh,1,1,1.5,0,0.0,1.0
+ferchau engineering gmbh,2,1,2.0,0,0.0,0.5
+orphoz gmbh & co. kg,1,1,1.5,0,0.0,1.0
+sandstein neue medien gmbh,4,1,1.0,0,0.0,0.25
+ernw enno rey netzwerke gmbh,1,1,1.5,0,0.0,1.0
+graphodata ag,1,1,1.0,0,0.0,1.0
+osb ag,1,1,1.0,0,0.0,1.0
+SER Solutions Deutschland GmbH,5,1,1.0,0,0.0,0.2
+publicplan gmbh,5,1,3.0,0,0.0,0.2
+ovsoftware gmbh,1,1,2.5,0,0.0,1.0
+natuvion gmbh,7,1,1.0,0,0.0,0.14285714285714285
+Beta Systems Software AG,2,1,1.0,0,0.0,0.5
+entona gmbh & co. kg,2,1,1.5,0,0.0,0.5
+rds consulting gmbh,4,1,2.0,0,0.0,0.25
+suppliance ag,1,1,1.0,0,0.0,1.0
+mid,2,1,3.0,0,0.0,0.5
+mut consult gmbh,1,1,1.0,0,0.0,1.0
+strange consult gmbh,2,1,1.0,0,0.0,0.5
+u.n.p. – software gmbh,1,1,1.0,0,0.0,1.0
+iss software gmbh,1,1,1.0,0,0.0,1.0
+microstaxx gmbh,1,1,1.0,0,0.0,1.0
+elements of art gmbh,2,1,1.0,0,0.0,0.5
+michael page interim gmbh,1,1,1.0,0,0.0,1.0
+mhp management- und it-beratung gmbh,4,1,1.0,0,0.0,0.25
+dietz automation & umwelttechnik gmbh,1,1,1.0,1,1.0,1.0
+mgm technology partners gmbh,4,1,1.0,0,0.0,0.25
+envinet gmbh,1,1,1.0,0,0.0,1.0
+linkit consulting gmbh,1,1,1.0,0,0.0,1.0
+Orange Business Germany GmbH,1,1,1.0,0,0.0,1.0
+g. muth partners gmbh,1,1,2.5,0,0.0,1.0
+md consulting & informationsdienste gmbh,2,1,1.0,0,0.0,0.5
+r & l ag,1,1,2.0,0,0.0,1.0
+j&s-soft GmbH,3,1,1.0,0,0.0,0.3333333333333333
+sqlxpert gmbh,2,1,1.0,0,0.0,0.5
+marlin consulting ug (haftungsbeschränkt),1,1,1.0,1,1.0,1.0
+technia gmbh,1,1,1.0,0,0.0,1.0
+quattec it-dienstleistungen gmbh,1,1,1.0,0,0.0,1.0
+osc consulting gmbh,1,1,1.0,0,0.0,1.0
+samas gmbh,1,1,1.0,0,0.0,1.0
+schimmelmann consult gmbh,1,1,1.5,0,0.0,1.0
+Gorbit GmbH,1,1,1.0,0,0.0,1.0
+secure service provision gmbh,1,1,1.0,0,0.0,1.0
+windhoff staffing services gmbh,1,1,1.0,0,0.0,1.0
+progressive sthree gmbh,1,1,2.5,0,0.0,1.0
+secuvera gmbh,21,1,1.5,0,0.0,0.047619047619047616
+ctb gmbh,1,1,1.0,0,0.0,1.0
+matrix technology AG,3,1,1.0,0,0.0,0.3333333333333333
+wilken gmbh,4,1,2.0,0,0.0,0.25
+tauw gmbh,1,1,1.0,0,0.0,1.0
+witcom gmbh,1,1,1.5,0,0.0,1.0
+seitenbau,2,1,2.0,0,0.0,0.5
+sekas gmbh,1,1,1.0,0,0.0,1.0
+sirup gmbh,3,1,1.0,1,0.3333333333333333,0.3333333333333333
+pdv-systeme Sachsen GmbH,2,1,1.0,0,0.0,0.5
+health care it solutions gmbh,4,1,1.0,0,0.0,0.25
+ita vero gmbh,1,1,7.5,1,1.0,1.0
+ibo - österreichisches institut für bauen und ökologie gmbh,1,1,1.0,0,0.0,1.0
+it beratung thomas pohl,2,1,1.0,0,0.0,0.5
+isacon ag,2,1,1.0,0,0.0,0.5
+pro video handelsgesellschaft mbh,1,1,1.0,0,0.0,1.0
+technisch-mathematische studiengesellschaft mbh,2,1,1.0,0,0.0,0.5
+irs integrated realization services gmbh,1,1,1.0,0,0.0,1.0
+poet gmbh,1,1,1.0,0,0.0,1.0
+ipm ingenieurbüro peter müller gmbh,1,1,1.0,0,0.0,1.0
+max-planck-institut für radioastronomie (mpifr),1,1,1.0,0,0.0,1.0
+idu it+umwelt gmbh,1,1,1.0,1,1.0,1.0
+processware gmbh,1,1,1.0,0,0.0,1.0
+wonderwerk consulting gmbh,1,1,1.0,0,0.0,1.0
+h&l software gmbh,1,1,1.5,0,0.0,1.0
+x-tention informationstechnologie gmbh,20,1,1.0,0,0.0,0.05
+schweers consult gmbh,1,1,1.0,0,0.0,1.0
+kiwi consulting edv-beratung gmbh,3,1,9.0,0,0.0,0.3333333333333333
+scienitec gmbh,1,1,3.0,0,0.0,1.0
+scionics computer innovation gmbh,1,1,1.5,0,0.0,1.0
+matrix Systems & Consulting GmbH,3,1,1.0,0,0.0,0.3333333333333333
+wms gmbh,2,1,1.0,1,0.5,0.5
+umlaut energy gmbh,2,1,1.0,0,0.0,0.5
+kobil systems gmbh,1,1,1.0,0,0.0,1.0
+webxells gmbh,1,1,1.0,1,1.0,1.0
+wemacom breitband gmbh,2,1,1.0,1,0.5,0.5
+apfelwerk gmbh & co. kg,1,0,,0,0.0,0.0
+cbtc-beratung,1,0,,0,0.0,0.0
+gabler maschinenbau gmbh,1,0,,0,0.0,0.0
+anyline gmbh,1,0,,0,0.0,0.0
+celver,1,0,,0,0.0,0.0
+aon assessment gmbh,1,0,,0,0.0,0.0
+fugro germany land gmbh,1,0,,0,0.0,0.0
+frachtwerk gmbh,1,0,,0,0.0,0.0
+agilizer academy gmbh,1,0,,0,0.0,0.0
+fraunhofer-gesellschaft (für iosb) e.v.,1,0,,0,0.0,0.0
+af data systems gmbh,1,0,,0,0.0,0.0
+fp digital business solutions gmbh,1,0,,0,0.0,0.0
+alida gmbh,1,0,,0,0.0,0.0
+alida de gmbh,1,0,,0,0.0,0.0
+apleona hsg rhein-ruhr gmbh,1,0,,0,0.0,0.0
+alight consulting gmbh,3,0,,0,0.0,0.0
+frahm institut für konfliktdynamik und unternehmensentwicklung gmbh,1,0,,0,0.0,0.0
+aible gmbh,1,0,,0,0.0,0.0
+cross alm gmbh,1,0,,0,0.0,0.0
+akdb - anstalt des öffentlichen rechts,1,0,,0,0.0,0.0
+cdm smith consult gmbh,2,0,,0,0.0,0.0
+cretis service & software gmbh,1,0,,0,0.0,0.0
+"ccnet computer, communication & network gmbh",1,0,,0,0.0,0.0
+csneovias gmbh,1,0,,0,0.0,0.0
+allgeier it services gmbh,1,0,,0,0.0,0.0
+alpha strike labs gmbh,1,0,,0,0.0,0.0
+amazon web services emea sarl,2,0,,0,0.0,0.0
+akryl digital agency,1,0,,0,0.0,0.0
+ampada gmbh,1,0,,0,0.0,0.0
+cpro strategy process & integration gmbh,2,0,,0,0.0,0.0
+ftapi software gmbh,1,0,,0,0.0,0.0
+creditreform bonn trier rossen eberhard gmbh & co.kg,1,0,,0,0.0,0.0
+akquinet nx2 gmbh,1,0,,0,0.0,0.0
+cubeserv,1,0,,0,0.0,0.0
+andrea gehwolf,1,0,,0,0.0,0.0
+fraunhofer-institut für nachrichtentechnik heinrich-hertz-institut (hhi),1,0,,0,0.0,0.0
+dresdner grundwasserforschungszentrum e.v.,1,0,,0,0.0,0.0
+"gabo gesellschaft für ablauforganisation, informationsverarbeitung und kommunikationsorganisation mbh & co. kg",1,0,,0,0.0,0.0
+"geocodis, information systems, ltd.",1,0,,0,0.0,0.0
+coding.powerful.systems. cps gmbh,1,0,,0,0.0,0.0
+Priority Dispatch Corp.,1,0,,0,0.0,0.0
+Rhein-Main-Verkehrsverbund Servicegesellschaft mbH (rms),1,0,,0,0.0,0.0
+coding.powerful.systems cps gmbh,1,0,,0,0.0,0.0
+Schleupen AG,8,0,,0,0.0,0.0
+geos gesellschaft für den einsatz offener systeme mbh,1,0,,0,0.0,0.0
+TA Triumph-Adler Deutschland GmbH,1,0,,0,0.0,0.0
+geva business solutions gmbh,1,0,,0,0.0,0.0
+Teamsware GmbH,2,0,,0,0.0,0.0
+genua,1,0,,0,0.0,0.0
+co2online ggmbh,1,0,,0,0.0,0.0
+VIC CONSULT,2,0,,0,0.0,0.0
+computer manufaktur gmbh,1,0,,0,0.0,0.0
+VOQUZ Digital Experts GmbH,2,0,,0,0.0,0.0
+com peri gmbh,1,0,,0,0.0,0.0
+Pegasystems GmbH,1,0,,0,0.0,0.0
+centric it solutions gmbh,1,0,,0,0.0,0.0
+gina software,1,0,,0,0.0,0.0
+gisa gmh,1,0,,0,0.0,0.0
+Kienbaum Consultants International GmbH,2,0,,0,0.0,0.0
+Lämmerzahl GmbH,2,0,,0,0.0,0.0
+gip s.a.r.l.,2,0,,0,0.0,0.0
+Mercateo Deutschland AG,1,0,,0,0.0,0.0
+gip gmbh,1,0,,0,0.0,0.0
+NConsult IT-Systemhaus GmbH,5,0,,0,0.0,0.0
+gevas software,1,0,,0,0.0,0.0
+complimant ag,1,0,,0,0.0,0.0
+OpenCampus GmbH,2,0,,0,0.0,0.0
+complevo gmbh,1,0,,0,0.0,0.0
+giga infosystems gmbh,1,0,,0,0.0,0.0
+gid geoinformationsdienst gmbh,1,0,,0,0.0,0.0
+comatch gmbh,1,0,,0,0.0,0.0
+cloudferro sp z o.o.,1,0,,0,0.0,0.0
+aac infotray ag,1,0,,0,0.0,0.0
+con_sens consulting für steuerung und soziale entwicklung gmbh,1,0,,0,0.0,0.0
+adesse se,1,0,,0,0.0,0.0
+acolada gmbh,1,0,,0,0.0,0.0
+actago gmbh,1,0,,0,0.0,0.0
+cininet ug (haftungsbeschränkt),1,0,,0,0.0,0.0
+coupa deutschland gmbh,1,0,,0,0.0,0.0
+christian thiemann it-dienstleistungen,1,0,,0,0.0,0.0
+christian fritzsche consulting gmbh,1,0,,0,0.0,0.0
+ceterion ag,1,0,,0,0.0,0.0
+connect - agentur für soziale kommunikation gmbh,1,0,,0,0.0,0.0
+gabriela markert,1,0,,0,0.0,0.0
+advisori ftc gmbh,2,0,,0,0.0,0.0
+aequitas affinity gmbh,1,0,,0,0.0,0.0
+certitude consulting gmbh,1,0,,0,0.0,0.0
+cpc bayer & hardt gbr,1,0,,0,0.0,0.0
+gabriela freitag-ziegler,1,0,,0,0.0,0.0
+gabriele riedel,1,0,,0,0.0,0.0
+cosylab d.d.,1,0,,0,0.0,0.0
+accenture uk limited,1,0,,0,0.0,0.0
+cis computer u. internet,1,0,,0,0.0,0.0
+corporater gmbh,1,0,,0,0.0,0.0
+consulteer gmbh (ehemals: dominic schindler creatiions gmbh),1,0,,0,0.0,0.0
+construktiv gmbh,2,0,,0,0.0,0.0
+accenture technology solutions gmbh,1,0,,0,0.0,0.0
+civillent gmbh,2,0,,0,0.0,0.0
+gbtec software ag,1,0,,0,0.0,0.0
+clemens osterhus gmbh co kg,1,0,,0,0.0,0.0
+accenture services gmbh,1,0,,0,0.0,0.0
+climatecheck sweden ab,1,0,,0,0.0,0.0
+accenture lreland limited,1,0,,0,0.0,0.0
+"accenture gmbh, kronberg im taunus",1,0,,0,0.0,0.0
+accenture ag,1,0,,0,0.0,0.0
+gecko mbh gesellschaft für computer und kommunikationssysteme,1,0,,0,0.0,0.0
+access e.v.,1,0,,0,0.0,0.0
+fimo health gmbh,1,0,,0,0.0,0.0
+fourenergy gmbh,4,0,,0,0.0,0.0
+foryouandyourcustomers münchen gmbh,1,0,,0,0.0,0.0
+e-spirit gmbh,1,0,,0,0.0,0.0
+büro für kommunikation ernährung und gesundheit dr. claudia müller,1,0,,0,0.0,0.0
+e&l medical systems gmbh,1,0,,0,0.0,0.0
+b&it systems gmbh,1,0,,0,0.0,0.0
+business intelligence gmbh,1,0,,0,0.0,0.0
+business intelligence - kompetenzteam,1,0,,0,0.0,0.0
+bundesamt für seeschifffahrt und hydrographie,1,0,,0,0.0,0.0
+dualutions gmbh,1,0,,0,0.0,0.0
+b-connect gesellschaft für multimediale kommunikation mbh,1,0,,0,0.0,0.0
+b-open solutions srl,1,0,,0,0.0,0.0
+bagilstein gmbh,1,0,,0,0.0,0.0
+digitas pixelpark,1,0,,0,0.0,0.0
+baramundi softwarew ag,1,0,,0,0.0,0.0
+basys edv-systeme gmbh,1,0,,0,0.0,0.0
+bba dr. bruns & fetzer unternehmensberatung gmbh,1,0,,0,0.0,0.0
+easy software ag,1,0,,0,0.0,0.0
+b&it solutions-dipl.-kfm. r. m. petri,1,0,,0,0.0,0.0
+digitaleheimat,1,0,,0,0.0,0.0
+egotec ag,1,0,,0,0.0,0.0
+elbformat content solutions gmbh,2,0,,0,0.0,0.0
+elabs ag,1,0,,0,0.0,0.0
+cae gmbh,1,0,,0,0.0,0.0
+audiokollektiv,1,0,,0,0.0,0.0
+auxnet dr. maximilian kalus,1,0,,0,0.0,0.0
+avanade österreich gmbh,1,0,,0,0.0,0.0
+avency gmbh,1,0,,0,0.0,0.0
+ebsco information services gmbh,1,0,,0,0.0,0.0
+egc eurogroup consulting ag,1,0,,0,0.0,0.0
+avi.dat software & technology gmbh,1,0,,0,0.0,0.0
+avs abrechnungs- und verwaltungssysteme gmbh,1,0,,0,0.0,0.0
+cadcom systemhaus gmbh,1,0,,0,0.0,0.0
+ecocenta gmbh,1,0,,0,0.0,0.0
+b&it services gmbh,1,0,,0,0.0,0.0
+dittrich software gmbh,1,0,,0,0.0,0.0
+berndt walz walz,1,0,,0,0.0,0.0
+bettermarks gmbh,2,0,,0,0.0,0.0
+drive gmbh & co. kg,1,0,,0,0.0,0.0
+bitkasten ag,1,0,,0,0.0,0.0
+dsp it service gmbh,1,0,,0,0.0,0.0
+docuteam ag,1,0,,0,0.0,0.0
+blindwerk  - neue medien gmbh,1,0,,0,0.0,0.0
+docyet gmbh,2,0,,0,0.0,0.0
+boc gmbh,1,0,,0,0.0,0.0
+boldon james ltd,1,0,,0,0.0,0.0
+brandmonks gmbh,1,0,,0,0.0,0.0
+boll und partner software gmbh,1,0,,0,0.0,0.0
+bombardier transportation gmbh,1,0,,0,0.0,0.0
+brandenburgische institut für gesellschaft und sicherheit ggmbh,1,0,,0,0.0,0.0
+dreßler ingenieure gmbh & co. kg,1,0,,0,0.0,0.0
+dorothea horn,1,0,,0,0.0,0.0
+bornholdt lee gmbh,2,0,,0,0.0,0.0
+bitcare gmbh,1,0,,0,0.0,0.0
+bit benjamin ehlers it,1,0,,0,0.0,0.0
+bg „terrestransform“ terrestris gmbh & co. kg,1,0,,0,0.0,0.0
+"bietergemeinschaft humanoo, bestehend aus der etherapists gmbh und doris kastl-pogoretschnik",1,0,,0,0.0,0.0
+bietergemeinschaft aus ionos se und orbiter.de dataspace gmbh,1,0,,0,0.0,0.0
+dmk e-business,1,0,,0,0.0,0.0
+bietergemeinschaft die plusbringer gmbh scopeland technoligie gmbh,1,0,,0,0.0,0.0
+dmn solutions gmbh,1,0,,0,0.0,0.0
+bietergemeinschaft ewerk digital gmbh & xitee k.s.,1,0,,0,0.0,0.0
+brunel gmbh,1,0,,0,0.0,0.0
+bredex gmbh,3,0,,0,0.0,0.0
+brandung gmbh,1,0,,0,0.0,0.0
+bietergemeinschaft mobivention gmbh-tqg-ls gmbh,1,0,,0,0.0,0.0
+dsp solutions gmbh & co. kg,1,0,,0,0.0,0.0
+"bige unterstützungsdienstleistung civity, ginkgo",1,0,,0,0.0,0.0
+braun gmbh,1,0,,0,0.0,0.0
+"bige unterstützungsdienstleistung mib, bsl, mobilité, molytix",1,0,,0,0.0,0.0
+bird & bird llp,1,0,,0,0.0,0.0
+dieter nennhuber,1,0,,0,0.0,0.0
+atm computersysteme gmbh,1,0,,0,0.0,0.0
+dierichsweiler unternehmens- und prozessberatung gmbh,3,0,,0,0.0,0.0
+data-quest suchi & berg gmbh,1,0,,0,0.0,0.0
+data technology betriebsberatungs gmbh & co. kg,1,0,,0,0.0,0.0
+firma hsh gmbh,1,0,,0,0.0,0.0
+data-quest gmbh,1,0,,0,0.0,0.0
+dracoon gmbh,1,0,,0,0.0,0.0
+archivinform gmbh,1,0,,0,0.0,0.0
+arf gesellschaft für organisationsentwicklung mbh,1,0,,0,0.0,0.0
+arge bmuv hoffmann & jakobs,1,0,,0,0.0,0.0
+dan it gmbh,1,0,,0,0.0,0.0
+factur billing solutions gmbh,1,0,,0,0.0,0.0
+careX-it,1,0,,0,0.0,0.0
+data2type gmbh,2,0,,0,0.0,0.0
+databay ag,1,0,,0,0.0,0.0
+datatree ag,1,0,,0,0.0,0.0
+dcc data center concept gmbh,1,0,,0,0.0,0.0
+dario radisic,1,0,,0,0.0,0.0
+firma imbus rhein.main gmbh,1,0,,0,0.0,0.0
+experis it services gmbh & co. kg hamburg,1,0,,0,0.0,0.0
+caroline christen,1,0,,0,0.0,0.0
+app@web swe gmbh,1,0,,0,0.0,0.0
+applied security gmbh,2,0,,0,0.0,0.0
+fortis it-services gmbh,1,0,,0,0.0,0.0
+cuegee it gmbh,1,0,,0,0.0,0.0
+cbrain as,1,0,,0,0.0,0.0
+forcont business technology gmbh,1,0,,0,0.0,0.0
+applied technologies gmbh,1,0,,0,0.0,0.0
+first data gmbh,2,0,,0,0.0,0.0
+flying eye managementberatung für medieninvestitionen gmbh,1,0,,0,0.0,0.0
+flow.d gmbh,1,0,,0,0.0,0.0
+dagmar pysik,1,0,,0,0.0,0.0
+araneanet gmbh,1,0,,0,0.0,0.0
+flensburger fahrzeugbau gesellschaft,1,0,,0,0.0,0.0
+fitch solutions ltd.,1,0,,0,0.0,0.0
+experis it services gmbh gmbh & co kg,1,0,,0,0.0,0.0
+deep IT solutions GmbH,1,0,,0,0.0,0.0
+die software objektway group gmbh,1,0,,0,0.0,0.0
+asknet solutions ag,1,0,,0,0.0,0.0
+asconsit gmbh,1,0,,0,0.0,0.0
+candid foundation ggmbh,1,0,,0,0.0,0.0
+esentri ag,1,0,,0,0.0,0.0
+ersatzvertragspartner,1,0,,0,0.0,0.0
+dh healthcare gmbh,1,0,,0,0.0,0.0
+ernährungskommunikation & mehr,1,0,,0,0.0,0.0
+atacama kv software gmbh und co. kg,1,0,,0,0.0,0.0
+devlabor gmbh,1,0,,0,0.0,0.0
+epam systems gmbh,1,0,,0,0.0,0.0
+dicos gmbh kommunikationssysteme,1,0,,0,0.0,0.0
+energienetze bayern gmbh & co. kg,1,0,,0,0.0,0.0
+energielenker projects gmbh,1,0,,0,0.0,0.0
+die plusbringer gmbh,1,0,,0,0.0,0.0
+emtec e.v.,1,0,,0,0.0,0.0
+caplog-x gmbh,1,0,,0,0.0,0.0
+esri,1,0,,0,0.0,0.0
+arge syspä cds f124 c/o thales deutschland gmbh,1,0,,0,0.0,0.0
+deutsche post ag,1,0,,0,0.0,0.0
+experis it services gmbh & co. kg,3,0,,0,0.0,0.0
+delphi imm,1,0,,0,0.0,0.0
+argus data insights deutschland gmbh,1,0,,0,0.0,0.0
+arktis it solutions gmbh,3,0,,0,0.0,0.0
+deudat gmbh,1,0,,0,0.0,0.0
+experis gmbh,1,0,,0,0.0,0.0
+arrabiata solutions gmbh,1,0,,0,0.0,0.0
+etteplan deutschland gmbh,1,0,,0,0.0,0.0
+exela technologies gmbh,2,0,,0,0.0,0.0
+evisco ag,1,0,,0,0.0,0.0
+carbon4 finance,1,0,,0,0.0,0.0
+development gateway,1,0,,0,0.0,0.0
+eve consulting und beteiligungsgesellschaft mbh,1,0,,0,0.0,0.0
+eurofunk kappacher gmbh,1,0,,0,0.0,0.0
+axians neo solutions & technology gmbh,1,0,,0,0.0,0.0
+sanssouci-itsm gmbh,1,0,,0,0.0,0.0
+KKS Kemmler Kopier Systeme GmbH,1,0,,0,0.0,0.0
+ingenieurbüro rinat zeh,1,0,,0,0.0,0.0
+holistic-net gmbh,1,0,,0,0.0,0.0
+hqs quantum simulations gmbh,1,0,,0,0.0,0.0
+hsd gmbh,1,0,,0,0.0,0.0
+huma therapeutics gmbh,1,0,,0,0.0,0.0
+iatros gmbh,1,0,,0,0.0,0.0
+ibykus aktiengesellschaft für informationstechnologie,1,0,,0,0.0,0.0
+iconate gmbh,1,0,,0,0.0,0.0
+idh-consult gmbh,1,0,,0,0.0,0.0
+imc informatik management und consulting gmbh,1,0,,0,0.0,0.0
+immovativ gmbh,1,0,,0,0.0,0.0
+imp gmbh,1,0,,0,0.0,0.0
+infas institut für angewandte sozialwissenschaft gmbh,2,0,,0,0.0,0.0
+ingenieurgruppe ivv gmbh & co kg,1,0,,0,0.0,0.0
+hochschule bonn-rhein-sieg,1,0,,0,0.0,0.0
+initions innovative it solutions ag,1,0,,0,0.0,0.0
+innoloft gmbh,2,0,,0,0.0,0.0
+innoq deutschland,1,0,,0,0.0,0.0
+innosabi gmbh,1,0,,0,0.0,0.0
+insentis gmbh,1,0,,0,0.0,0.0
+integrationworks gmbh,1,0,,0,0.0,0.0
+intellishop ag,1,0,,0,0.0,0.0
+interface systems gmbh,1,0,,0,0.0,0.0
+interlake learning gmbh,1,0,,0,0.0,0.0
+intermodalics,1,0,,0,0.0,0.0
+international institute for applied systems analysis (iiasa),1,0,,0,0.0,0.0
+"intex solutions, inc.",1,0,,0,0.0,0.0
+hochschule niederrhein,1,0,,0,0.0,0.0
+hob gmbh,1,0,,0,0.0,0.0
+mgm security partners gmbh,1,0,,0,0.0,0.0
+group24 ag,2,0,,0,0.0,0.0
+giesecke+devrient mobile security gmbh,12,0,,0,0.0,0.0
+gingco systems gmbh,2,0,,0,0.0,0.0
+global enterprise partners,1,0,,0,0.0,0.0
+gmv gmbh,1,0,,0,0.0,0.0
+gns gesellschaft für nuklear-service mbh,1,0,,0,0.0,0.0
+gopa consultants,1,0,,0,0.0,0.0
+govconnect gmbh,1,0,,0,0.0,0.0
+gp+s consulting gmbh,1,0,,0,0.0,0.0
+gpsoverip gmbh,1,0,,0,0.0,0.0
+greendelta gmbh (los 2 u. 3),1,0,,0,0.0,0.0
+greenfiber netz & management gmbh,2,0,,0,0.0,0.0
+groundkeeper ug,1,0,,0,0.0,0.0
+growth academy gmbh,1,0,,0,0.0,0.0
+herzog kommunikation gmbh,1,0,,0,0.0,0.0
+hamburgnet,1,0,,0,0.0,0.0
+hays ag und ein weiterer bieter (s. vi.3)),1,0,,0,0.0,0.0
+hays professional solutions gmbh,3,0,,0,0.0,0.0
+hays professional solutions gmbh und ein weiterer bieter (s. unten „vi. weitere angaben“),1,0,,0,0.0,0.0
+hbits cv,1,0,,0,0.0,0.0
+hdnet gmbh & co. kg,1,0,,0,0.0,0.0
+healy hudson gmbh,1,0,,0,0.0,0.0
+heibel it-solutions-christian heibel,1,0,,0,0.0,0.0
+heldele gmbh,1,0,,0,0.0,0.0
+helmholtz-zentrum für umweltforschung gmbh - ufz,1,0,,0,0.0,0.0
+hemminger ingenieurbüro gmbh & co. kg,1,0,,0,0.0,0.0
+heringer consulting gmbh,1,0,,0,0.0,0.0
+intralinks gmbh,1,0,,0,0.0,0.0
+iqul gmbh,5,0,,0,0.0,0.0
+isacon - innovative software applications and consulting ag,9,0,,0,0.0,0.0
+länderinstitut für bienenkunde hohen neuendorf e.v.,1,0,,0,0.0,0.0
+lan1 hotspots gmbh,1,0,,0,0.0,0.0
+latschbacher gmbh,1,0,,0,0.0,0.0
+laurentiu ilici,1,0,,0,0.0,0.0
+lause gmbh,1,0,,0,0.0,0.0
+lead consult ltd.,1,0,,0,0.0,0.0
+levi ray & shoup inc. deutschland,1,0,,0,0.0,0.0
+liquid democracy e. v.,1,0,,0,0.0,0.0
+liquid impressions kg,1,0,,0,0.0,0.0
+lise gmbh,2,0,,0,0.0,0.0
+loreberry ug (haftungsbeschränkt),1,0,,0,0.0,0.0
+loy & hutz solutions gmbh,3,0,,0,0.0,0.0
+lumesse gmbh (eine gesellschaft von cornerstone ondemand),13,0,,0,0.0,0.0
+maconia gmbh,1,0,,0,0.0,0.0
+isc innovative systems consulting ag,1,0,,0,0.0,0.0
+maibornwolff gmbh,1,0,,0,0.0,0.0
+marco bungalski gmbh,1,0,,0,0.0,0.0
+marcus schneider – treffbesteck,1,0,,0,0.0,0.0
+markusdreesen.de,1,0,,0,0.0,0.0
+martin heigermoser - it consulting,1,0,,0,0.0,0.0
+medeora gmbh,1,0,,0,0.0,0.0
+mediakom gmbh & co.kg,1,0,,0,0.0,0.0
+medienwerft agentur für digitale medien und kommunikation gmbh,1,0,,0,0.0,0.0
+meetyoo conferencing gmbh,1,0,,0,0.0,0.0
+mekmedia,1,0,,0,0.0,0.0
+mentiq gmbh,1,0,,0,0.0,0.0
+metromorph softworks gmbh,1,0,,0,0.0,0.0
+lamping & reisig gmbh & co. kg,1,0,,0,0.0,0.0
+labor3,1,0,,0,0.0,0.0
+kst moschkau gmbh,1,0,,0,0.0,0.0
+krongaard ag,2,0,,0,0.0,0.0
+isonet ag,1,0,,0,0.0,0.0
+it beratung adam gruszecki,1,0,,0,0.0,0.0
+itcg ag,1,0,,0,0.0,0.0
+iteracon gmbh,1,0,,0,0.0,0.0
+itsense ag,2,0,,0,0.0,0.0
+itwatch gmbh,2,0,,0,0.0,0.0
+ivpnetworks gmbh,1,0,,0,0.0,0.0
+jentgens it-services,1,0,,0,0.0,0.0
+jmfreeman it-services,1,0,,0,0.0,0.0
+jochen blöcher gmbh,2,0,,0,0.0,0.0
+jouve sas,1,0,,0,0.0,0.0
+junker edv-service,1,0,,0,0.0,0.0
+jürgen staub dienstleistungen,1,0,,0,0.0,0.0
+kairos gmbh,1,0,,0,0.0,0.0
+kieback & peter gmbh & co. kg,1,0,,0,0.0,0.0
+kippdata informationstechnologie gmbh,1,0,,0,0.0,0.0
+klima-bündnis der europäischen städte mit indigenen völkern der regenwälder | alianza del clima e. v.,1,0,,0,0.0,0.0
+kommIT Gesellschaft für Informationstechnik mbH,2,0,,0,0.0,0.0
+konntec sicherheitstechnik gmbh,1,0,,0,0.0,0.0
+konsortium beteiligungsportal base (i.v.teambits gmbh),1,0,,0,0.0,0.0
+konsortium fa füwes f122/123 thales deutschland gmbh,1,0,,0,0.0,0.0
+konsultit,1,0,,0,0.0,0.0
+konzentrik gmbh,1,0,,0,0.0,0.0
+kopfarbyte ug,1,0,,0,0.0,0.0
+kreutz & partner gmbh,1,0,,0,0.0,0.0
+gestalt robotics gmbh,1,0,,0,0.0,0.0
+gesis mbh,1,0,,0,0.0,0.0
+gesellschaft für wissenschaftliche datenverarbeitung mbh göttingen (gwdg),1,0,,0,0.0,0.0
+drag and bot gmbh,1,0,,0,0.0,0.0
+diverse,1,0,,0,0.0,0.0
+dmk e-business gmbh,1,0,,0,0.0,0.0
+dmkzwo gmbh & co. kg,1,0,,0,0.0,0.0
+docforce - peer heineken,1,0,,0,0.0,0.0
+doctolib gmbh,10,0,,0,0.0,0.0
+doozer real estate systems gmbh,1,0,,0,0.0,0.0
+dr. fochler & company gmbh,1,0,,0,0.0,0.0
+dr. fuchs senior advisors gmbh,1,0,,0,0.0,0.0
+dr. pape & co. consulting gmbh,1,0,,0,0.0,0.0
+dr. sasse ag,1,0,,0,0.0,0.0
+dr. seidel consulting e. k,1,0,,0,0.0,0.0
+dr. seidel consulting e.k.,1,0,,0,0.0,0.0
+drees & sommer projektmanagement und bautechnische beratung gmbh,1,0,,0,0.0,0.0
+ecospeed deutschland gmbh,1,0,,0,0.0,0.0
+drees & sommer se,2,0,,0,0.0,0.0
+dreistrom.land ag,2,0,,0,0.0,0.0
+drescher consulting gmbh,1,0,,0,0.0,0.0
+ds-networks gmbh,1,0,,0,0.0,0.0
+dsa thomas volgmann,1,0,,0,0.0,0.0
+dsb-protect gmbh,1,0,,0,0.0,0.0
+dxc technology entservdeutschland gmbh,1,0,,0,0.0,0.0
+dynacon gmbh,1,0,,0,0.0,0.0
+e-pixler new media gmbh,3,0,,0,0.0,0.0
+easy software deutschland gmbh,1,0,,0,0.0,0.0
+easymile,1,0,,0,0.0,0.0
+ebf-edv beratung föllmer gmbh,1,0,,0,0.0,0.0
+dittel architekten gmbh,1,0,,0,0.0,0.0
+dipf | leibniz-institut für bildungsforschung und bildungsinformation,1,0,,0,0.0,0.0
+dimensional GmbH,1,0,,0,0.0,0.0
+dignum gmbh,1,0,,0,0.0,0.0
+cts eventim ag & co. kgaa,1,0,,0,0.0,0.0
+culturetainment gmbhh,1,0,,0,0.0,0.0
+cyberbotics,1,0,,0,0.0,0.0
+cybertronixx gmbh,1,0,,0,0.0,0.0
+d-mind gmbh,1,0,,0,0.0,0.0
+d-trust gmbh,2,0,,0,0.0,0.0
+d.velop public sector GmbH,12,0,,0,0.0,0.0
+d.velop public sector gmbh und d.velop ag,1,0,,0,0.0,0.0
+daa deutsche angestellten-akademie gmbh,1,0,,0,0.0,0.0
+dacoso data communication solutions gmbh,1,0,,0,0.0,0.0
+dagdasolutions gmbh & co. kg,1,0,,0,0.0,0.0
+dainox gmbh,1,0,,0,0.0,0.0
+danninger engineering,1,0,,0,0.0,0.0
+data modul ag,1,0,,0,0.0,0.0
+dataart gmbh,1,0,,0,0.0,0.0
+dataconsult-informatik gmbh,1,0,,0,0.0,0.0
+datagif,1,0,,0,0.0,0.0
+datahow,1,0,,0,0.0,0.0
+datanet gmbh,1,0,,0,0.0,0.0
+daviko gmbh,1,0,,0,0.0,0.0
+dcso deutsche cyber-sicherheitsorganisation gmbh,1,0,,0,0.0,0.0
+decaf gmbh & co. kg,1,0,,0,0.0,0.0
+delta controls germany gmbh,1,0,,0,0.0,0.0
+die steg - stadtentwicklung gmbh,1,0,,0,0.0,0.0
+diese angabe wird aufgrund § 39 abs. 6 nr. 1 vgv geheim gehalten,1,0,,0,0.0,0.0
+ebner stolz gmbh & co. kg,1,0,,0,0.0,0.0
+edag engineering gmbh,1,0,,0,0.0,0.0
+gesellschaft für akademische studienvorbereitung und testentwicklung e. v.,1,0,,0,0.0,0.0
+fraunhofer fkie,1,0,,0,0.0,0.0
+fastahead gmbh & co. kg,1,0,,0,0.0,0.0
+ferchau gmbh nl hannover,1,0,,0,0.0,0.0
+fidatis gmbh,1,0,,0,0.0,0.0
+finanz informatik gmbh & co. kg,1,0,,0,0.0,0.0
+fintus gmbh,1,0,,0,0.0,0.0
+fis-asp application service providing und it-outsourcing gmbh,2,0,,0,0.0,0.0
+flyer kommunikationsgesellschaft mbh,1,0,,0,0.0,0.0
+fork unstable media gmbh,1,0,,0,0.0,0.0
+forrs partners gmbh,1,0,,0,0.0,0.0
+forschungszentrum jülich gmbh,1,0,,0,0.0,0.0
+fourtexx gmbh,1,0,,0,0.0,0.0
+frankfurt economics ag,1,0,,0,0.0,0.0
+fraunhofer-gesellschaft e.v. für das fraunhofer-institut für angewandte und integrierte sicherheit,1,0,,0,0.0,0.0
+edv-beratung nüssler gmbh,1,0,,0,0.0,0.0
+fraunhofer-institut für angewandte und integrierte sicherheit (aisec) der frauenhofer-gesellschaft zur förderung der angewandten forschung e.v.,1,0,,0,0.0,0.0
+fraunhofer-institut für offene kommunikationssysteme,2,0,,0,0.0,0.0
+fraunhofer-institut für verkehrs- und infrastruktursysteme (ivi),1,0,,0,0.0,0.0
+freihafen it gmbh,1,0,,0,0.0,0.0
+"freistaat bayern, vertreten durch das landesamt für digitalisierung, breitband und vermessung",1,0,,0,0.0,0.0
+frequentis deutschland gmbh,4,0,,0,0.0,0.0
+"funk, zander & partner",1,0,,0,0.0,0.0
+gahrens + battermann gmbh & co. kg,1,0,,0,0.0,0.0
+gastro-mis gmbh,1,0,,0,0.0,0.0
+genius technologie & management consulting gmbh,1,0,,0,0.0,0.0
+geodok gmbh,4,0,,0,0.0,0.0
+geomobile gmbh,2,0,,0,0.0,0.0
+fas ag,1,0,,0,0.0,0.0
+fairnetz gmbh,1,0,,0,0.0,0.0
+facility consultants gmbh,1,0,,0,0.0,0.0
+fa. one logic gmbh,1,0,,0,0.0,0.0
+ehealth.business gmbh,2,0,,0,0.0,0.0
+eins energie in sachsen gmbh & co. kg,1,0,,0,0.0,0.0
+eitco gmbh,1,0,,0,0.0,0.0
+elsevier b.v.,2,0,,0,0.0,0.0
+emagine gmbh,1,0,,0,0.0,0.0
+emc hostco gmbh,1,0,,0,0.0,0.0
+empirica ag - zweigniederlassung bonn,1,0,,0,0.0,0.0
+enovation solutions ltd,1,0,,0,0.0,0.0
+eos.uptrade gmbh,1,0,,0,0.0,0.0
+ernst & young real estate gmbh,1,0,,0,0.0,0.0
+esc,1,0,,0,0.0,0.0
+"esri deutschland gmbh, nl köln",2,0,,0,0.0,0.0
+etc solutions gmbh,1,0,,0,0.0,0.0
+etil research group bv,4,0,,0,0.0,0.0
+eurokey software gmbh,1,0,,0,0.0,0.0
+european center for digital transformation,1,0,,0,0.0,0.0
+evia innovation gmbh,1,0,,0,0.0,0.0
+evocortex gmbh,1,0,,0,0.0,0.0
+evoila gmbh,3,0,,0,0.0,0.0
+evolving systems consulting gmbh,1,0,,0,0.0,0.0
+exela technologies ecm solution gmb,1,0,,0,0.0,0.0
+"exlibris (deutschland) gmbh, tasköprüstraße 1",1,0,,0,0.0,0.0
+experis it service gmbh & co. kg,1,0,,0,0.0,0.0
+expleo technology germany gmbh,3,0,,0,0.0,0.0
+exxeta ag,7,0,,0,0.0,0.0
+mettenmeier gmbh,2,0,,0,0.0,0.0
+michael wessel informationstechnologie gmbh,1,0,,0,0.0,0.0
+K&P Computer Service- und Vertriebs-GmbH,2,0,,0,0.0,0.0
+triga it-solutions gmbh,1,0,,0,0.0,0.0
+the quality group gmbh,1,0,,0,0.0,0.0
+thinkproject conclude gmbh,1,0,,0,0.0,0.0
+thüringer netkom,2,0,,0,0.0,0.0
+tim-it gmbh,1,0,,0,0.0,0.0
+tipco treasury & technology gmbh,1,0,,0,0.0,0.0
+tiplu gmbh,2,0,,0,0.0,0.0
+tonwelt gmbh,1,0,,0,0.0,0.0
+toolify robotics gmbh,1,0,,0,0.0,0.0
+traffic consultants gmbh,2,0,,0,0.0,0.0
+traffic print · online · solutions gmbh,1,0,,0,0.0,0.0
+trafi gmbh,1,0,,0,0.0,0.0
+tre altamira s.l.u.,1,0,,0,0.0,0.0
+trio-group i.am communication & marketing gmbh,1,0,,0,0.0,0.0
+tgc - true global communications gmbh,1,0,,0,0.0,0.0
+triple a consulting gmbh&cokg,1,0,,0,0.0,0.0
+triplesense reply gmbh,1,0,,0,0.0,0.0
+tts cs gmbh,1,0,,0,0.0,0.0
+twitter inc.,1,0,,0,0.0,0.0
+töchter & söhne gesellschaft für digitale helfer mbh,1,0,,0,0.0,0.0
+u. n. p. software gmbh,1,0,,0,0.0,0.0
+ubitec gmbh,1,0,,0,0.0,0.0
+unicepta gmbh,2,0,,0,0.0,0.0
+unify cac gmbh & co kg,1,0,,0,0.0,0.0
+unovis gmbh,1,0,,0,0.0,0.0
+unternehmensberatung dr. karb gmbh,1,0,,0,0.0,0.0
+unternehmensberatung h&d,1,0,,0,0.0,0.0
+the advisory house gmbh,1,0,,0,0.0,0.0
+telkodata gmbh,1,0,,0,0.0,0.0
+milch & zucker - talent acquisition & talent management company ag,1,0,,0,0.0,0.0
+stadt münster – rechenzentrum citeq,1,0,,0,0.0,0.0
+sinus nachrichtentechnik gmbh,1,0,,0,0.0,0.0
+slidepresenter gmbh,1,0,,0,0.0,0.0
+smateso - smart team solutions (inh.: k. bittner),1,0,,0,0.0,0.0
+softed systems gmbh,2,0,,0,0.0,0.0
+softline solutions gmbh,1,0,,0,0.0,0.0
+soorce gmbh,2,0,,0,0.0,0.0
+sp studio present gmbh,2,0,,0,0.0,0.0
+spheos gmbh,1,0,,0,0.0,0.0
+sphera solutions gmbh (los 1),1,0,,0,0.0,0.0
+spirit / 21 gmbh,1,0,,0,0.0,0.0
+sps informationstechnologie gmbh,1,0,,0,0.0,0.0
+ssp beratende ingenieure,1,0,,0,0.0,0.0
+steinbeiszentren für unternehmensentwiicklung an der hochschule pforzheim,1,0,,0,0.0,0.0
+tele columbus vertriebs gmbh,1,0,,0,0.0,0.0
+suse software solutions ireland ltd,2,0,,0,0.0,0.0
+syborg informationssysteme beschränkt haftende ohg,2,0,,0,0.0,0.0
+sycor gmbh,1,0,,0,0.0,0.0
+syncsort gmbh,1,0,,0,0.0,0.0
+sys4 Aktiengesellschaft,1,0,,0,0.0,0.0
+syss gmbh,2,0,,0,0.0,0.0
+taikonauten gmbh & co. kg,1,0,,0,0.0,0.0
+talentsoft sa,1,0,,0,0.0,0.0
+tci transformation consulting international gmbh,1,0,,0,0.0,0.0
+technologieberatung helge haug,1,0,,0,0.0,0.0
+technoteam informationssysteme gmbh,1,0,,0,0.0,0.0
+telba ag,1,0,,0,0.0,0.0
+usd ag,3,0,,0,0.0,0.0
+usercentrics gmbh,1,0,,0,0.0,0.0
+usu solutions gmbh,1,0,,0,0.0,0.0
+B&S Automatisierungssysteme Erfurt GmbH,1,0,,0,0.0,0.0
+xclinical gmbh,1,0,,0,0.0,0.0
+xelevate ab,1,0,,0,0.0,0.0
+xpert con gmbh,1,0,,0,0.0,0.0
+zafaco gmbh,1,0,,0,0.0,0.0
+zweckverband kdo,1,0,,0,0.0,0.0
+1spatial,1,0,,0,0.0,0.0
+4fb gmbh,1,0,,0,0.0,0.0
+5dscan worldwide gmbh,1,0,,0,0.0,0.0
+AJ Blomesystem GmbH,1,0,,0,0.0,0.0
+ATOSS Software AG,2,0,,0,0.0,0.0
+AfB gGmbH,1,0,,0,0.0,0.0
+Aware 7 GmbH,2,0,,0,0.0,0.0
+BASIS 1 Softwarevertriebs GmbH,3,0,,0,0.0,0.0
+usu technologies gmbh,1,0,,0,0.0,0.0
+Beak Consultants GmbH,2,0,,0,0.0,0.0
+Bietergemeinschaft Bechtle,1,0,,0,0.0,0.0
+Calcon Deutschland GmbH,2,0,,0,0.0,0.0
+Canon Business Center Dresden GmbH,2,0,,0,0.0,0.0
+Comline AG,17,0,,0,0.0,0.0
+European Dynamics Luxembourg SA,2,0,,0,0.0,0.0
+GI Geoinformatik GmbH,1,0,,0,0.0,0.0
+Goeke GmbH,1,0,,0,0.0,0.0
+HMM Deutschland GmbH,1,0,,0,0.0,0.0
+ITC GmbH Gesellschaft für Netzwerkmanagement und Systemintegration mbH,1,0,,0,0.0,0.0
+ITSO IT Service Omnikron GmbH,1,0,,0,0.0,0.0
+Ingenieurbüro Kling,1,0,,0,0.0,0.0
+x-nrw gmbh,2,0,,0,0.0,0.0
+wun h2 gmbh,1,0,,0,0.0,0.0
+wisutec als zweigniederlassung der g.e.o.s. ingenieurgesellschaft mbh,1,0,,0,0.0,0.0
+wipro technologies gmbh,2,0,,0,0.0,0.0
+veha gbr,1,0,,0,0.0,0.0
+vgk24,1,0,,0,0.0,0.0
+viality ag,1,0,,0,0.0,0.0
+viatos gmbh,1,0,,0,0.0,0.0
+vico research & consulting,1,0,,0,0.0,0.0
+visualon gmbh,1,0,,0,0.0,0.0
+vital.services gmbh,4,0,,0,0.0,0.0
+volker krause,1,0,,0,0.0,0.0
+voquz group,1,0,,0,0.0,0.0
+voquz it solutions,1,0,,0,0.0,0.0
+w3 digital brands gmbh,1,0,,0,0.0,0.0
+wbs-it gmbh,1,0,,0,0.0,0.0
+wdv gesellschaft für medien & kommunikation mbh & co. ohg,1,0,,0,0.0,0.0
+wegesrand gmbh & co. kg,3,0,,0,0.0,0.0
+weinz & feser business integration partner gbr,1,0,,0,0.0,0.0
+weissenberg business consulting gmbh,1,0,,0,0.0,0.0
+weka medien gmbh & co. kg,1,0,,0,0.0,0.0
+weltner consulting & it services,1,0,,0,0.0,0.0
+werkraum digitalmanufaktur gmbh,1,0,,0,0.0,0.0
+westhouse consulting gmbh,4,0,,0,0.0,0.0
+wetransform gmbh,1,0,,0,0.0,0.0
+wg systems e. k.,1,0,,0,0.0,0.0
+wheregroup gmbh,2,0,,0,0.0,0.0
+white rabbit security gmbh,1,0,,0,0.0,0.0
+wicontec gmbh,1,0,,0,0.0,0.0
+siemens ag niederlassung saarbrücken,1,0,,0,0.0,0.0
+sieger consulting gmbh,1,0,,0,0.0,0.0
+sidion,1,0,,0,0.0,0.0
+pass it-consulting dipl. inf. g. rienecker gmbh & co. kg,1,0,,0,0.0,0.0
+nttcable deutschland gmbh,1,0,,0,0.0,0.0
+nws alarmservice gmbh,3,0,,0,0.0,0.0
+off limits it services gmbh,1,0,,0,0.0,0.0
+omnimago gmbh,1,0,,0,0.0,0.0
+one bussines technologie gmbh,1,0,,0,0.0,0.0
+ontron GmbH,4,0,,0,0.0,0.0
+orbit ges. f. applikations- u. informationssysteme mbh,1,0,,0,0.0,0.0
+orsoft gmbh,1,0,,0,0.0,0.0
+p&i personal und informatik ag,1,0,,0,0.0,0.0
+p+m business solutions gmbh,1,0,,0,0.0,0.0
+p-didakt gmbh,1,0,,0,0.0,0.0
+p3 digital service gmbh,1,0,,0,0.0,0.0
+pat adams & company gmbh,1,0,,0,0.0,0.0
+porsche consulting gmbh,1,0,,0,0.0,0.0
+paul scherrer institut (psi),1,0,,0,0.0,0.0
+pc-plus training & service gmbh,1,0,,0,0.0,0.0
+peak performance apps gmbh,1,0,,0,0.0,0.0
+peb breitband gmbh & co. kg,1,0,,0,0.0,0.0
+percomp-verlag gmbh,1,0,,0,0.0,0.0
+philips gmbh market dach,7,0,,0,0.0,0.0
+"philips gmbh market dach, health systems",2,0,,0,0.0,0.0
+pickit,1,0,,0,0.0,0.0
+pit - cup gmbh,2,0,,0,0.0,0.0
+pixelpoint multimedia werbe gmbh,1,0,,0,0.0,0.0
+planorg health services gmbh,2,0,,0,0.0,0.0
+playful solution,1,0,,0,0.0,0.0
+norcom information technology gmbh & co.kgaa,1,0,,0,0.0,0.0
+nexenio gmbh,1,0,,0,0.0,0.0
+new communication gmbh,1,0,,0,0.0,0.0
+neveling reply gmbh,1,0,,0,0.0,0.0
+"ml consulting schulung, service & support gnmbh",2,0,,0,0.0,0.0
+mm-lab gmbh,1,0,,0,0.0,0.0
+mmi munich media intelligence gmbh,1,0,,0,0.0,0.0
+mogic gmbh,1,0,,0,0.0,0.0
+movisco ag,1,0,,0,0.0,0.0
+mps public solutions gmbh,1,0,,0,0.0,0.0
+mtg ag,2,0,,0,0.0,0.0
+mtg marinetechnik gmbh,1,0,,0,0.0,0.0
+musarubra ireland ltd,1,0,,0,0.0,0.0
+mvst gmbh,1,0,,0,0.0,0.0
+nagarro es,1,0,,0,0.0,0.0
+nagravision sa kudelski security,1,0,,0,0.0,0.0
+ncp engineering gmbh,1,0,,0,0.0,0.0
+neccton gmbh,1,0,,0,0.0,0.0
+neocosmo gmbh,2,0,,0,0.0,0.0
+net services gmbh & co. kg,1,0,,0,0.0,0.0
+netcologne it services gmbh,1,0,,0,0.0,0.0
+netmedianer gmbh,1,0,,0,0.0,0.0
+netplans gmbh,1,0,,0,0.0,0.0
+nettrek gmbh & co. kg,1,0,,0,0.0,0.0
+netunite,1,0,,0,0.0,0.0
+netzvitamine gmbh,1,0,,0,0.0,0.0
+neurocat gmbh,1,0,,0,0.0,0.0
+neusta destination solutions gmbh / evocount gmbh,1,0,,0,0.0,0.0
+neusta portal services gmbh,1,0,,0,0.0,0.0
+pmg presse-monitor gmbh,1,0,,0,0.0,0.0
+pressrelations,1,0,,0,0.0,0.0
+side by site gmbh co. kg,1,0,,0,0.0,0.0
+saskia® informations-systeme gmbh,1,0,,0,0.0,0.0
+rst hansa gmbh,1,0,,0,0.0,0.0
+rödl rechtsanwaltsgesellschaft steuerberatungsgesellschaft mbh,1,0,,0,0.0,0.0
+rücker + schindele beratende ingenieure gmbh,4,0,,0,0.0,0.0
+"s 3 schwartz & partner, beratende betriebs- und volkswirte, partnerschaftsgesellschaft",1,0,,0,0.0,0.0
+s.c. codemart s.r.l.,1,0,,0,0.0,0.0
+sah software allianz hamburg gmbh,2,0,,0,0.0,0.0
+saint elmo´s tourismusmarketing gmbh,1,0,,0,0.0,0.0
+sal.a it service gmbh,1,0,,0,0.0,0.0
+sal.a it services gmbh,2,0,,0,0.0,0.0
+sam consulting gmbh,1,0,,0,0.0,0.0
+sandata edv-systemhaus gmbh,1,0,,0,0.0,0.0
+sapient gmbh,1,0,,0,0.0,0.0
+satin solutions gmbh,1,0,,0,0.0,0.0
+price systems deutschland gmbh,1,0,,0,0.0,0.0
+scholz & friends,1,0,,0,0.0,0.0
+scholz & volkmer gmbh,1,0,,0,0.0,0.0
+schöllkopf netzwerktechnik e.k,1,0,,0,0.0,0.0
+scompler technologies gmbh,11,0,,0,0.0,0.0
+secoptena gmbh,1,0,,0,0.0,0.0
+seculonia gmbh,1,0,,0,0.0,0.0
+seibert media gmbh,1,0,,0,0.0,0.0
+senacor technologies ag,1,0,,0,0.0,0.0
+servator consulting gmbh,1,0,,0,0.0,0.0
+serview gmbh,1,0,,0,0.0,0.0
+servtec gmbh,1,0,,0,0.0,0.0
+shapefruit ag,1,0,,0,0.0,0.0
+robert half deutschland gmbh & co. kg und zwei weitere bieter (s. unten „vi. weitere angaben“),1,0,,0,0.0,0.0
+robert half deutschland gmbh & co. kg,1,0,,0,0.0,0.0
+rising systems ag,1,0,,0,0.0,0.0
+rib ims gmbh,1,0,,0,0.0,0.0
+profirator oy,1,0,,0,0.0,0.0
+projective expert group gmbh,1,0,,0,0.0,0.0
+prologa gmbh,1,0,,0,0.0,0.0
+promegis gesellschaft für geoinformationssysteme mbh,1,0,,0,0.0,0.0
+prosozial gmbh,2,0,,0,0.0,0.0
+protiviti gmbh,4,0,,0,0.0,0.0
+provectus technologies gmbh,1,0,,0,0.0,0.0
+psi software ag,2,0,,0,0.0,0.0
+pt. deggan technowave,1,0,,0,0.0,0.0
+pukit,1,0,,0,0.0,0.0
+q-portal gmbh,1,0,,0,0.0,0.0
+q.stage gmbh,1,0,,0,0.0,0.0
+q_perior,1,0,,0,0.0,0.0
+qgroup gmbh,3,0,,0,0.0,0.0
+queo gmbh,4,0,,0,0.0,0.0
+qvest gmbh,3,0,,0,0.0,0.0
+qvest media gmbh,1,0,,0,0.0,0.0
+rabb computer systemhaus gmbh,1,0,,0,0.0,0.0
+raufeld medien,1,0,,0,0.0,0.0
+realizing progress gmbh & co. kg,1,0,,0,0.0,0.0
+red commerce gmbh,4,0,,0,0.0,0.0
+reymann beratung und software gmbh,1,0,,0,0.0,0.0
+rezeptprüfstelle duderstadt gmbh,11,0,,0,0.0,0.0
+rf-computer gmbh & co. kg,1,0,,0,0.0,0.0
+rhöncloud gmbh,1,0,,0,0.0,0.0
+giscon geo.engineering gmbh,1,0,,0,0.0,0.0
+1&1 versatel deutschland gmbh,15,0,,0,0.0,0.0
+giscon middle east w.l.l,1,0,,0,0.0,0.0
+hydron ingenieurgesellschaft für umwelt und wasserwirtschaft mbh,1,0,,0,0.0,0.0
+heigit ggmbh,1,0,,0,0.0,0.0
+heinlein hosting gmbh,1,0,,0,0.0,0.0
+helpline,1,0,,0,0.0,0.0
+hensoldt analytics gmbh,1,0,,0,0.0,0.0
+heyder+partner gesellschaft für kommunalberatung mh,1,0,,0,0.0,0.0
+hitachi solutions germany gmbh,1,0,,0,0.0,0.0
+hmp software solutions gmbh,1,0,,0,0.0,0.0
+hmp solutions gmbh,1,0,,0,0.0,0.0
+hoffbauer ag,1,0,,0,0.0,0.0
+honeywell building solution gmbh,1,0,,0,0.0,0.0
+hsag heidelberger services ag,1,0,,0,0.0,0.0
+hubert r. schübel - consultoria wissenschafts- und unternehmensberatung,1,0,,0,0.0,0.0
+iKomm GmbH,1,0,,0,0.0,0.0
+hdp management consulting gmbh,1,0,,0,0.0,0.0
+iav gmbh,1,0,,0,0.0,0.0
+ibis landschaftsplanung,1,0,,0,0.0,0.0
+ibro versandservice gmbh,2,0,,0,0.0,0.0
+id gmbh & co. kgaa,1,0,,0,0.0,0.0
+idloop gmbh,1,0,,0,0.0,0.0
+idnow gmbh,1,0,,0,0.0,0.0
+iffm institut für facility management gmbh,1,0,,0,0.0,0.0
+ifs deutschland gmbh,1,0,,0,0.0,0.0
+iks gmbh,1,0,,0,0.0,0.0
+ikt gromnitza gmbh & co. kg,1,0,,0,0.0,0.0
+imap gmbh,1,0,,0,0.0,0.0
+imc information multimedia communication ag,1,0,,0,0.0,0.0
+health it-services gmbh,1,0,,0,0.0,0.0
+hcs partners gmbh,1,0,,0,0.0,0.0
+g.i.p. s.àr.l.,1,0,,0,0.0,0.0
+glr gesellschaft für leit- und regeltechnik mbh,1,0,,0,0.0,0.0
+gefyra gmbh,1,0,,0,0.0,0.0
+gemelo gmbh,1,0,,0,0.0,0.0
+geodata services ltd,1,0,,0,0.0,0.0
+geogebra gmbh,1,0,,0,0.0,0.0
+geolock gmbh,1,0,,0,0.0,0.0
+getsynapsed gmbh,1,0,,0,0.0,0.0
+gfai gesellschaft zur förderung angewandter informatik e. v.,1,0,,0,0.0,0.0
+gft technologies se,1,0,,0,0.0,0.0
+giant monkey gmbh,1,0,,0,0.0,0.0
+gicon - großmann ingenieur consult gmbh,1,0,,0,0.0,0.0
+giro inc. / le groupe en informatique et recherche opérationnelle,1,0,,0,0.0,0.0
+glasfaserplus gmbh,1,0,,0,0.0,0.0
+grant thornton ag,1,0,,0,0.0,0.0
+hbsn gmbh,1,0,,0,0.0,0.0
+graphmasters gmbh,1,0,,0,0.0,0.0
+green mobility solutions gmbh,1,0,,0,0.0,0.0
+greschitz management gmbh,1,0,,0,0.0,0.0
+grün software group gmbh,1,0,,0,0.0,0.0
+gs elektromedizinische geräte g. stemple gmbh,2,0,,0,0.0,0.0
+gts deutschland gmbh,1,0,,0,0.0,0.0
+h&h datenverarbeitungs- und beratungsgesellschaft mbh,1,0,,0,0.0,0.0
+h2f gmbh & co. kg,1,0,,0,0.0,0.0
+hahn-schickard-gesellschaft e. v.,1,0,,0,0.0,0.0
+haiilo gmbh,2,0,,0,0.0,0.0
+handz.on gmbh,2,0,,0,0.0,0.0
+hansecom ptts gmbh,1,0,,0,0.0,0.0
+indevis it consulting and solutions gmbh,1,0,,0,0.0,0.0
+inetrade - sytemhaus für network-computing gmbh,1,0,,0,0.0,0.0
+infas 360 gmbh,1,0,,0,0.0,0.0
+leitwerk ag,1,0,,0,0.0,0.0
+klimaktiv ggmbh,1,0,,0,0.0,0.0
+kobaltblau management constants gmbh,1,0,,0,0.0,0.0
+kontor consulting gmbh,1,0,,0,0.0,0.0
+kopfarbyte ug (haftungsbeschränkt),1,0,,0,0.0,0.0
+krz Kommunales Rechenzentrum Minden-Ravensberg/Lippe,1,0,,0,0.0,0.0
+kumeco gmbh,1,0,,0,0.0,0.0
+kyl digitalagentur gmbh,1,0,,0,0.0,0.0
+kyndryl deutschland gmbh,1,0,,0,0.0,0.0
+labor b designbüro gmbh & co kg,1,0,,0,0.0,0.0
+landplan os gmbh,1,0,,0,0.0,0.0
+lcsi gmbh,1,0,,0,0.0,0.0
+leifos gmbh,1,0,,0,0.0,0.0
+lenovo gmbh,1,0,,0,0.0,0.0
+infosec k2k ltd.,1,0,,0,0.0,0.0
+loclab consulting gmbh,1,0,,0,0.0,0.0
+lomnido gmbh,1,0,,0,0.0,0.0
+lunzer + partner gmbh,1,0,,0,0.0,0.0
+lyngsoe system a7s,1,0,,0,0.0,0.0
+"m&p braunschweig gmbh, braunschweig",1,0,,0,0.0,0.0
+m.doc,1,0,,0,0.0,0.0
+mach gmbh,1,0,,0,0.0,0.0
+maintainet ag,1,0,,0,0.0,0.0
+majorel wilhelmshaven gmbh,1,0,,0,0.0,0.0
+malt community gmbh,1,0,,0,0.0,0.0
+mann beißt hund - agentur für kommunikation gmbh,1,0,,0,0.0,0.0
+marktplatz gmbh - agentur für web & app,1,0,,0,0.0,0.0
+klimaktiv consulting gmbh,1,0,,0,0.0,0.0
+kirsa it-consulting gmbh,1,0,,0,0.0,0.0
+kim-keep in mind gmbh,1,0,,0,0.0,0.0
+keßler real estate solutions gmbh,1,0,,0,0.0,0.0
+innocon systems gmbh,1,0,,0,0.0,0.0
+innovative auctions gmbh,1,0,,0,0.0,0.0
+insynergie gmbh,1,0,,0,0.0,0.0
+intec industrie - technik gmbh & co. kg,1,0,,0,0.0,0.0
+integration experts gmbh,1,0,,0,0.0,0.0
+intercultural consultancy and studies - inccas gbr,1,0,,0,0.0,0.0
+interone gmbh,1,0,,0,0.0,0.0
+intersystems gmbh,1,0,,0,0.0,0.0
+intive gmbh,2,0,,0,0.0,0.0
+intrafind software ag,1,0,,0,0.0,0.0
+inwt statistics gmbh,1,0,,0,0.0,0.0
+inxmail gmbh,1,0,,0,0.0,0.0
+isarnet software solutions gmbh,1,0,,0,0.0,0.0
+ise gmbh,2,0,,0,0.0,0.0
+it & more gmbh,1,0,,0,0.0,0.0
+itenic gmbh,1,0,,0,0.0,0.0
+itenos,1,0,,0,0.0,0.0
+itomig gmbh,1,0,,0,0.0,0.0
+jaemacom,1,0,,0,0.0,0.0
+jarosch & haas gmbh,1,0,,0,0.0,0.0
+johannes diel,1,0,,0,0.0,0.0
+kap klinische anwendungsberatung und projektmanagement gmbh,1,0,,0,0.0,0.0
+karis ag,1,0,,0,0.0,0.0
+kerlen evaluation ltd.,1,0,,0,0.0,0.0
+key-it,1,0,,0,0.0,0.0
+gecko mbh - gesellschaft für computer- und kommunikationssysteme mbh,1,0,,0,0.0,0.0
+freihafen.it,1,0,,0,0.0,0.0
+broedersdorff & koenzen klassik ecars gmbh,1,0,,0,0.0,0.0
+crushed eyes media,1,0,,0,0.0,0.0
+computer zentrum strausberg gmbh,1,0,,0,0.0,0.0
+computermiete.de gmbh & co. kg,1,0,,0,0.0,0.0
+comsysto reply gmbh,1,0,,0,0.0,0.0
+conovum ag,1,0,,0,0.0,0.0
+consider it gmbh,1,0,,0,0.0,0.0
+consodalis,1,0,,0,0.0,0.0
+contens software gmbh,1,0,,0,0.0,0.0
+convotis münster gmbh,1,0,,0,0.0,0.0
+convotis münster gmnh,1,0,,0,0.0,0.0
+creative climate cities ug (haftungsbeschränkt),1,0,,0,0.0,0.0
+creos lernideen und beratung gmbh,1,0,,0,0.0,0.0
+crmspace gmbh,1,0,,0,0.0,0.0
+cryptosolutions ug,1,0,,0,0.0,0.0
+combine consulting gmbh,1,0,,0,0.0,0.0
+cursor software ag,2,0,,0,0.0,0.0
+customized business services gmbh,1,0,,0,0.0,0.0
+cyperfection gmbh,1,0,,0,0.0,0.0
+d-velop ag,1,0,,0,0.0,0.0
+dacoso gmbh,1,0,,0,0.0,0.0
+db vertrieb gmbh (db.res),1,0,,0,0.0,0.0
+dedalus healthcare gmbh deutschland,1,0,,0,0.0,0.0
+dedalus labor gmbh,1,0,,0,0.0,0.0
+deutor cyber security solutions gmbh,1,0,,0,0.0,0.0
+devagency gmbh & co. kg,1,0,,0,0.0,0.0
+di.unit gmbh,1,0,,0,0.0,0.0
+dicebridge training gmbh,1,0,,0,0.0,0.0
+computacenter ag & co. ohg kerpen,1,0,,0,0.0,0.0
+collidex gmbh,1,0,,0,0.0,0.0
+"fraunhofer-institut für kommunikation, informationsverarbeitung und ergonomie fkie",1,0,,0,0.0,0.0
+centra link gmbh,1,0,,0,0.0,0.0
+byon gmbh,2,0,,0,0.0,0.0
+bürostudio leidheuser gmbh,1,0,,0,0.0,0.0
+bürotechnik hiemer gmbh,1,0,,0,0.0,0.0
+c-trace GmbH,2,0,,0,0.0,0.0
+cadfem germany gmbh,1,0,,0,0.0,0.0
+camalot - alexander gerstmann & david lucas gbr,1,0,,0,0.0,0.0
+campana & schott süd gmbh,1,0,,0,0.0,0.0
+capita customer services (germany) gmbh,1,0,,0,0.0,0.0
+cbe digiden ag,1,0,,0,0.0,0.0
+cc e-gov gmbh,1,0,,0,0.0,0.0
+ccvossel gmbh,1,0,,0,0.0,0.0
+celsius37.com ag,1,0,,0,0.0,0.0
+centric cloud solutions gmbh,1,0,,0,0.0,0.0
+cojama infosystems gmbh,1,0,,0,0.0,0.0
+charismateam gmbh,1,0,,0,0.0,0.0
+circular informationssysteme gmbh,59,0,,0,0.0,0.0
+classtime ag,1,0,,0,0.0,0.0
+clausohm- software gmbh,1,0,,0,0.0,0.0
+cloudwürdig gmbh,1,0,,0,0.0,0.0
+cms it-consulting gmbh,1,0,,0,0.0,0.0
+cobotec gmbh,1,0,,0,0.0,0.0
+cobra computer´s brainware gmbh,1,0,,0,0.0,0.0
+codematix gmbh,1,0,,0,0.0,0.0
+coding. powerful. systems. cps gmbh,1,0,,0,0.0,0.0
+coeo systemhaus gmbh,1,0,,0,0.0,0.0
+cofinpro ag,1,0,,0,0.0,0.0
+dida datenschmiede gmbh,1,0,,0,0.0,0.0
+die informationsgesellschaft mbh,1,0,,0,0.0,0.0
+diedefa gmbh,1,0,,0,0.0,0.0
+factset uk ltd.,1,0,,0,0.0,0.0
+esc energy systems consulting gmbh,1,0,,0,0.0,0.0
+esg software gmbh,1,0,,0,0.0,0.0
+etask immobilien software gmbh,1,0,,0,0.0,0.0
+etk networks solution gmbh,1,0,,0,0.0,0.0
+eurocommand gmbh,2,0,,0,0.0,0.0
+evergabe.de gmbh,1,0,,0,0.0,0.0
+eviden_germany_gmbh,1,0,,0,0.0,0.0
+exela technologies ecm solutions gmbh,1,0,,0,0.0,0.0
+expeer gmbh,1,0,,0,0.0,0.0
+expleo,1,0,,0,0.0,0.0
+eyeled gmbh,1,0,,0,0.0,0.0
+fa. zahnen technik gmbh,1,0,,0,0.0,0.0
+fairconsult 24/7 gmbh,1,0,,0,0.0,0.0
+digifors gmbh,1,0,,0,0.0,0.0
+"fairkehr gmbh, . 53225 bon",1,0,,0,0.0,0.0
+fgn gmbh,1,0,,0,0.0,0.0
+filancore gmbh,1,0,,0,0.0,0.0
+finatix gmbh,1,0,,0,0.0,0.0
+fincon reply gmbh,1,0,,0,0.0,0.0
+firma kisters ag,1,0,,0,0.0,0.0
+firma pdv gmbh,1,0,,0,0.0,0.0
+flip gmbh,1,0,,0,0.0,0.0
+fortschritt gmbh,1,0,,0,0.0,0.0
+fqc solutions gmbh,1,0,,0,0.0,0.0
+fraunhofer gesellschaft e.v. für ihr fraunhofer-institut für offene  kommunikationssysteme fokus,1,0,,0,0.0,0.0
+fraunhofer iosb,1,0,,0,0.0,0.0
+eresult gmbh münchen,1,0,,0,0.0,0.0
+erdfisch gbr,1,0,,0,0.0,0.0
+epi-use gmbh,1,0,,0,0.0,0.0
+enviatel gmbhg,1,0,,0,0.0,0.0
+digisaar ug,1,0,,0,0.0,0.0
+digit4u business solutions gmbh,1,0,,0,0.0,0.0
+dksr gmbh,3,0,,0,0.0,0.0
+dmk-e-business gmbh,1,0,,0,0.0,0.0
+dotecon,1,0,,0,0.0,0.0
+dpa deutsche presse-agentur,1,0,,0,0.0,0.0
+drees & sommer se - büro münchen,1,0,,0,0.0,0.0
+dresden elektronik verkehrstechnik gmbh,1,0,,0,0.0,0.0
+dresden-concept e. v.,1,0,,0,0.0,0.0
+dts systeme gmbh,10,0,,0,0.0,0.0
+dürr group gmbh,1,0,,0,0.0,0.0
+e.on digital technology gmbh,1,0,,0,0.0,0.0
+ebcont informatics gmbh,1,0,,0,0.0,0.0
+edeos- digital education gmbh,1,0,,0,0.0,0.0
+edgital gmbh,1,0,,0,0.0,0.0
+education support centre deutschland gmbh,1,0,,0,0.0,0.0
+egain energie­dl gmbh,1,0,,0,0.0,0.0
+ehrig gmbh,1,0,,0,0.0,0.0
+elektro-wolff,1,0,,0,0.0,0.0
+eliso gmbh,1,0,,0,0.0,0.0
+eloomi,1,0,,0,0.0,0.0
+endava berlin gmbh,1,0,,0,0.0,0.0
+enmore consulting ag,1,0,,0,0.0,0.0
+entertainmentcom gmbh,1,0,,0,0.0,0.0
+enviaTEL GmbH,1,0,,0,0.0,0.0
+marmeladenbaum gmbh,1,0,,0,0.0,0.0
+master solution ag,1,0,,0,0.0,0.0
+mckinsey & company inc.,1,0,,0,0.0,0.0
+suspicious games gmbh,1,0,,0,0.0,0.0
+stadtwerke flensburg gmbh,1,0,,0,0.0,0.0
+starzel.de philip bauer,1,0,,0,0.0,0.0
+state of glow gmbh,1,0,,0,0.0,0.0
+stichting iea secretariaat nederland,1,0,,0,0.0,0.0
+stingel consulting gmbh,2,0,,0,0.0,0.0
+storydocks gmbh,1,0,,0,0.0,0.0
+strabag infrastructure & safety solutions gmbh,1,0,,0,0.0,0.0
+sub erste lesung gmbh,1,0,,0,0.0,0.0
+sung it services gmbh & co. kg,1,0,,0,0.0,0.0
+sunzinet gmbh,9,0,,0,0.0,0.0
+supra tix gmbh,1,0,,0,0.0,0.0
+suresecure gmbh,1,0,,0,0.0,0.0
+"sven schilling, design & authority",1,0,,0,0.0,0.0
+sr security research labs gmbh,1,0,,0,0.0,0.0
+syscon gmbh,1,0,,0,0.0,0.0
+syspons,1,0,,0,0.0,0.0
+taf mobile gmbh,1,0,,0,0.0,0.0
+tata communications gmbh,1,0,,0,0.0,0.0
+taurus eco consulting gmbh,1,0,,0,0.0,0.0
+tcs cards&services gmbh,1,0,,0,0.0,0.0
+tec.direct it systems gmbh,1,0,,0,0.0,0.0
+tecfox gmbh,1,0,,0,0.0,0.0
+technische hochschule nürnberg georg simon ohm,1,0,,0,0.0,0.0
+teladoc health germany gmbh,1,0,,0,0.0,0.0
+terrasys geophysics gmbh & co. kg,1,0,,0,0.0,0.0
+testfabrik consulting & solutions ag,1,0,,0,0.0,0.0
+ssm rhein-ruhr gmbh,1,0,,0,0.0,0.0
+spie information & communication services gmbh / buchungskreis lewron,1,0,,0,0.0,0.0
+mediadialog gesellschaft für softwareentwicklung mbh,1,0,,0,0.0,0.0
+smartguide s.r.o.,1,0,,0,0.0,0.0
+seidel planung & beratung,1,0,,0,0.0,0.0
+senselab.io (softvr gmbh),1,0,,0,0.0,0.0
+ser egovernment europe gmbh,1,0,,0,0.0,0.0
+serviva gmbh,1,0,,0,0.0,0.0
+seven2one informationssysteme gmbh,1,0,,0,0.0,0.0
+siehe los 1,1,0,,0,0.0,0.0
+siemens ag münchen,1,0,,0,0.0,0.0
+simovative gmbh,1,0,,0,0.0,0.0
+singularit gmbh,1,0,,0,0.0,0.0
+skygate internetworking gmbh,1,0,,0,0.0,0.0
+smart cjm gmbh,1,0,,0,0.0,0.0
+smart mobile labs  ag,1,0,,0,0.0,0.0
+smarttecs cyber security gmbh,1,0,,0,0.0,0.0
+spie ics gmbh,1,0,,0,0.0,0.0
+smateso gmbh,1,0,,0,0.0,0.0
+softgarden e-recruiting gmbh,1,0,,0,0.0,0.0
+softwareallianz deutschland gmbh,1,0,,0,0.0,0.0
+softwerft gmbh,1,0,,0,0.0,0.0
+sogeti deutschland,2,0,,0,0.0,0.0
+sosafe gmbh,1,0,,0,0.0,0.0
+soundaware b.v.,1,0,,0,0.0,0.0
+sozialhelden e. v,1,0,,0,0.0,0.0
+speed u up gmbh,1,0,,0,0.0,0.0
+speedy-consulting & vioxon gmbh,1,0,,0,0.0,0.0
+spie energy solutions gmbh,1,0,,0,0.0,0.0
+spie ics,1,0,,0,0.0,0.0
+the cloud networks germany gmbh,1,0,,0,0.0,0.0
+thera bytes gmbh,1,0,,0,0.0,0.0
+thinkarella ag,1,0,,0,0.0,0.0
+wirschaftsbetriebe freital gmbh,1,0,,0,0.0,0.0
+vitronet projekte gmbh,1,0,,0,0.0,0.0
+vivasecur gmbh,1,0,,0,0.0,0.0
+vodafone deutschland gmbh,7,0,,0,0.0,0.0
+volucap gmbh,1,0,,0,0.0,0.0
+vrvis zentrum für virtual reality und visualisierung forschungs-gmbh,1,0,,0,0.0,0.0
+waveline berlin,1,0,,0,0.0,0.0
+wcc services bv,1,0,,0,0.0,0.0
+we are xr gmbh,1,0,,0,0.0,0.0
+web-vision gmbh,1,0,,0,0.0,0.0
+werner scholtes - it-beratung,1,0,,0,0.0,0.0
+wik-consult gmbh,1,0,,0,0.0,0.0
+wilken software group,1,0,,0,0.0,0.0
+wisercat software oü,1,0,,0,0.0,0.0
+thinkproject deutschland gmbh,3,0,,0,0.0,0.0
+wkb systempartner gmbh,1,0,,0,0.0,0.0
+wm gruppe,1,0,,0,0.0,0.0
+wobcom gmbh,1,0,,0,0.0,0.0
+wu personal gmbh,1,0,,0,0.0,0.0
+x-impuls ag,2,0,,0,0.0,0.0
+xailabs gmbh,1,0,,0,0.0,0.0
+xebialabs b.v. c/o digital.ai software netherlands,1,0,,0,0.0,0.0
+xitaso gmbh it & software solutions,1,0,,0,0.0,0.0
+xiv-consult gmbh,1,0,,0,0.0,0.0
+y-security gmbh,1,0,,0,0.0,0.0
+y1,1,0,,0,0.0,0.0
+zalaris deutschland gmbh,1,0,,0,0.0,0.0
+visuellverstehen gmbh,1,0,,0,0.0,0.0
+vianova sas,1,0,,0,0.0,0.0
+vescon aqua gmbh,1,0,,0,0.0,0.0
+vertigis gmbh deutschland,1,0,,0,0.0,0.0
+time4you gmbh,2,0,,0,0.0,0.0
+timetoact software & consulting gmbh,2,0,,0,0.0,0.0
+trafficon - traffic consultants gmbh,2,0,,0,0.0,0.0
+trapeze group deutschland gmbh,1,0,,0,0.0,0.0
+trapeze switzerland gmbh,1,0,,0,0.0,0.0
+traversals analytics and intelligence gmbh,1,0,,0,0.0,0.0
+tricat gmbh,1,0,,0,0.0,0.0
+truth & beauty,1,0,,0,0.0,0.0
+tts knowledge products gmbh,1,0,,0,0.0,0.0
+turnitin llc,1,0,,0,0.0,0.0
+tv1 gmbh,2,0,,0,0.0,0.0
+twenty20 gmbh & co. kg,1,0,,0,0.0,0.0
+twinc gmbh,1,0,,0,0.0,0.0
+ucg united consulting group gmbh,1,0,,0,0.0,0.0
+uid gmbh,1,0,,0,0.0,0.0
+umlaut consulting gmbh,1,0,,0,0.0,0.0
+unicat gmbh,1,0,,0,0.0,0.0
+unsicon gmbh,1,0,,0,0.0,0.0
+unternehmensberatung h & d gmbh,1,0,,0,0.0,0.0
+urbanistic gmbh,1,0,,0,0.0,0.0
+valantic enterprise solutions gmbh,1,0,,0,0.0,0.0
+valeo it service international gmbh,1,0,,0,0.0,0.0
+vater business it gmbh,1,0,,0,0.0,0.0
+veenion gmbh,1,0,,0,0.0,0.0
+veeva systems inc,1,0,,0,0.0,0.0
+sector27 gmbh,1,0,,0,0.0,0.0
+sdui gmbh,1,0,,0,0.0,0.0
+scoop software gmbh,1,0,,0,0.0,0.0
+ots informationstechnologie ag,1,0,,0,0.0,0.0
+nikon precision europe gmbh,1,0,,0,0.0,0.0
+nordeck it + consulting gmbh,1,0,,0,0.0,0.0
+nwe-it ug (haftungsbeschränkt) & co. kg,1,0,,0,0.0,0.0
+object vision software ag,1,0,,0,0.0,0.0
+obungi gmbh,1,0,,0,0.0,0.0
+offizielle bezeichnung: nach art. 50 abs. 4 der richtlinie 2014/24/eu nicht zur veröffentlichung bestimmt.ort: nach art. 50 abs. 4 der richtlinie 2014/24/eu nicht zur veröffentlichung bestimmt.,1,0,,0,0.0,0.0
+ohb system ag,1,0,,0,0.0,0.0
+okadis consulting gmbh,1,0,,0,0.0,0.0
+onventis gmbh,1,0,,0,0.0,0.0
+open source security gmbh,1,0,,0,0.0,0.0
+optimy sa,1,0,,0,0.0,0.0
+otd plus gmbh,1,0,,0,0.0,0.0
+ovh gmbh,1,0,,0,0.0,0.0
+pirobase imperia gmbh,2,0,,0,0.0,0.0
+owledge technology consulting,1,0,,0,0.0,0.0
+p&i personal informatik ag,1,0,,0,0.0,0.0
+p&m software + consulting gmbh,2,0,,0,0.0,0.0
+p3 digital services gmbh,1,0,,0,0.0,0.0
+panagenda gmbh,1,0,,0,0.0,0.0
+parametric technology gmbh,1,0,,0,0.0,0.0
+parity quantum computing germany gmbh,1,0,,0,0.0,0.0
+pdp-systems gmbh,1,0,,0,0.0,0.0
+perfacct gmbh,1,0,,0,0.0,0.0
+perlsystem® it solutions,1,0,,0,0.0,0.0
+phi-consulting gmbh,2,0,,0,0.0,0.0
+phoron consulting gmbh,1,0,,0,0.0,0.0
+new standard studio,1,0,,0,0.0,0.0
+netzbest gmbh,1,0,,0,0.0,0.0
+netz-haut gmbh,1,0,,0,0.0,0.0
+netscrapers ug & co.kg,2,0,,0,0.0,0.0
+mediance gmbh,1,0,,0,0.0,0.0
+meierhofer ag,2,0,,0,0.0,0.0
+membrain gmbh,1,0,,0,0.0,0.0
+mgrp gmbh,1,0,,0,0.0,0.0
+mhealth pioneers gmbh,1,0,,0,0.0,0.0
+microsoft service gmbh,1,0,,0,0.0,0.0
+mightycare solutions gmbh,2,0,,0,0.0,0.0
+mikroprojekt gmbh,1,0,,0,0.0,0.0
+milch & zucker talent acquisition & talent management company ag,1,0,,0,0.0,0.0
+milestone consult gmbh & co. kg,1,0,,0,0.0,0.0
+minevo akademie,1,0,,0,0.0,0.0
+mister systems gmbh,1,0,,0,0.0,0.0
+miz materialinformationszentrum ges. für logistik mbh,1,0,,0,0.0,0.0
+modernx gmbh & co. kg,1,0,,0,0.0,0.0
+more holding gmbh,2,0,,0,0.0,0.0
+morgenpost briefservice gmbh,1,0,,0,0.0,0.0
+moysies & partners gmbh,2,0,,0,0.0,0.0
+msecuregmbh,1,0,,0,0.0,0.0
+mss gmbh,1,0,,0,0.0,0.0
+münsmedia gmbh,1,0,,0,0.0,0.0
+nagarro es gmbh,3,0,,0,0.0,0.0
+ncpower@broadcast & media it kft.,1,0,,0,0.0,0.0
+neteleven gmbh,1,0,,0,0.0,0.0
+netgo ost gmbh,3,0,,0,0.0,0.0
+netresearch dtt gmbh,1,0,,0,0.0,0.0
+piracon gmbh,2,0,,0,0.0,0.0
+pixelworld münchen,1,0,,0,0.0,0.0
+sciforma gmbh,1,0,,0,0.0,0.0
+riverty gmbh,1,0,,0,0.0,0.0
+re-lion group bv,1,0,,0,0.0,0.0
+recare deutschland gmbh,1,0,,0,0.0,0.0
+rechenwerk gmbh,1,0,,0,0.0,0.0
+refinitiv germany gmbh,1,0,,0,0.0,0.0
+reisswolf akten- und daten-vernichtung gmbh & co. kg,1,0,,0,0.0,0.0
+reisswolf digital services gmbh,1,0,,0,0.0,0.0
+reply deutschland se,1,0,,0,0.0,0.0
+rhenus data office gmbh,1,0,,0,0.0,0.0
+rhön-klinikum it service gmbh,1,0,,0,0.0,0.0
+rianware gmbh,1,0,,0,0.0,0.0
+right people group gmbh,1,0,,0,0.0,0.0
+riskine gmbh,1,0,,0,0.0,0.0
+rubicon it,1,0,,0,0.0,0.0
+plano solutions GmbH,1,0,,0,0.0,0.0
+rödl & partner gmbh,1,0,,0,0.0,0.0
+s&n invent gmbh,1,0,,0,0.0,0.0
+s4campus ag,1,0,,0,0.0,0.0
+sachsenenergie ag,1,0,,0,0.0,0.0
+sales:consult,1,0,,0,0.0,0.0
+sam - standards and more gmbh & co kg,1,0,,0,0.0,0.0
+sap fioneer solutions,2,0,,0,0.0,0.0
+saxony media solutions gmbh,1,0,,0,0.0,0.0
+sbc soptim business consult gmbh,1,0,,0,0.0,0.0
+sbs seebauer business solutions gmbh,1,0,,0,0.0,0.0
+schultech gmbh,2,0,,0,0.0,0.0
+schüßler-plan digital gmbh,1,0,,0,0.0,0.0
+ratiodata se,1,0,,0,0.0,0.0
+ramboll management,1,0,,0,0.0,0.0
+questax sytems gmbh,1,0,,0,0.0,0.0
+questax systems gmbh,1,0,,0,0.0,0.0
+playing history ug (haftungsbeschränkt) & co. kg,1,0,,0,0.0,0.0
+pls management gmbh,1,0,,0,0.0,0.0
+pm computer services gmbh & co. kg,1,0,,0,0.0,0.0
+pmc project management & consulting services gmbh,1,0,,0,0.0,0.0
+pmcs gmbh & co. kg,1,0,,0,0.0,0.0
+polavis gmbh,2,0,,0,0.0,0.0
+pom prof. tempelmeier gmbh,1,0,,0,0.0,0.0
+poolarserver gmbh,1,0,,0,0.0,0.0
+positive thinking company gmbh,1,0,,0,0.0,0.0
+prefix broker bv,1,0,,0,0.0,0.0
+prime force group gmbh,1,0,,0,0.0,0.0
+prime one,1,0,,0,0.0,0.0
+pro-klinik krankenhausberatung gmbh,1,0,,0,0.0,0.0
+probis software gmbh,2,0,,0,0.0,0.0
+procyde gmbh,1,0,,0,0.0,0.0
+proficom gmbh,1,0,,0,0.0,0.0
+protos technologie gmbh,1,0,,0,0.0,0.0
+publicis sapient,1,0,,0,0.0,0.0
+qestit gmbh,2,0,,0,0.0,0.0
+qfact gmbh - systemhaus. agentur. strategiepartner,1,0,,0,0.0,0.0
+qfact gmbh - systemhaus. agentur. strategiepartner.,1,0,,0,0.0,0.0
+quadient cxm germany gmbh,1,0,,0,0.0,0.0
+quantum optics jena gmbh,1,0,,0,0.0,0.0
+questax gmbh,1,0,,0,0.0,0.0
+questax professionals gmbh,1,0,,0,0.0,0.0
+bucher und suter ag,1,0,,0,0.0,0.0
+brockmann & büchner partnerschaftsgesellschaft unternehmensberatung,1,0,,0,0.0,0.0
+giulia tomini,1,0,,0,0.0,0.0
+naviga gmbh,1,0,,0,0.0,0.0
+modis it outsourcing gmbh,2,0,,0,0.0,0.0
+mostly ai solutions mp gmbh,1,0,,0,0.0,0.0
+motorola solutions germany gmbh,3,0,,0,0.0,0.0
+move up gesellschaft für gesundheitsmanagement mbh,1,0,,0,0.0,0.0
+mse-team gmbh,1,0,,0,0.0,0.0
+muenet gmbh & co. kg,1,0,,0,0.0,0.0
+my humancapital gmbh,1,0,,0,0.0,0.0
+mysciencework s.a.s.,1,0,,0,0.0,0.0
+märz network services essen,1,0,,0,0.0,0.0
+nach art. 50 abs. 4 der richtlinie 2014/24/eu nicht zur veröffentlichung bestimmt.,1,0,,0,0.0,0.0
+nagravision sa - kudelski security,1,0,,0,0.0,0.0
+nancy schneider,1,0,,0,0.0,0.0
+neilsoft gmbh,1,0,,0,0.0,0.0
+mit-xperts gmbh,1,0,,0,0.0,0.0
+netaachen gmbh,2,0,,0,0.0,0.0
+netec netzwerktechnik & systembetreuung gmbh,2,0,,0,0.0,0.0
+neticle plc,11,0,,0,0.0,0.0
+netmon24 gmbh & co. kg,1,0,,0,0.0,0.0
+netz-zentrum für innovative technologie osterholz gmbh,1,0,,0,0.0,0.0
+netze bw gmbh sparte dienstleistungen,1,0,,0,0.0,0.0
+netzlink informationstechnik gmbh,1,0,,0,0.0,0.0
+neuland 21 e.v.,1,0,,0,0.0,0.0
+neuland communication gmbh,1,0,,0,0.0,0.0
+new vector  sarl,1,0,,0,0.0,0.0
+nexiga gmbh,1,0,,0,0.0,0.0
+nomentia treasury & technology gmbh,1,0,,0,0.0,0.0
+modis gmbh,1,0,,0,0.0,0.0
+miriam grob,1,0,,0,0.0,0.0
+lucid. berlin gmbh,1,0,,0,0.0,0.0
+management- und it-beratung gmbh,1,0,,0,0.0,0.0
+lumen technologies germany gmbh,1,0,,0,0.0,0.0
+lünecom kommunikationslösungen gmbh,1,0,,0,0.0,0.0
+m-privacy gmbh,1,0,,0,0.0,0.0
+m-w-t,1,0,,0,0.0,0.0
+m.a.x. informationstechnologie ag,1,0,,0,0.0,0.0
+m.doc gmbh,3,0,,0,0.0,0.0
+m2. technology & project consulting gmbh,3,0,,0,0.0,0.0
+macros consult gmbh,1,0,,0,0.0,0.0
+macros.itcs gmbh,1,0,,0,0.0,0.0
+main level,1,0,,0,0.0,0.0
+maloon gmbh,1,0,,0,0.0,0.0
+management solutions information technology gmbh,1,0,,0,0.0,0.0
+mandarin medien gmbh,1,0,,0,0.0,0.0
+minervis gmbh,1,0,,0,0.0,0.0
+mbi unternehmensberatung gmbh,1,0,,0,0.0,0.0
+mecsware gmbh,1,0,,0,0.0,0.0
+mediqon gmbh,1,0,,0,0.0,0.0
+mehrkanal gmbh,1,0,,0,0.0,0.0
+mehrwert intermediale kommunikation gmbh,1,0,,0,0.0,0.0
+meintest gmbh,1,0,,0,0.0,0.0
+menzel it gmbh,1,0,,0,0.0,0.0
+merifond new markets gmbh,1,0,,0,0.0,0.0
+microdata gmbh,1,0,,0,0.0,0.0
+microsec zrt.,1,0,,0,0.0,0.0
+miecom-netzservice gmbh,2,0,,0,0.0,0.0
+migosens gmbh,1,0,,0,0.0,0.0
+norbert stilling,1,0,,0,0.0,0.0
+northdocks gmbh,1,0,,0,0.0,0.0
+novodoc imaging gmbh,1,0,,0,0.0,0.0
+primion technology gmbh,2,0,,0,0.0,0.0
+pi health solutions gmbh,1,0,,0,0.0,0.0
+pi-labs,1,0,,0,0.0,0.0
+pik ag,1,0,,0,0.0,0.0
+planergemeinschaft für stadt und raum eg,1,0,,0,0.0,0.0
+planet labs germany gmbh,1,0,,0,0.0,0.0
+pohle ehealth consulting,1,0,,0,0.0,0.0
+polyas gmbh,1,0,,0,0.0,0.0
+pop rocket labs gmbh,1,0,,0,0.0,0.0
+portal systems ag,1,0,,0,0.0,0.0
+pot project on time gmbh & co. kg,2,0,,0,0.0,0.0
+praevida medical ug,1,0,,0,0.0,0.0
+prahm it-systemdienstleistungen,1,0,,0,0.0,0.0
+probin gmbh beratungsgesellschaft,1,0,,0,0.0,0.0
+nowcast gmbh,1,0,,0,0.0,0.0
+process automation solutions gmbh,1,0,,0,0.0,0.0
+procilon gmbh,3,0,,0,0.0,0.0
+profiler gmbh,1,0,,0,0.0,0.0
+projekt-consult gmbh,1,0,,0,0.0,0.0
+projektionisten gmbh,2,0,,0,0.0,0.0
+promedia gmbh,1,0,,0,0.0,0.0
+"protechnology gmbh, allgeier it services gmbh, bechtle  gmbh, controlware gmbh, datagroup hamburg gmbh, t-systems international gmbh",1,0,,0,0.0,0.0
+protosoft ag,1,0,,0,0.0,0.0
+prounix gmbh,2,0,,0,0.0,0.0
+ptc telecom gmbh,1,0,,0,0.0,0.0
+puetter gmbh,1,0,,0,0.0,0.0
+q4pm project management gmbh,1,0,,0,0.0,0.0
+phönix-pacs gmbh,1,0,,0,0.0,0.0
+phalanx-it gmbh,1,0,,0,0.0,0.0
+pflegeplatzmanager gmbh,3,0,,0,0.0,0.0
+petra döring,1,0,,0,0.0,0.0
+nt neue technologie ag,1,0,,0,0.0,0.0
+nta systemhaus gmbh & co. kg,1,0,,0,0.0,0.0
+nviso gmbh,2,0,,0,0.0,0.0
+obermeyer digital solution gmbh,1,0,,0,0.0,0.0
+octothorpe gmbh,1,0,,0,0.0,0.0
+oediv secusys gmbh,1,0,,0,0.0,0.0
+"oli systems gmbh, dr. langniß - energie & analyse",1,0,,0,0.0,0.0
+omrex gmbh,1,0,,0,0.0,0.0
+opcyc gmbh,1,0,,0,0.0,0.0
+open logic systems gmbh & co. kg,1,0,,0,0.0,0.0
+optimal systems gmbh niederlassung frankfurt,1,0,,0,0.0,0.0
+optimal systems vertriebsgesellschaft dortmund mbh,1,0,,0,0.0,0.0
+optm gmbh,2,0,,0,0.0,0.0
+orange cyberdefense germany gmbh,1,0,,0,0.0,0.0
+organisationsberatung dr. maike reese,1,0,,0,0.0,0.0
+oscar gmbh,2,0,,0,0.0,0.0
+p&i (personal und informatik) ag,1,0,,0,0.0,0.0
+partec ag,1,0,,0,0.0,0.0
+pass consulting group,1,0,,0,0.0,0.0
+pass-it consulting dipl.-inf. g. rienecker gmbh & co. kg,1,0,,0,0.0,0.0
+passbrains ag,1,0,,0,0.0,0.0
+patricia gugisch-dolata,1,0,,0,0.0,0.0
+patrick steves,1,0,,0,0.0,0.0
+crowdcode gmbh & co. kg,1,0,,0,0.0,0.0
+pentest factory gmbh,2,0,,0,0.0,0.0
+ludwig heuse gmbh interim-management.de,1,0,,0,0.0,0.0
+lotter consulting gesellschaft für informationssysteme mbh,1,0,,0,0.0,0.0
+"broadway technology, llc",1,0,,0,0.0,0.0
+"ideenmanufaktur gmbh,",1,0,,0,0.0,0.0
+hr4you ag,1,0,,0,0.0,0.0
+hrtbt medical solutions gmbh,1,0,,0,0.0,0.0
+hybrid heroes gmbh,1,0,,0,0.0,0.0
+hydrotec,1,0,,0,0.0,0.0
+i:fao group gmbh,1,0,,0,0.0,0.0
+iamds gmbh,1,0,,0,0.0,0.0
+iap gmbh,1,0,,0,0.0,0.0
+ibr geoinformation gmbh,1,0,,0,0.0,0.0
+ibr gesellschaft für geoinformation mbh,1,0,,0,0.0,0.0
+icrossing uk,1,0,,0,0.0,0.0
+id information und dokumentation im gesundheitswesen gmbh &co. kgaa,1,0,,0,0.0,0.0
+idama gmbh,1,0,,0,0.0,0.0
+idpendant,1,0,,0,0.0,0.0
+horus-net gmbh & co.kg,1,0,,0,0.0,0.0
+ihp gmbh innovations for high performance microelectronics/ leibniz-institut für innovative mikroelektronik,1,0,,0,0.0,0.0
+ikor gmbh,3,0,,0,0.0,0.0
+inavet gmbh,1,0,,0,0.0,0.0
+infodas,1,0,,0,0.0,0.0
+infologistix gmbh,2,0,,0,0.0,0.0
+ingo harrach informationssysteme,1,0,,0,0.0,0.0
+ingsoft gmbh,3,0,,0,0.0,0.0
+init individuelle softwareentwicklung & beratung gmbh,2,0,,0,0.0,0.0
+init mobility software solutions gmbh,1,0,,0,0.0,0.0
+insight geologische softwaresysteme gmbh (insight gmbh) und herr dr. hans-georg sobisch,1,0,,0,0.0,0.0
+institutional shareholder services germany ag,1,0,,0,0.0,0.0
+intec industrie-technik,1,0,,0,0.0,0.0
+hph consulting,1,0,,0,0.0,0.0
+horst weber,1,0,,0,0.0,0.0
+logsys (switzerland) ag,1,0,,0,0.0,0.0
+gwadriga gmbh & co.kg,1,0,,0,0.0,0.0
+global network ag,1,0,,0,0.0,0.0
+globallogic germany gmbh,1,0,,0,0.0,0.0
+gofore oyi,1,0,,0,0.0,0.0
+google ireland limited,1,0,,0,0.0,0.0
+goriscon,1,0,,0,0.0,0.0
+gradient zero deutschland gmbh,1,0,,0,0.0,0.0
+greendelta gmbh,1,0,,0,0.0,0.0
+grit - graphische informationstechnik beratungsgesellschaft mbh,1,0,,0,0.0,0.0
+growthafrica foundation,1,0,,0,0.0,0.0
+gsa gesellschaft für straßenanalyse mbh,4,0,,0,0.0,0.0
+gsg gmbh,1,0,,0,0.0,0.0
+guido leisker,1,0,,0,0.0,0.0
+gwn gemeindewerke nümbrecht gmbh,1,0,,0,0.0,0.0
+hochtief vicon gmbh,1,0,,0,0.0,0.0
+haufe,1,0,,0,0.0,0.0
+hauptvertragspartner,1,0,,0,0.0,0.0
+hbsn consulting gmbh,3,0,,0,0.0,0.0
+hcl technologies germany gmbh,2,0,,0,0.0,0.0
+heidelberg it management gmbh & co. kg,2,0,,0,0.0,0.0
+helllicht medien gmbh,1,0,,0,0.0,0.0
+helmich it-security gmbh,1,0,,0,0.0,0.0
+herol consulting gmbh,1,0,,0,0.0,0.0
+highQ Computerlösungen GmbH,3,0,,0,0.0,0.0
+hiww hamburger institut für wertschöpfungssystematik und wissensmanagement ug (haftungsbeschränkt),1,0,,0,0.0,0.0
+hochschulbibliothekszentrum des landes nordrhein-westfalen (hbz),1,0,,0,0.0,0.0
+hochschule mittweida,1,0,,0,0.0,0.0
+intec industrie-technik gmbh & co. kg,1,0,,0,0.0,0.0
+intecsoft gmbh & co. kg,17,0,,0,0.0,0.0
+intecsoft utilities gmbh & co. kg,1,0,,0,0.0,0.0
+korian deutschland gmbh,1,0,,0,0.0,0.0
+jutco gmbh,1,0,,0,0.0,0.0
+jörg heise,1,0,,0,0.0,0.0
+jürgen müller,1,0,,0,0.0,0.0
+k. ludwig kriete gmbh,1,0,,0,0.0,0.0
+kerstin blomenkamp,1,0,,0,0.0,0.0
+klebes datentechnik,1,0,,0,0.0,0.0
+klett mint gmbh,1,0,,0,0.0,0.0
+klinikum braunschweig,1,0,,0,0.0,0.0
+kluger.net gmbh,1,0,,0,0.0,0.0
+konsortium cloudbasiertes lokal- und verbundsystem nrw gbr,1,0,,0,0.0,0.0
+kontext e gmbh,1,0,,0,0.0,0.0
+konzeptpark gmbh,1,0,,0,0.0,0.0
+kröpelin projekt gmbh,2,0,,0,0.0,0.0
+integris lims gmbh,1,0,,0,0.0,0.0
+köllisch gesellschaft für prozessmanagement mbh,1,0,,0,0.0,0.0
+landkreis mittweida krankenhaus ggmbh,1,0,,0,0.0,0.0
+lantana gesellschaft für angewandte daten- und netzwerktechnik mbh,1,0,,0,0.0,0.0
+lead gmbh,1,0,,0,0.0,0.0
+leolo it&media consulting gmbh,1,0,,0,0.0,0.0
+lifestyle webconsulting gmbh,1,0,,0,0.0,0.0
+lighthouse management consulting + software gmbh,1,0,,0,0.0,0.0
+limebit gmbh,1,0,,0,0.0,0.0
+limebox it dienstleistungen,1,0,,0,0.0,0.0
+link-ed.it - stefan wähler e.k.,1,0,,0,0.0,0.0
+linpico sarl,1,0,,0,0.0,0.0
+lofino gmbh,2,0,,0,0.0,0.0
+justrelate deutschland gmbh,2,0,,0,0.0,0.0
+junge tüftler ggmbh,1,0,,0,0.0,0.0
+juliane glahn,1,0,,0,0.0,0.0
+jr marketing gmbh,1,0,,0,0.0,0.0
+intelkom gmbh,1,0,,0,0.0,0.0
+intellimagic gmbh,1,0,,0,0.0,0.0
+intex solutions inc.,1,0,,0,0.0,0.0
+invaris informationssysteme gmbh,1,0,,0,0.0,0.0
+ionos se,2,0,,0,0.0,0.0
+iqul digital assessment,1,0,,0,0.0,0.0
+isd feniqs gmbh,2,0,,0,0.0,0.0
+isgus-bavaria gmbh,1,0,,0,0.0,0.0
+isw-bätz winden,1,0,,0,0.0,0.0
+it & i internet-technologien und informationsverarbeitungs-gmbh,1,0,,0,0.0,0.0
+it-objects gmbh,1,0,,0,0.0,0.0
+it-schlee,1,0,,0,0.0,0.0
+itacs gmbh,2,0,,0,0.0,0.0
+itc gmbh,1,0,,0,0.0,0.0
+itec systems ag,2,0,,0,0.0,0.0
+itenos gmbh,1,0,,0,0.0,0.0
+itesys de gmbh,2,0,,0,0.0,0.0
+itqs gmbh,1,0,,0,0.0,0.0
+itsg gmbh,1,0,,0,0.0,0.0
+j4hr gmbh,2,0,,0,0.0,0.0
+"jah, mack & partner architekt und stadtplaner mbh",1,0,,0,0.0,0.0
+janda+roscher gmbh & co. kg,1,0,,0,0.0,0.0
+jobrouter ag,1,0,,0,0.0,0.0
+jolocom gmbh,1,0,,0,0.0,0.0
+jouve germany gmbh & co kg,1,0,,0,0.0,0.0
+qcentris gmbh,1,0,,0,0.0,0.0
+qualitest germany gmbh,2,0,,0,0.0,0.0
+quattron management consulting gmbh,1,0,,0,0.0,0.0
+EY GmbH Wirtschaftsprüfungsgesellschaft,1,0,,0,0.0,0.0
+zetvisions gmbh,1,0,,0,0.0,0.0
+zeusware gmbh,1,0,,0,0.0,0.0
+zuse-institut berlin,1,0,,0,0.0,0.0
+"""was hab´ ich?"" ggmbh",1,0,,0,0.0,0.0
+//seibert/media gmbh,1,0,,0,0.0,0.0
+1&1 versatel deutschland,1,0,,0,0.0,0.0
+247grad labs gmbh,2,0,,0,0.0,0.0
+4cost gmbh,1,0,,0,0.0,0.0
+4k analytics gmbh,1,0,,0,0.0,0.0
+4th motion gmbh,1,0,,0,0.0,0.0
+ALOS GmbH,1,0,,0,0.0,0.0
+Dynasys Datentechnik GmbH,1,0,,0,0.0,0.0
+Eviden Germany GmbH,7,0,,0,0.0,0.0
+zetcom gmbh,1,0,,0,0.0,0.0
+Fleischhacker GmbH,1,0,,0,0.0,0.0
+Fortes Solutions BV,1,0,,0,0.0,0.0
+Fraunhofer-Gesellschaft für Fraunhofer Institut IOSB,1,0,,0,0.0,0.0
+HSP Beratungsgesellschaft mbH,1,0,,0,0.0,0.0
+Herzum Software Srl Unipersonale,2,0,,0,0.0,0.0
+Interoute Germany GmbH,1,0,,0,0.0,0.0
+LUFTBILD UMWELT PLANUNG GmbH,1,0,,0,0.0,0.0
+LÜTH & DÜMCHEN Automatisierungsprojekt GmbH,1,0,,0,0.0,0.0
+Moody's Analytics Inc.,1,0,,0,0.0,0.0
+"OMNINET Software-, System- und Projektmanagementtechnik GmbH",1,0,,0,0.0,0.0
+P3 automotive GmbH,1,0,,0,0.0,0.0
+Philips GmbH,4,0,,0,0.0,0.0
+zetcom informatikdienstleistungen deutschland gmbh,1,0,,0,0.0,0.0
+zeq ag,2,0,,0,0.0,0.0
+quentic gmbh,1,0,,0,0.0,0.0
+vsd victory sicherheitsdienste gmbh,1,0,,0,0.0,0.0
+veriana devi,1,0,,0,0.0,0.0
+verkehrsverbund rhein-sieg gmbh,1,0,,0,0.0,0.0
+verlagsgruppe hüthig jehle rehm gmbh,1,0,,0,0.0,0.0
+vermessungsbüro rink gbr,1,0,,0,0.0,0.0
+vertigis gmbh,2,0,,0,0.0,0.0
+vetterli roth & partners ag,1,0,,0,0.0,0.0
+viavan technologies b.v.,1,0,,0,0.0,0.0
+vitagroup health intelligence gmbh,1,0,,0,0.0,0.0
+vivavis ag,1,0,,0,0.0,0.0
+"voigtmann gmbh, nürnberg",1,0,,0,0.0,0.0
+von der see gmbh,1,0,,0,0.0,0.0
+voxtronic deutschland gmbh,1,0,,0,0.0,0.0
+wald + corbe consulting gmbh,1,0,,0,0.0,0.0
+zentrum für angewandte forschung und technologie e.v. (zaft e.v.),1,0,,0,0.0,0.0
+walter service gmbh,1,0,,0,0.0,0.0
+webpen,1,0,,0,0.0,0.0
+wegewerk gmbh,1,0,,0,0.0,0.0
+wertschöpfer it gmbh,1,0,,0,0.0,0.0
+wikendu gmbh & co. kg,1,0,,0,0.0,0.0
+wins global consult gmbh,1,0,,0,0.0,0.0
+wunderbyte,1,0,,0,0.0,0.0
+xsuite group gmbh,1,0,,0,0.0,0.0
+yunex gmbh,5,0,,0,0.0,0.0
+zana technologies gmbh,1,0,,0,0.0,0.0
+zen innovations ag,1,0,,0,0.0,0.0
+zenner international gmbh & co. kg,1,0,,0,0.0,0.0
+SIGMA System Audio-Visuell GmbH,1,0,,0,0.0,0.0
+Schmidt Media e.K.,1,0,,0,0.0,0.0
+X-Spectrum GmbH,1,0,,0,0.0,0.0
+befund24 gmbh,1,0,,0,0.0,0.0
+bakdata gmbh,2,0,,0,0.0,0.0
+bar business advisory & research gmbh,1,0,,0,0.0,0.0
+baral geohaus-consulting ag,1,0,,0,0.0,0.0
+barc gmbh,1,0,,0,0.0,0.0
+bare.id gmbh,1,0,,0,0.0,0.0
+baukosteninformationszentrum,1,0,,0,0.0,0.0
+baumgardt consultants,1,0,,0,0.0,0.0
+bayerische funknetz gmbh,1,0,,0,0.0,0.0
+bayoomed gmbh,2,0,,0,0.0,0.0
+bayootec gmbh,1,0,,0,0.0,0.0
+bbht beratungsgesellschaft mbh & co. kg,1,0,,0,0.0,0.0
+bbm beratung beteiligung management gmbh,1,0,,0,0.0,0.0
+benz + walter gmbh,1,0,,0,0.0,0.0
+aagon gmbh,1,0,,0,0.0,0.0
+biedermann ebcsoft gmbh,1,0,,0,0.0,0.0
+bietergemeinschaft clatum technology consulting gmbh/clatum business consulting,1,0,,0,0.0,0.0
+"bietergemeinschaft gvg glasfaser gmbh, 2locate gmbh, gvg holding gmbh & co. kg",1,0,,0,0.0,0.0
+bietergemeinschaft ion2s gmbh & aman media gmbh,1,0,,0,0.0,0.0
+bietergemeinschaft walter nagel/libnova,1,0,,0,0.0,0.0
+binary butterfly gmbh,1,0,,0,0.0,0.0
+bitburg ingenieurinformatik deutschland gmbh,1,0,,0,0.0,0.0
+blom deutschland gmbh,1,0,,0,0.0,0.0
+blu professionals gmbh,1,0,,0,0.0,0.0
+blue silver gmbh,1,0,,0,0.0,0.0
+blueend ag,1,0,,0,0.0,0.0
+bpw consulting gmbh & co. kg,1,0,,0,0.0,0.0
+b.telligent deutschland gmbh,2,0,,0,0.0,0.0
+b-4it ag,1,0,,0,0.0,0.0
+avodaq ag,1,0,,0,0.0,0.0
+associação fraunhofer portugal research,1,0,,0,0.0,0.0
+abcona e. k.,1,0,,0,0.0,0.0
+acameo,1,0,,0,0.0,0.0
+accso - accelerated solutionsaccelerated solutions gmbh,1,0,,0,0.0,0.0
+acg gmbh,1,0,,0,0.0,0.0
+advanced applications gmbh,1,0,,0,0.0,0.0
+advantegy gmbh,1,0,,0,0.0,0.0
+ag.urban,1,0,,0,0.0,0.0
+akdb.digitalfabrix gmbh,2,0,,0,0.0,0.0
+allgeier it business services gmbh,2,0,,0,0.0,0.0
+allisa software gmbh,1,0,,0,0.0,0.0
+allotropia software gmbh,1,0,,0,0.0,0.0
+almato ag,2,0,,0,0.0,0.0
+alpha loop gmbh,3,0,,0,0.0,0.0
+alten gmbh,1,0,,0,0.0,0.0
+alva commerce,1,0,,0,0.0,0.0
+ambrosia fm consulting & services gmbh,1,0,,0,0.0,0.0
+amcon software gmbh,1,0,,0,0.0,0.0
+anaquestra gmbh,1,0,,0,0.0,0.0
+animate gmbh,1,0,,0,0.0,0.0
+applied methods gmbh,1,0,,0,0.0,0.0
+apro computer & dienstleistung gmbh,9,0,,0,0.0,0.0
+aquantec gmbh,2,0,,0,0.0,0.0
+ariadne maps gmbh,1,0,,0,0.0,0.0
+asklepios it-services hamburg gmbh,2,0,,0,0.0,0.0
+asklepios service it gmbh,2,0,,0,0.0,0.0
+verena dorloff,1,0,,0,0.0,0.0
+vereinigte informationssysteme tierhaltung w.v. (vit),1,0,,0,0.0,0.0
+van bürk datentechnik gmbh,1,0,,0,0.0,0.0
+skopos - institut für markt- und kommunikationsforschung gmbh & co. kg,1,0,,0,0.0,0.0
+semalogic ug (haftungsbeschränkt),1,0,,0,0.0,0.0
+sensis gmbh,1,0,,0,0.0,0.0
+sepura deutschland gmbh,1,0,,0,0.0,0.0
+serviceplan public relations & content,1,0,,0,0.0,0.0
+sewikom gmbh,1,0,,0,0.0,0.0
+sg brand consult pte. ltd.,1,0,,0,0.0,0.0
+sidion gmbh,1,0,,0,0.0,0.0
+siemens ag,1,0,,0,0.0,0.0
+siemens healthcare gmbh,1,0,,0,0.0,0.0
+sigfox germany gmbh,1,0,,0,0.0,0.0
+silke hoffmann,1,0,,0,0.0,0.0
+silvia röllig,1,0,,0,0.0,0.0
+smart store gmbh,1,0,,0,0.0,0.0
+sportradar ag,1,0,,0,0.0,0.0
+smartends b.v.,1,0,,0,0.0,0.0
+snp deutschland gmbh,1,0,,0,0.0,0.0
+softbox gmbh,1,0,,0,0.0,0.0
+softline ag,3,0,,0,0.0,0.0
+softplan informatik gmbh,1,0,,0,0.0,0.0
+softtailor gmbh,1,0,,0,0.0,0.0
+software ag,1,0,,0,0.0,0.0
+software-driven ug (haftungsbeschränkt),1,0,,0,0.0,0.0
+softwareone gmbh,1,0,,0,0.0,0.0
+spectir llc,1,0,,0,0.0,0.0
+sphera solutions gmbh,1,0,,0,0.0,0.0
+spirit 21 gmbh,1,0,,0,0.0,0.0
+secustaff gmbh,3,0,,0,0.0,0.0
+sd software-design gmbh,1,0,,0,0.0,0.0
+scopeland technlogy gmbh,1,0,,0,0.0,0.0
+schulentwicklungdigital,1,0,,0,0.0,0.0
+re:think innovations gmbh,3,0,,0,0.0,0.0
+redaktionsbüro sinnthese - grabolle höber tigges gbr,1,0,,0,0.0,0.0
+refinio gmbh,1,0,,0,0.0,0.0
+rescuetrack GmbH,2,0,,0,0.0,0.0
+ressourcenmangel dresden gmbh,1,0,,0,0.0,0.0
+reval austria gmbh,1,0,,0,0.0,0.0
+rhenus archiv services gmbh,1,0,,0,0.0,0.0
+rib software gmbh,1,0,,0,0.0,0.0
+ridebee ug (haftungsbeschränkt),5,0,,0,0.0,0.0
+risk!me consulting gmbh & co. kg,1,0,,0,0.0,0.0
+rocom gmbh,1,0,,0,0.0,0.0
+rossmanith gmbh,1,0,,0,0.0,0.0
+rtds technologies inc.,1,0,,0,0.0,0.0
+rzv gmbh,4,0,,0,0.0,0.0
+s-management services gmbh,1,0,,0,0.0,0.0
+s-tec gmbh,1,0,,0,0.0,0.0
+s.c. men@work media services s.r.l.,1,0,,0,0.0,0.0
+sap - betrieb für sap s4/hana in den jahren 2024 bis 2027 mit verlängerungsoption,1,0,,0,0.0,0.0
+sap fioneer gmbh,1,0,,0,0.0,0.0
+satz-rechen-zentrum hartmann+heenemann gmbh&co. kg,1,0,,0,0.0,0.0
+satzweiss.com print web software gmbh,1,0,,0,0.0,0.0
+schaller & partner gmbh - werbeagentur,1,0,,0,0.0,0.0
+schelhorn owig software gmbh,1,0,,0,0.0,0.0
+schoedlbauer high value coaching,1,0,,0,0.0,0.0
+schuhfried gmbh,1,0,,0,0.0,0.0
+spirit-testing software & services gmbh,1,0,,0,0.0,0.0
+srh it solutions gmbh,1,0,,0,0.0,0.0
+valuze gmbh,1,0,,0,0.0,0.0
+twinsoft gmbh & co. kg,1,0,,0,0.0,0.0
+think modular - digital solutions gmbh,2,0,,0,0.0,0.0
+thinktecture ag,1,0,,0,0.0,0.0
+thomas vonier,1,0,,0,0.0,0.0
+thorsten thronicker consulting,1,0,,0,0.0,0.0
+thost projektmanagement gmbh,1,0,,0,0.0,0.0
+thryve - mhealth pioneers gmbh,1,0,,0,0.0,0.0
+timetoact,1,0,,0,0.0,0.0
+tixel gmbh,1,0,,0,0.0,0.0
+tng technology consulting gmbh,1,0,,0,0.0,0.0
+trinovis gmbh,1,0,,0,0.0,0.0
+trivadis ag,1,0,,0,0.0,0.0
+trivadis austria gmbh,1,0,,0,0.0,0.0
+tüv informationstechnik gmbh unternehmensgruppe tüv nord,1,0,,0,0.0,0.0
+stackfield gmbh,1,0,,0,0.0,0.0
+tüv it trust gmbh,1,0,,0,0.0,0.0
+tüv süd advimo gmbh,1,0,,0,0.0,0.0
+udg ludwigsburg gmbh,1,0,,0,0.0,0.0
+udg rhein-main gmbh,1,0,,0,0.0,0.0
+umlaut communications gmbh,3,0,,0,0.0,0.0
+universitätsklinikum essen,1,0,,0,0.0,0.0
+uniwise aps,2,0,,0,0.0,0.0
+up transfer gmbh  an der universität  potsdam,1,0,,0,0.0,0.0
+"uptodate, inc.",1,0,,0,0.0,0.0
+urano informationssysteme gmbh nikolaus-otto-str. 8 55543 bad kreuznach,1,0,,0,0.0,0.0
+uvm system gmbh,1,0,,0,0.0,0.0
+valantic people gmbh,1,0,,0,0.0,0.0
+the vending solution,1,0,,0,0.0,0.0
+the bristol group deutschland gmbh,1,0,,0,0.0,0.0
+thaltegos gmbh,1,0,,0,0.0,0.0
+teralytics gmbh,6,0,,0,0.0,0.0
+stadt nürnberg,1,0,,0,0.0,0.0
+stadtraum gmbh,1,0,,0,0.0,0.0
+stadtwerke schwerin gmbh (sws),1,0,,0,0.0,0.0
+steinbeis-transferzentrum health data,1,0,,0,0.0,0.0
+stephanie hesse,1,0,,0,0.0,0.0
+sthree temp experts gmbh,2,0,,0,0.0,0.0
+stp informationstechnologie gmbh,5,0,,0,0.0,0.0
+studio monstrum (alon & reinke) gbr,1,0,,0,0.0,0.0
+suse software solutions germany gmbh,1,0,,0,0.0,0.0
+swat.io gmbh,11,0,,0,0.0,0.0
+swn stadtwerke neumünster gmbh,1,0,,0,0.0,0.0
+syncpilot gmbh,1,0,,0,0.0,0.0
+synflow gmbh,1,0,,0,0.0,0.0
+syseleven gmbh,1,0,,0,0.0,0.0
+system verification svg germany gmbh,1,0,,0,0.0,0.0
+talentsconnect ag,1,0,,0,0.0,0.0
+talk online deutschland gmbh,1,0,,0,0.0,0.0
+tandemploy gmbh,1,0,,0,0.0,0.0
+tanol systems gmbh,1,0,,0,0.0,0.0
+tdsoftware gmbh,2,0,,0,0.0,0.0
+technische universität dresden professur für hydrologie,1,0,,0,0.0,0.0
+telefonica o²,1,0,,0,0.0,0.0
+telent gmbh,1,0,,0,0.0,0.0
+teles ag informationstechnologien,1,0,,0,0.0,0.0
+tellux next gmbh,1,0,,0,0.0,0.0
+cryptosolutions ug (haftungsbeschränkt,1,0,,0,0.0,0.0
+philipp holstein,1,0,,0,0.0,0.0
+cronn GmbH,3,0,,0,0.0,0.0
+robotron datenbank- software gmbh,1,0,,0,0.0,0.0
+qidenus technologies gmbh,1,0,,0,0.0,0.0
+qiq qcentris intelligent quality gmbh,1,0,,0,0.0,0.0
+questax experts gmbh,1,0,,0,0.0,0.0
+quinscape gmbh,1,0,,0,0.0,0.0
+rahmenvereinbarung „weiterentwicklung und betreuung der info-was-fachanwendung 'qualitative hydrologie' (limno) 2017 – 2021“,1,0,,0,0.0,0.0
+randstad deutschland gmbh & co. kg,2,0,,0,0.0,0.0
+rechenzentrum region stuttgart gmbh,4,0,,0,0.0,0.0
+relaunch radwanderland,1,0,,0,0.0,0.0
+rhenus data office,2,0,,0,0.0,0.0
+rib software se,6,0,,0,0.0,0.0
+riedel networks gmbh & co. kg,1,0,,0,0.0,0.0
+rohde & schwarz gmbh & co. kg,1,0,,0,0.0,0.0
+pwc cyber security services gmbh,5,0,,0,0.0,0.0
+rosenberger-osi gmbh & co. ohg,1,0,,0,0.0,0.0
+royal belgian institute for space aeronomy (bira-iasb),1,0,,0,0.0,0.0
+s & p global market intelligence llc,1,0,,0,0.0,0.0
+s&s computer- und kommunikationsservice gbr,1,0,,0,0.0,0.0
+saale betreuungswerk der lebenshilfe jena ggmbh,1,0,,0,0.0,0.0
+sap deutschalnd se & co. kg,1,0,,0,0.0,0.0
+sapite gmbh,4,0,,0,0.0,0.0
+sd&c gmbh,1,0,,0,0.0,0.0
+sdv vergabe gmbh,1,0,,0,0.0,0.0
+secure cloud services gmbh,1,0,,0,0.0,0.0
+selfapy gmbh,1,0,,0,0.0,0.0
+q-perior ag,2,0,,0,0.0,0.0
+pulsation it gmbh,1,0,,0,0.0,0.0
+webworker gmbh,1,0,,0,0.0,0.0
+oracle b.v. & co.kg,1,0,,0,0.0,0.0
+metasolutions ab,1,0,,0,0.0,0.0
+mg gardner & gerbracht consulting gmbh & co. kg,1,0,,0,0.0,0.0
+mh service gmbh,1,0,,0,0.0,0.0
+mhaviation ag,1,0,,0,0.0,0.0
+"micro focus, vertreten durch computacenter ag & co. ohg",1,0,,0,0.0,0.0
+mmpro. film- und medienproduktion gmbh,1,0,,0,0.0,0.0
+mobile fitness international aps,1,0,,0,0.0,0.0
+muveda gmbh,1,0,,0,0.0,0.0
+nagarro gmbh,4,0,,0,0.0,0.0
+natourwissen ug (haftungsb.),1,0,,0,0.0,0.0
+nexeo gmbh,1,0,,0,0.0,0.0
+osm ag,1,0,,0,0.0,0.0
+ptv transport consult gmbh,5,0,,0,0.0,0.0
+pass it-consulting gmbh,1,0,,0,0.0,0.0
+pdv systeme erfurt,1,0,,0,0.0,0.0
+planet ic gmbh,1,0,,0,0.0,0.0
+planisware deutschland gmbh,1,0,,0,0.0,0.0
+pmg gmbh,1,0,,0,0.0,0.0
+ponturo consulting ag,1,0,,0,0.0,0.0
+ppi ag,5,0,,0,0.0,0.0
+primion technology ag,1,0,,0,0.0,0.0
+prodato integration technology gmbh,1,0,,0,0.0,0.0
+project consult unternehmensberatung dr. kampffmeyer gmbh,1,0,,0,0.0,0.0
+proventis gmbh,2,0,,0,0.0,0.0
+ser banking software solutions gmbh,1,0,,0,0.0,0.0
+siempelkamp nis ingenieurgesellschaft mbh,2,0,,0,0.0,0.0
+sikom software gmbh,1,0,,0,0.0,0.0
+"universität heidelberg, abteilung geoinformatik",1,0,,0,0.0,0.0
+telepaxx medical archiving gmbh,1,0,,0,0.0,0.0
+the ministry group gmbh,1,0,,0,0.0,0.0
+think about it gmbh,6,0,,0,0.0,0.0
+tobi ab,1,0,,0,0.0,0.0
+traumwelt gmbh,1,0,,0,0.0,0.0
+trikom gmbh,1,0,,0,0.0,0.0
+tts gmbh,1,0,,0,0.0,0.0
+tüv rheinland i-sec gmbh,2,0,,0,0.0,0.0
+u2d|up2date solutions gmbh,1,0,,0,0.0,0.0
+uher informatik gmbh,1,0,,0,0.0,0.0
+"ultra consulting network gmbh, solingen",1,0,,0,0.0,0.0
+universität passau,1,0,,0,0.0,0.0
+silbury deutschland gmbh,1,0,,0,0.0,0.0
+urano informationssysteme,1,0,,0,0.0,0.0
+uvita gmbh,1,0,,0,0.0,0.0
+uwe möller,14,0,,0,0.0,0.0
+v-sion gmbh,1,0,,0,0.0,0.0
+valantic business analytics gmbh,6,0,,0,0.0,0.0
+vico research & consulting gmbh,1,0,,0,0.0,0.0
+vodafone kabel deutschland gmbh,1,0,,0,0.0,0.0
+vortal connecting business de gmbh,1,0,,0,0.0,0.0
+wabsolute gmbh,1,0,,0,0.0,0.0
+wachter & karbon it-consulting,2,0,,0,0.0,0.0
+web.sta [big] vertreten durch lunzer und partner gmbh,1,0,,0,0.0,0.0
+teleconnect & service gmbh,1,0,,0,0.0,0.0
+telecomputer gmbh,1,0,,0,0.0,0.0
+technische universität dortmund,1,0,,0,0.0,0.0
+tech2go mobile systems gmbh,1,0,,0,0.0,0.0
+sinnerschrader swipe gmbh,1,0,,0,0.0,0.0
+sky gate internetworking gmbh,1,0,,0,0.0,0.0
+smartoptimo gmbh & co. kg,2,0,,0,0.0,0.0
+softwaretechnik und informationsmanagement -stim- gmbh,1,0,,0,0.0,0.0
+sohnix ag,1,0,,0,0.0,0.0
+soltani smart consulting gmbh,1,0,,0,0.0,0.0
+soptim ag,2,0,,0,0.0,0.0
+stadt solingen,1,0,,0,0.0,0.0
+startext gmbh,3,0,,0,0.0,0.0
+steep,1,0,,0,0.0,0.0
+stiftung gesundheit gemeinnützige rechtsfähige stiftung bürgerlichen rechts,1,0,,0,0.0,0.0
+storage-erweiterung,1,0,,0,0.0,0.0
+stp informationstechnologie ag,5,0,,0,0.0,0.0
+stratec strategy & technology consultante gmbh,1,0,,0,0.0,0.0
+"straßenmanagement aktive mitte, -sandra trunk-",1,0,,0,0.0,0.0
+sunhill technologies gmbh,1,0,,0,0.0,0.0
+sven schilling design & authority,1,0,,0,0.0,0.0
+syncwork ag,6,0,,0,0.0,0.0
+synedra information technologies gmbh,2,0,,0,0.0,0.0
+sys softwaresysteme gmbh,1,0,,0,0.0,0.0
+südwestfalen-it,1,0,,0,0.0,0.0
+takomat gmbh,2,0,,0,0.0,0.0
+targens gmbh,1,0,,0,0.0,0.0
+mayerl & heinemann management consulting gmbh,1,0,,0,0.0,0.0
+marktplatz gmbh,1,0,,0,0.0,0.0
+markenzeichen gruppe gmbh & co. kg,1,0,,0,0.0,0.0
+form4 gmbh & co. kg,11,0,,0,0.0,0.0
+etengo deutschland ag,2,0,,0,0.0,0.0
+fa codia softwaregmbh,9,0,,0,0.0,0.0
+fa. areto consulting gmbh,1,0,,0,0.0,0.0
+fichtner it consulting gmbh,2,0,,0,0.0,0.0
+fiducia & gad it ag,1,0,,0,0.0,0.0
+firma robotron datenbank-software gmbh,1,0,,0,0.0,0.0
+fis frankfurter industrieservice gmbh,1,0,,0,0.0,0.0
+fitbase gmbh,1,0,,0,0.0,0.0
+fitt – institut für technologietransfer an der hochschule für technik und wirtschaft des saarlandes ggmbh,1,0,,0,0.0,0.0
+flowconcept agentur für kommunikation gmbh,1,0,,0,0.0,0.0
+forever digital gmbh,1,0,,0,0.0,0.0
+"forschungsinstitut technologie und behinderung (ftb), evangelische stiftung volmarstein",1,0,,0,0.0,0.0
+gradient systemintegration gmbh,1,0,,0,0.0,0.0
+frobeses gmbh informatikservices,1,0,,0,0.0,0.0
+fujtisu,1,0,,0,0.0,0.0
+fzi forschungszentrum informatik am karlsruher institut für technologie,1,0,,0,0.0,0.0
+gamic mbh,1,0,,0,0.0,0.0
+gdv ingelheim mbh,1,0,,0,0.0,0.0
+gecko gesellschaft für computer und kommunikationssysteme m.b.h.,4,0,,0,0.0,0.0
+giant monkey software engineering gmbh,1,0,,0,0.0,0.0
+giesecke & devrient currency technology gmbh,1,0,,0,0.0,0.0
+gitec-igip gmbh,1,0,,0,0.0,0.0
+global access internet services gmbh,1,0,,0,0.0,0.0
+goldmedia gmbh strategy consulting,1,0,,0,0.0,0.0
+esc – electronic service center gbr,1,0,,0,0.0,0.0
+entco deutschland gmbh,1,0,,0,0.0,0.0
+elita gmbh,1,0,,0,0.0,0.0
+ekom 21kgrz hessen,1,0,,0,0.0,0.0
+consol consulting & solutions software gmbh,1,0,,0,0.0,0.0
+contiba gmbh,1,0,,0,0.0,0.0
+cp consultingpartner ag,2,0,,0,0.0,0.0
+cth consult team hamburg gmbh,1,0,,0,0.0,0.0
+cybertrap software gmbh,1,0,,0,0.0,0.0
+damovo deutschland gmbh,1,0,,0,0.0,0.0
+dataport aör,1,0,,0,0.0,0.0
+datev eg,5,0,,0,0.0,0.0
+dcon software & services gmbh,1,0,,0,0.0,0.0
+deconsoft,1,0,,0,0.0,0.0
+defacto software bv,1,0,,0,0.0,0.0
+derovis gmbh,1,0,,0,0.0,0.0
+deutsche energie agentur gmbh,1,0,,0,0.0,0.0
+devcoach – michael willers,1,0,,0,0.0,0.0
+digital collections conten systems gmbh,1,0,,0,0.0,0.0
+diva-e netpioneer gmbh,1,0,,0,0.0,0.0
+dmi gmbh & co.kg,1,0,,0,0.0,0.0
+dmkzwo gmbh & co.kg,1,0,,0,0.0,0.0
+dok systeme ingenieurgesellschaft für kommunikationstechnik mbh,2,0,,0,0.0,0.0
+dr. christina rehding,1,0,,0,0.0,0.0
+dr. lippe & dr. wagner gmbh,1,0,,0,0.0,0.0
+dvhaus software &solutions gmbh,1,0,,0,0.0,0.0
+einszueins,1,0,,0,0.0,0.0
+google ireland ltd.,1,0,,0,0.0,0.0
+grc partner gmbh,1,0,,0,0.0,0.0
+macina digital film gmbh & co. kg,1,0,,0,0.0,0.0
+kappert consulting gmbh,1,0,,0,0.0,0.0
+iso software systeme gmbh,5,0,,0,0.0,0.0
+it.sec gmbh & co. kg,1,0,,0,0.0,0.0
+itelligence ag,1,0,,0,0.0,0.0
+itelligence global managed services gmbh,2,0,,0,0.0,0.0
+iteratec gmbh,6,0,,0,0.0,0.0
+ixenso ag,1,0,,0,0.0,0.0
+jarosch &haas gmbh,1,0,,0,0.0,0.0
+jens wudick consulting gmbh,1,0,,0,0.0,0.0
+jobnet.ag,2,0,,0,0.0,0.0
+k-is systemhaus gmbh,1,0,,0,0.0,0.0
+kalinowski gmbh,1,0,,0,0.0,0.0
+kdo service gmbh,1,0,,0,0.0,0.0
+hafner software gmbh,1,0,,0,0.0,0.0
+kobil system gmbh,1,0,,0,0.0,0.0
+kühn & weyh software gmbh,1,0,,0,0.0,0.0
+leonhardt multimedia gmbh,2,0,,0,0.0,0.0
+limnos webservice gmbh,1,0,,0,0.0,0.0
+linbit ha solutions gmbh,1,0,,0,0.0,0.0
+linkfish consulting gmbh,2,0,,0,0.0,0.0
+ll consulting gmbh,1,0,,0,0.0,0.0
+lm it services ag,3,0,,0,0.0,0.0
+logodata erfurt gmbh,6,0,,0,0.0,0.0
+lse space gmbh,1,0,,0,0.0,0.0
+mabinso software gmbh,2,0,,0,0.0,0.0
+isento gmbh,1,0,,0,0.0,0.0
+"iqul gmbh, institut für qualitätsmanagement in der universitären lehre",1,0,,0,0.0,0.0
+ipatec gmbh & co. kg,1,0,,0,0.0,0.0
+intra find software ag,1,0,,0,0.0,0.0
+hallobtf! gmbh,1,0,,0,0.0,0.0
+hdl designhouse,1,0,,0,0.0,0.0
+helpline gmbh,2,0,,0,0.0,0.0
+hirschtec gmbh & co. kg,1,0,,0,0.0,0.0
+hitabis gmbh,2,0,,0,0.0,0.0
+hochtief vicon+hochtief ppp (bige),1,0,,0,0.0,0.0
+horn & cosifan computersysteme gmbh,1,0,,0,0.0,0.0
+horst hülse,1,0,,0,0.0,0.0
+hrinstruments gmbh,1,0,,0,0.0,0.0
+hsd händschke software & datentechnik gmbh,1,0,,0,0.0,0.0
+iabg mbh niederlassung berlin,1,0,,0,0.0,0.0
+ib solution gmbh,1,0,,0,0.0,0.0
+ib-bank-systems gmbh / sks solutions,1,0,,0,0.0,0.0
+identity trust management ag,1,0,,0,0.0,0.0
+idpendant gmbh,4,0,,0,0.0,0.0
+ifv- ingenieurbüro für verkehrstechnik müller & lange gmbh,1,0,,0,0.0,0.0
+innowerk-it gmbh,2,0,,0,0.0,0.0
+inrix uk ltd,1,0,,0,0.0,0.0
+inside buv gmbh,1,0,,0,0.0,0.0
+insiders technologies,1,0,,0,0.0,0.0
+interactive instruments,1,0,,0,0.0,0.0
+interaktiv gmbh,2,0,,0,0.0,0.0
+intercard gmbh kartensysteme,2,0,,0,0.0,0.0
+webid solutions gmbh,1,0,,0,0.0,0.0
+weidler consulting gmbh,1,0,,0,0.0,0.0
+concat AG – GS Hamburg,1,0,,0,0.0,0.0
+efront gmbh,1,0,,0,0.0,0.0
+dnv gl energy advisory gmbh,2,0,,0,0.0,0.0
+doctronic gmbh & co. kg,2,0,,0,0.0,0.0
+documentus deutschland gmbh,1,0,,0,0.0,0.0
+dr. stephan lücke,1,0,,0,0.0,0.0
+dräger safety ag & co.kgaa,1,0,,0,0.0,0.0
+dsi datensicherheit gmbh,1,0,,0,0.0,0.0
+dummy verlag gmbh,1,0,,0,0.0,0.0
+dxc technologie,1,0,,0,0.0,0.0
+ebcsoft gmbh,3,0,,0,0.0,0.0
+econocom deutschland gmbh,1,0,,0,0.0,0.0
+effective webwork gmbh,1,0,,0,0.0,0.0
+elektro löb gmbh & co. kg,1,0,,0,0.0,0.0
+digitronic computersysteme gmbh,1,0,,0,0.0,0.0
+elementare teilchen gmbh,1,0,,0,0.0,0.0
+empira software gmbh,1,0,,0,0.0,0.0
+eplass project collaboration gmbh,4,0,,0,0.0,0.0
+ernst & young wirtschaftprüfungsunternehmen gmbh,1,0,,0,0.0,0.0
+ernw research gmbh,1,0,,0,0.0,0.0
+esg,1,0,,0,0.0,0.0
+esg consulting gmbh,3,0,,0,0.0,0.0
+etengo (deutschland) gmbh,1,0,,0,0.0,0.0
+european telemedicine clinic sl,1,0,,0,0.0,0.0
+exactag gmbh,1,0,,0,0.0,0.0
+expertplace networks group ag,2,0,,0,0.0,0.0
+dmk ebusiness gmbh,1,0,,0,0.0,0.0
+digital creating solutions,1,0,,0,0.0,0.0
+westernacher solutions ag,2,0,,0,0.0,0.0
+data and analytics,1,0,,0,0.0,0.0
+concat ag,4,0,,0,0.0,0.0
+constructive consulting regulatory & risk,1,0,,0,0.0,0.0
+consulting impact gmbh,1,0,,0,0.0,0.0
+converneo gmbh,2,0,,0,0.0,0.0
+convidera gmbh,1,0,,0,0.0,0.0
+cortility gmbh,1,0,,0,0.0,0.0
+cosmo consult bi gmbh,1,0,,0,0.0,0.0
+cosmoto gmbh & co kg.,1,0,,0,0.0,0.0
+cosylab,1,0,,0,0.0,0.0
+cyclomedia,1,0,,0,0.0,0.0
+d.velop ag,2,0,,0,0.0,0.0
+data one gmbh,2,0,,0,0.0,0.0
+digit solutions gmbh,1,0,,0,0.0,0.0
+datenlotsen informationssysteme gmbh,1,0,,0,0.0,0.0
+de-bit computer-service gmbh,1,0,,0,0.0,0.0
+deconsoft andreas bestvater,1,0,,0,0.0,0.0
+degetel gmbh,1,0,,0,0.0,0.0
+deltares,1,0,,0,0.0,0.0
+demicon gmbh,1,0,,0,0.0,0.0
+deutsche zentralbibliothek für medizin (zb med) - informationszentrum lebenswissenschaften,1,0,,0,0.0,0.0
+devnet gmbh,2,0,,0,0.0,0.0
+devoteam gmbh,2,0,,0,0.0,0.0
+dialog edv systementwicklung gmbh,2,0,,0,0.0,0.0
+die namen der rahmenvertragspartner werden aus gründen des schutzes des geheimwettbewerbs für die einzelauftragsvergaben nicht bekannt gegeben.,1,0,,0,0.0,0.0
+exxonit,1,0,,0,0.0,0.0
+fa untis gmbh,8,0,,0,0.0,0.0
+facts&figures gmbh,1,0,,0,0.0,0.0
+holger schmitt - it consulting,1,0,,0,0.0,0.0
+gulp information services gmbh,1,0,,0,0.0,0.0
+gwt-tud gmbh,1,0,,0,0.0,0.0
+h3ko vertriebsgesellschaft mbh,1,0,,0,0.0,0.0
+harris geospatial solutions gmbh,1,0,,0,0.0,0.0
+hbsn ag,19,0,,0,0.0,0.0
+hec gmbh,1,0,,0,0.0,0.0
+heinlein support gmbh,4,0,,0,0.0,0.0
+henne & ordnung schmandt & van oorde gbr,1,0,,0,0.0,0.0
+hetterich consulting gmbh & co. kg,1,0,,0,0.0,0.0
+hexa8-ingenieurdienstleistungen gbr,1,0,,0,0.0,0.0
+hhk datentechnik gmbh,1,0,,0,0.0,0.0
+horváth & partners gmbh,1,0,,0,0.0,0.0
+fairtiq ag,2,0,,0,0.0,0.0
+ideenmanufaktur gmbh,1,0,,0,0.0,0.0
+ihs markit sarl,1,0,,0,0.0,0.0
+imtb consulting,1,0,,0,0.0,0.0
+in-factory gmbh,2,0,,0,0.0,0.0
+inccas – intercultural consultancy and studies,1,0,,0,0.0,0.0
+indico-solutions gmbh,1,0,,0,0.0,0.0
+inducto gmbh,1,0,,0,0.0,0.0
+inelo polska spółka z ograniczoną odpowiedzialnością,1,0,,0,0.0,0.0
+"infa institut für abfall, abwasser und infrastruktur-management gmbh",1,0,,0,0.0,0.0
+infinit.cx gmbh,2,0,,0,0.0,0.0
+"infora-gesellschaft für information, organisation und automation mbh",1,0,,0,0.0,0.0
+grit gmbh,2,0,,0,0.0,0.0
+gregor körbes,1,0,,0,0.0,0.0
+greenlight consutting gmbh,1,0,,0,0.0,0.0
+gfi informationsdesign gmbh,1,0,,0,0.0,0.0
+familie redlich digital GmbH,4,0,,0,0.0,0.0
+fau gmbh,1,0,,0,0.0,0.0
+fazit communication gmbh,2,0,,0,0.0,0.0
+fgh gmbhj,1,0,,0,0.0,0.0
+fichtner it consulting gmbh nl berlin,1,0,,0,0.0,0.0
+fielax gmbh,1,0,,0,0.0,0.0
+finbridge gmbh & co. kg,1,0,,0,0.0,0.0
+fincon unternehmensberatung gmbh,1,0,,0,0.0,0.0
+firma mach ag,1,0,,0,0.0,0.0
+fischerappelt relations gmbh,1,0,,0,0.0,0.0
+fjd information technologies ag,2,0,,0,0.0,0.0
+forschungsinstitut zur zukunft der arbeit gmbh,1,0,,0,0.0,0.0
+fotofix schnellphotoautomaten gmbh,1,0,,0,0.0,0.0
+fraunhofer-institut für angewandte und integrierte sicherheit (aisec),1,0,,0,0.0,0.0
+"fraunhofer-institut für kommunikation, informationsverarbeitung und ergonomie (fkie)",1,0,,0,0.0,0.0
+frentix gmbh,1,0,,0,0.0,0.0
+g.i.p. s.a.r.l.,1,0,,0,0.0,0.0
+g.on experience gmbh,2,0,,0,0.0,0.0
+gemakom gmbh,2,0,,0,0.0,0.0
+gematik gesellschaft für telematikanwendungen der gesundheitskarte mbh,1,0,,0,0.0,0.0
+genau gmbh,1,0,,0,0.0,0.0
+geosoft europe ltd,1,0,,0,0.0,0.0
+geoware monitoring gmbh,2,0,,0,0.0,0.0
+comundus gmbh,1,0,,0,0.0,0.0
+complion ag (bietergemeinschaft mit licetus gmbh & co. kg),1,0,,0,0.0,0.0
+comnet gmbh,3,0,,0,0.0,0.0
+a bis z consulting & development,1,0,,0,0.0,0.0
+Info GmbH,1,0,,0,0.0,0.0
+Jungmann Systemtechnik GmbH & Co. KG,2,0,,0,0.0,0.0
+KKS Kölner Kommunikations Systeme GmbH,2,0,,0,0.0,0.0
+L und M Business IT GmbH,1,0,,0,0.0,0.0
+Micro Systemation AB,1,0,,0,0.0,0.0
+Moysies und Partner IT-und Managementberatung mbB,2,0,,0,0.0,0.0
+"Q_Perion AG, Bietergemeinschaft Q_Perion AG/Softeq Devolpment GmbH",1,0,,0,0.0,0.0
+Systema GmbH,2,0,,0,0.0,0.0
+Tasco Revisions und Beratung GmbH,2,0,,0,0.0,0.0
+VMZ Berlin Betreibergesellschaft mbH,4,0,,0,0.0,0.0
+WE DO communication GmbH GWA,1,0,,0,0.0,0.0
+ab-data gmbh & co. kg,1,0,,0,0.0,0.0
+"allgeier enterpriese service ag, bietergemeinschaft allgeier enterprise service ag/allgeier experts se",1,0,,0,0.0,0.0
+abb ag,1,0,,0,0.0,0.0
+abl-social-federation gmbh,2,0,,0,0.0,0.0
+abs-team gmbh,1,0,,0,0.0,0.0
+acadgraph cadstudio gmbh,1,0,,0,0.0,0.0
+accuris ag,1,0,,0,0.0,0.0
+actonic gmbh,2,0,,0,0.0,0.0
+adams software entwicklung,1,0,,0,0.0,0.0
+age of artists ggmbh,1,0,,0,0.0,0.0
+aicovo gmbh,1,0,,0,0.0,0.0
+airitsystems gmbh,2,0,,0,0.0,0.0
+akten-ex gmbh & co. kg,1,0,,0,0.0,0.0
+ITS Informationstechnik Service GmbH,3,0,,0,0.0,0.0
+HSH Soft- und Hardware Vertriebs GmbH,5,0,,0,0.0,0.0
+H&G Hansen & Gieraths,4,0,,0,0.0,0.0
+GreenIT Das Systemhaus GmbH,1,0,,0,0.0,0.0
+wg systems e.k.,4,0,,0,0.0,0.0
+wharton research data services,1,0,,0,0.0,0.0
+wimpit gmbh,1,0,,0,0.0,0.0
+wps gmbh,2,0,,0,0.0,0.0
+xdot gmbh,8,0,,0,0.0,0.0
+xdot gmbh – a convotis company,1,0,,0,0.0,0.0
+zalaris ag,1,0,,0,0.0,0.0
+zalaris deutschland ag (sumarum ag),1,0,,0,0.0,0.0
+zeb.rolfes.schierenbeck.associates gmbh,2,0,,0,0.0,0.0
+zeta software gmbh,3,0,,0,0.0,0.0
+école polytechnique – french public higher education and research institute – lmd – laboratoire de météorologie dynamique,1,0,,0,0.0,0.0
+1&1 versatel gmbh,1,0,,0,0.0,0.0
+1) bietergemeinschaft acg automation consulting group gmbh und acg financial services gmbh 2) computacenter ag & co. ohg 3) hays ag 4) it professionals ag 5) msg gillardon ag 6) bechtle gmbh & co. kg,1,0,,0,0.0,0.0
+1.) accenture gmbh 2.) adesso ag 3.) bearing point gmbh 4.) bietergemeinschaft deloitte consulting gmbh und deloitte gmbh 5.) q-perior ag 6.) sopra steria se,1,0,,0,0.0,0.0
+1.) bietergemeinschaft acg automation consulting group gmbh und acg finanical services gmbh 2.) atos information technology gmbh 3.) cognizant worldwide limited 4.) hays ag 5.) it professionals ag 6.) msg gillardon ag,1,0,,0,0.0,0.0
+3pc gmbh,2,0,,0,0.0,0.0
+ATRON electronic GmbH,3,0,,0,0.0,0.0
+Anders & Rodewyk Das Systemhaus für Computertechnologien GmbH,1,0,,0,0.0,0.0
+Avision GmbH,1,0,,0,0.0,0.0
+Axxiome Deutschland GmbH,2,0,,0,0.0,0.0
+Baker Tilly Wirtschaftsprüfungsgesellschaft GmbH,2,0,,0,0.0,0.0
+CycloMedia Deutschland GmbH,3,0,,0,0.0,0.0
+E-COMPANY Consultants IT Beratung AG,5,0,,0,0.0,0.0
+albakom gmbh,1,0,,0,0.0,0.0
+allgeier enterprise service ag,1,0,,0,0.0,0.0
+clatum gmbh,1,0,,0,0.0,0.0
+bst buck systemtechnik,1,0,,0,0.0,0.0
+bilettix gmbh,1,0,,0,0.0,0.0
+bissantz & company gmbh,1,0,,0,0.0,0.0
+bit-p thomas post,1,0,,0,0.0,0.0
+blue call ag,1,0,,0,0.0,0.0
+bluebizz gmbh,1,0,,0,0.0,0.0
+blueshoe gmbh,1,0,,0,0.0,0.0
+bonpago gmbh,2,0,,0,0.0,0.0
+bosenet systemhaus gmbh & co kg,1,0,,0,0.0,0.0
+bpc ag,1,0,,0,0.0,0.0
+braincourt gmbh,2,0,,0,0.0,0.0
+breuer nachrichtentechnik gmbh,2,0,,0,0.0,0.0
+bureau van dijk,1,0,,0,0.0,0.0
+allplan deutschland gmbh,2,0,,0,0.0,0.0
+bücker it-security gmbh,2,0,,0,0.0,0.0
+c. a. p. e. it gmbh,1,0,,0,0.0,0.0
+cabs gmbh chemnitz,1,0,,0,0.0,0.0
+campana & schott gmbh,2,0,,0,0.0,0.0
+campus unity gmbh,10,0,,0,0.0,0.0
+cas ag,1,0,,0,0.0,0.0
+cema gmbh spezialisten für informationstechnologie,1,0,,0,0.0,0.0
+cheil germany gmbh,1,0,,0,0.0,0.0
+cherwell software gmbh,1,0,,0,0.0,0.0
+ci software solutions gmbh,1,0,,0,0.0,0.0
+circle unlimited ag,2,0,,0,0.0,0.0
+bike citizens mobile solutions gmbh,1,0,,0,0.0,0.0
+"bietergemeinschaft x-tention gruppe (faktor d consulting gmbh, x-tention in-formationstechnologie gmbh)",1,0,,0,0.0,0.0
+bietergemeinschaft visart gmbh – web commerce gmbh,1,0,,0,0.0,0.0
+"bietergemeinschaft engineering (engineering bsc gmbh, engineering dss gmbh, engineering software labs gmbh)",1,0,,0,0.0,0.0
+amagno gmbh & co kg,1,0,,0,0.0,0.0
+amc — analytik & messtechnik gmbh chemnitz,1,0,,0,0.0,0.0
+anacision gmbh,1,0,,0,0.0,0.0
+aproo consulting gmbh,2,0,,0,0.0,0.0
+aqua – institut für angewandte qualitätsförderung,1,0,,0,0.0,0.0
+arbeitsgemeinschaft wp-squirrel bestehend aus: c/o albert ing. gmbh 60314 frankfurt und netzwerkplan gmbh 64297 darmstadt,1,0,,0,0.0,0.0
+archikart software ag,1,0,,0,0.0,0.0
+arithnea gmbh,2,0,,0,0.0,0.0
+arndt & baufeld software gmbh,1,0,,0,0.0,0.0
+arthur d. little gmbh,2,0,,0,0.0,0.0
+atrikom fulfillment gmbh,1,0,,0,0.0,0.0
+audens telecommunications consulting gmbh,1,0,,0,0.0,0.0
+ayonik gmbh,1,0,,0,0.0,0.0
+bae systems applied intelligence international limited,1,0,,0,0.0,0.0
+balvi gmbh,2,0,,0,0.0,0.0
+basys bartsch edv-systeme gmbh,2,0,,0,0.0,0.0
+bayoonet ag,2,0,,0,0.0,0.0
+bcis it-systeme gmbh & co.kg,1,0,,0,0.0,0.0
+"be think, solve, execute gmbh",1,0,,0,0.0,0.0
+bedirect gmbh & co. kg,1,0,,0,0.0,0.0
+benchling,1,0,,0,0.0,0.0
+berbach gmbh,1,0,,0,0.0,0.0
+"bietergemeinschaft bestehend aus: x-tention informationstechnologie gmbh, soffico gmbh, intercomponentware ag",10,0,,0,0.0,0.0
+confinity gmbh,1,0,,0,0.0,0.0
+compuware software group gmbh,1,0,,0,0.0,0.0
+inside partner – verlag und agentur gmbh,10,0,,0,0.0,0.0
+gonvista gonsulting ag,1,0,,0,0.0,0.0
+franz und wenke gbr,1,0,,0,0.0,0.0
+friedrich-schiller-universität institut für psychologie,1,0,,0,0.0,0.0
+gbtec software + consulting,1,0,,0,0.0,0.0
+ge healthcare gmbh,1,0,,0,0.0,0.0
+gecko mbh,3,0,,0,0.0,0.0
+geomagic gmbh,1,0,,0,0.0,0.0
+gesid gesellschaft für individuelle datenverarbeitung mbh,1,0,,0,0.0,0.0
+gewi europe gmbh & co.kg,1,0,,0,0.0,0.0
+gis consult,1,0,,0,0.0,0.0
+gkv sc eg,3,0,,0,0.0,0.0
+globalways ag,1,0,,0,0.0,0.0
+gradient.systemintegration gmbh,1,0,,0,0.0,0.0
+firma dmi gmbh & co. kg,1,0,,0,0.0,0.0
+grenke bank ag,1,0,,0,0.0,0.0
+gud. grüner und deutscher gmbh,1,0,,0,0.0,0.0
+hahn projects gmbh,1,0,,0,0.0,0.0
+halfer it systeme,1,0,,0,0.0,0.0
+hans-joachim bannier,1,0,,0,0.0,0.0
+hansecom gesellschaft für informations- und kommunikationsdienstleistungen mbh,1,0,,0,0.0,0.0
+heike hagen,1,0,,0,0.0,0.0
+heller ingenieurgesellschaft mbh,2,0,,0,0.0,0.0
+helmholtz-zentrum für umweltforschung gmbh – ufz,1,0,,0,0.0,0.0
+herr rinat zeh,1,0,,0,0.0,0.0
+hfp informationssysteme gmbh,2,0,,0,0.0,0.0
+fis-asp gmbh,1,0,,0,0.0,0.0
+fairkehr gmbh,1,0,,0,0.0,0.0
+microcat gmbh,1,0,,0,0.0,0.0
+dsc unternehmensberatung und software gmbh,1,0,,0,0.0,0.0
+dgn deutsches gesundheitsnetz service gmbh,1,0,,0,0.0,0.0
+digital forward gmbh,2,0,,0,0.0,0.0
+digitask gmbh,1,0,,0,0.0,0.0
+digitaslbi ag,1,0,,0,0.0,0.0
+dipl. ing. klaas schlenkermann,1,0,,0,0.0,0.0
+dirk rossmann gmbh,1,0,,0,0.0,0.0
+dmi gmbh & co. kg,4,0,,0,0.0,0.0
+doctra,1,0,,0,0.0,0.0
+dokom gesellschaft für telekommunikation mbh,1,0,,0,0.0,0.0
+domeprojection.com gmbh,1,0,,0,0.0,0.0
+dr. werner schuricht,1,0,,0,0.0,0.0
+dst consulting,1,0,,0,0.0,0.0
+fabian cornelius einzelunternehmen,1,0,,0,0.0,0.0
+eWorks GmbH,1,0,,0,0.0,0.0
+ecointense gmbh,1,0,,0,0.0,0.0
+edatasystems gmbh,1,0,,0,0.0,0.0
+empalis consulting gmbh,1,0,,0,0.0,0.0
+eox it services gmbh,1,0,,0,0.0,0.0
+equensworldline gmbh,1,0,,0,0.0,0.0
+etengo academic experts gmbh,1,0,,0,0.0,0.0
+european dynamics deutschlang gmbh,1,0,,0,0.0,0.0
+evora solutions gmbh,1,0,,0,0.0,0.0
+ewe tel gmbh,7,0,,0,0.0,0.0
+exozet berlin gmbh,4,0,,0,0.0,0.0
+hochschule osnabrück,1,0,,0,0.0,0.0
+hvs-consulting ag,1,0,,0,0.0,0.0
+ibykus ag,2,0,,0,0.0,0.0
+krallmann ag,2,0,,0,0.0,0.0
+junidas gmbh,2,0,,0,0.0,0.0
+kahle gmbh,1,0,,0,0.0,0.0
+kalthöfer telekommunikation gmbh,1,0,,0,0.0,0.0
+keylane gmbh,1,0,,0,0.0,0.0
+kiehm datenmanagement gmbh,1,0,,0,0.0,0.0
+kiltz-webanwendungen,2,0,,0,0.0,0.0
+kirchbergerknorr gmbh,1,0,,0,0.0,0.0
+klangerfinder gmbh & co. kg,1,0,,0,0.0,0.0
+kobit informationstechnologie gmbh,1,0,,0,0.0,0.0
+"konsortium ernw, vertreten durch ernw enno rey netzwerke gmbh",1,0,,0,0.0,0.0
+koordinierbar – raum für projekte,1,0,,0,0.0,0.0
+landgesellschaft,1,0,,0,0.0,0.0
+ict solutions ag,3,0,,0,0.0,0.0
+leidos innovations uk limited,1,0,,0,0.0,0.0
+lorenz orga-systeme gmbh,1,0,,0,0.0,0.0
+los 1: cib software gmbh,1,0,,0,0.0,0.0
+lutz büro- und datentechnik gmbh,2,0,,0,0.0,0.0
+löwenholz kommunikation,1,0,,0,0.0,0.0
+machbar gmbh,1,0,,0,0.0,0.0
+mailvelope gmbh,1,0,,0,0.0,0.0
+martin heigermoser it consulting,1,0,,0,0.0,0.0
+maxpert gmbh,1,0,,0,0.0,0.0
+mediadialog gmbh,1,0,,0,0.0,0.0
+mediakom gmbh & co. kg,5,0,,0,0.0,0.0
+julian freitas it consulting und support,1,0,,0,0.0,0.0
+jouve s.a.,1,0,,0,0.0,0.0
+ixpertcon gmbh,1,0,,0,0.0,0.0
+itsm consulting gmbh,2,0,,0,0.0,0.0
+iibuco – peter kadlec,1,0,,0,0.0,0.0
+imbus ag,4,0,,0,0.0,0.0
+implexis gmbh,1,0,,0,0.0,0.0
+imtb mtc gmbh,1,0,,0,0.0,0.0
+infoniqa hr solutions gmbh niederlassung deutschland,1,0,,0,0.0,0.0
+ingenierbüro zitzmann,1,0,,0,0.0,0.0
+ingenieurbüro ulmer technische informatik,1,0,,0,0.0,0.0
+inopus gmbh,1,0,,0,0.0,0.0
+insider technologies limited,1,0,,0,0.0,0.0
+institut für binnenfischerei e. v. potsdam-sacrow,1,0,,0,0.0,0.0
+institut für pflegewissenschaft an der universität bielefeld (ipw),1,0,,0,0.0,0.0
+"int.ras.pdv gesellschaft für schulung, dokumentation und multimedia mbh",1,0,,0,0.0,0.0
+integrated services gbr,1,0,,0,0.0,0.0
+inter-forum gmbh,1,0,,0,0.0,0.0
+interev gmbh,1,0,,0,0.0,0.0
+interflex datensysteme gmbh,3,0,,0,0.0,0.0
+intergraph sg&i deutschland gmbh division hexagon safety & infrastructure,1,0,,0,0.0,0.0
+interlspace sa,1,0,,0,0.0,0.0
+isup,1,0,,0,0.0,0.0
+it-beratung hundertmark gmbh,1,0,,0,0.0,0.0
+it-p gmbh,4,0,,0,0.0,0.0
+itemis AG,2,0,,0,0.0,0.0
+itsm consulting ag,2,0,,0,0.0,0.0
+deutsches mikrofilm institut,1,0,,0,0.0,0.0
+deskcenter solutions ag,1,0,,0,0.0,0.0
+delta systemtechnik horn gmbh,1,0,,0,0.0,0.0
+acando gmbh,2,0,,0,0.0,0.0
+Industrieanlagen-Betriebsgesellschaft mbH,4,0,,0,0.0,0.0
+Infomotion GmbH,3,0,,0,0.0,0.0
+Innovative Datensysteme GmbH indasys,5,0,,0,0.0,0.0
+Institut der deutschen Wirtschaft Köln,3,0,,0,0.0,0.0
+MEGWARE Computer GmbH,1,0,,0,0.0,0.0
+Markit Group Limited,2,0,,0,0.0,0.0
+"PROMOS consult Projektmanagement, Organisation und Service GmbH",1,0,,0,0.0,0.0
+ProCon GmbH & Co.KG,1,0,,0,0.0,0.0
+Q-SOFT GmbH,2,0,,0,0.0,0.0
+Sitecore Deutschland GmbH,1,0,,0,0.0,0.0
+TechTalk Software Support Handelsgesellschaft m.B. H.,1,0,,0,0.0,0.0
+accso-accelerated solutions gmbh,2,0,,0,0.0,0.0
+apsolut gmbh,1,0,,0,0.0,0.0
+acg automation consulting gmbh,1,0,,0,0.0,0.0
+agitavit solutions d.o.o.,1,0,,0,0.0,0.0
+agosense gmbh,1,0,,0,0.0,0.0
+aios gmbh,4,0,,0,0.0,0.0
+akdb,1,0,,0,0.0,0.0
+albrechtconsult gmbh,1,0,,0,0.0,0.0
+alive-service gmbh,1,0,,0,0.0,0.0
+amazee labs ag,1,0,,0,0.0,0.0
+amoria bond,1,0,,0,0.0,0.0
+anders & rodewyk gmbh,1,0,,0,0.0,0.0
+anthony best dynamics ltd.,1,0,,0,0.0,0.0
+IT-Choice Software AG,2,0,,0,0.0,0.0
+IT Sure GmbH,1,0,,0,0.0,0.0
+ISB Institut für Software-Entwicklung und EDV-Beratung AG,7,0,,0,0.0,0.0
+GoVirtual Germany GmbH,2,0,,0,0.0,0.0
+14a it-services gmbh,1,0,,0,0.0,0.0
+1xinternet gmbh,1,0,,0,0.0,0.0
+3m traffic safety & security division 3 m electronic monotoring,1,0,,0,0.0,0.0
+42transformations Ltd. & Co. KG,2,0,,0,0.0,0.0
+<i-d> internet + design gmbh & co. kg,1,0,,0,0.0,0.0
+ANNOVA Systems GmbH,2,0,,0,0.0,0.0
+AQUA Institut für angewandte Qualitätsförderung und Forschung im Gesundheitswesen GmbH,1,0,,0,0.0,0.0
+Assecor GmbH,3,0,,0,0.0,0.0
+Athos Unternehmensberatung GmbH,1,0,,0,0.0,0.0
+BDO AG Wirtschaftsprüfungsgesellschaft,3,0,,0,0.0,0.0
+CN Consult GmbH,1,0,,0,0.0,0.0
+ComConsult GmbH,5,0,,0,0.0,0.0
+Comptacenter AG & Co. oHG,1,0,,0,0.0,0.0
+Corporate Education,1,0,,0,0.0,0.0
+Cpro Industry Projects & Solutions GmbH,3,0,,0,0.0,0.0
+D.I.E. Projekt GmbH,2,0,,0,0.0,0.0
+Dräger Medical Deutschland GmbH,1,0,,0,0.0,0.0
+EMC Deutschland GmbH,3,0,,0,0.0,0.0
+EWERK DIGITAL GmbH,7,0,,0,0.0,0.0
+Fa. Intergraph SG & I Deutschland GmbH,1,0,,0,0.0,0.0
+Fluxguide Ausstellungssysteme GmbH,3,0,,0,0.0,0.0
+GAI NetConsult GmbH,5,0,,0,0.0,0.0
+"GDMcom GmbH, Maximilianallee 4, 04129 Leipzig",1,0,,0,0.0,0.0
+apdemac ltd.,1,0,,0,0.0,0.0
+aq4business gmbh,1,0,,0,0.0,0.0
+"dell gmbh, unterschweinstiege 10, 60549 frankfurt",1,0,,0,0.0,0.0
+competenzia gmbh,1,0,,0,0.0,0.0
+"cavit artanlar, unternehmensberatung",1,0,,0,0.0,0.0
+cegeka deutschland gmbh,2,0,,0,0.0,0.0
+cema ag,1,0,,0,0.0,0.0
+cema gmbh,1,0,,0,0.0,0.0
+cimt consulting ag,2,0,,0,0.0,0.0
+ciss tdi gesellschaft für technische dv informationssysteme mbh,1,0,,0,0.0,0.0
+cit gmbh,4,0,,0,0.0,0.0
+codia Software GmbH,23,0,,0,0.0,0.0
+cognizant energy and financial services consulting gmbh,1,0,,0,0.0,0.0
+cognizant technology solutions gmbh,1,0,,0,0.0,0.0
+com training & services mainz/wiesbaden awma gmbh & co. kg,1,0,,0,0.0,0.0
+computer stamm gmbh,1,0,,0,0.0,0.0
+arascon gmbh,1,0,,0,0.0,0.0
+con terra gesellschaft für angewandte informationstechnologie mbh,3,0,,0,0.0,0.0
+consist itu environmental software gmbh,1,0,,0,0.0,0.0
+constructive,1,0,,0,0.0,0.0
+contentxxl gmbh,1,0,,0,0.0,0.0
+convotis,1,0,,0,0.0,0.0
+cristie data gmbh,1,0,,0,0.0,0.0
+cubic transportation (deutschland gmbh,1,0,,0,0.0,0.0
+data experts gmbh,4,0,,0,0.0,0.0
+davaso gmbh,2,0,,0,0.0,0.0
+dedaca consulting gmbh,1,0,,0,0.0,0.0
+"deimos space, s.l.u.",1,0,,0,0.0,0.0
+cataligent projekt,1,0,,0,0.0,0.0
+c.h.beck ohg,1,0,,0,0.0,0.0
+businesspilot gmbh,1,0,,0,0.0,0.0
+bundesstadt bonn,1,0,,0,0.0,0.0
+arbeitsgemeinschaft it2 solutions ag – apdemac ltd.,1,0,,0,0.0,0.0
+archimedes exhibitions gmbh,1,0,,0,0.0,0.0
+arctron3d-gmbh,1,0,,0,0.0,0.0
+argumentum gmbh,1,0,,0,0.0,0.0
+aura computersysteme,1,0,,0,0.0,0.0
+aurex gmbh,2,0,,0,0.0,0.0
+automic software gmbh,1,0,,0,0.0,0.0
+avt stoye gmbh,2,0,,0,0.0,0.0
+aw-systems gmbh,1,0,,0,0.0,0.0
+axians it solutions gmbh,4,0,,0,0.0,0.0
+axians networks & solutions gmbh,2,0,,0,0.0,0.0
+banctec gmbh,2,0,,0,0.0,0.0
+bietergemeinschaft barzahlen; cash payment solutions gmbh,1,0,,0,0.0,0.0
+bietergemeinschaft lehmann+partner gmbh / arrb gruop ltd. vermont (australien),1,0,,0,0.0,0.0
+bit.group gmbh,1,0,,0,0.0,0.0
+biz factory gmbh,8,0,,0,0.0,0.0
+bluestec gmbh,1,0,,0,0.0,0.0
+boom gmbh,1,0,,0,0.0,0.0
+brandung gmbh & co. kg,2,0,,0,0.0,0.0
+bright skies gmbh,1,0,,0,0.0,0.0
+btb gmbh,1,0,,0,0.0,0.0
+bull gmbh,1,0,,0,0.0,0.0
+bundesdruckerei gmbh,4,0,,0,0.0,0.0
+mentana-claimsoft gmbh,4,0,,0,0.0,0.0
+"microsynth ag, ecogenics gmbh",1,0,,0,0.0,0.0
+"computacenter ag & co. ohg (rang 1), norcom information technology ag (rang 2), compusafe data systems ag (rang 3) (siehe ziffer iv.3) – zusätzliche angaben)",1,0,,0,0.0,0.0
+TechniaTranscat GmbH,1,0,,0,0.0,0.0
+IMS Gesellschaft für Informations- und Managementsysteme,1,0,,0,0.0,0.0
+INFINITT Europe GmbH,5,0,,0,0.0,0.0
+Infor GmbH,3,0,,0,0.0,0.0
+Informatikgesellschaft für Software-Entwicklung mbH,2,0,,0,0.0,0.0
+NEC Deutschland GmbH,4,0,,0,0.0,0.0
+Optimal Systems Vertriebsgesellschaft mbH Hannover,7,0,,0,0.0,0.0
+Planon GmbH,2,0,,0,0.0,0.0
+Scheidt & Bachmann System Technik GmbH,1,0,,0,0.0,0.0
+Schmiedel-Informatik,1,0,,0,0.0,0.0
+Siemens Industry Software GmbH,1,0,,0,0.0,0.0
+Staatsanzeiger für Baden-Württemberg GmbH,1,0,,0,0.0,0.0
+Unify GmbH & Co. KG,1,0,,0,0.0,0.0
+Fraunhofer-Institut IOSB,2,0,,0,0.0,0.0
+Verein zur Förderung eines Deutschen Forschungsnetzes (DFN-Verein),2,0,,0,0.0,0.0
+WPS Workplace Solutions GmbH,12,0,,0,0.0,0.0
+a&b one digital gmbh,1,0,,0,0.0,0.0
+abakus it ag,1,0,,0,0.0,0.0
+abian gmbh,1,0,,0,0.0,0.0
+abs team,1,0,,0,0.0,0.0
+accellonet gmbh,4,0,,0,0.0,0.0
+accenture,3,0,,0,0.0,0.0
+achim gerhardus,1,0,,0,0.0,0.0
+aconso ag,2,0,,0,0.0,0.0
+acp it solutions gmbh,7,0,,0,0.0,0.0
+HIS Hochschul-Informations-System GmbH,2,0,,0,0.0,0.0
+Deutsches Forschungszentrum für Künstliche Intelligenz GmbH (DFKI),2,0,,0,0.0,0.0
+microtronix gmbh,1,0,,0,0.0,0.0
+workplace solutions gmbh,2,0,,0,0.0,0.0
+wagner it_consulting gmbh,1,0,,0,0.0,0.0
+wald und corbe gbr,1,0,,0,0.0,0.0
+web+phone it-systeme und kommunikationslösungen gmbh,1,0,,0,0.0,0.0
+webit! gesellschaft für neue medien,2,0,,0,0.0,0.0
+webit! gesellschaft für neue medien mbh,4,0,,0,0.0,0.0
+weka media gmbh und co. kg,1,0,,0,0.0,0.0
+weltweitbau gmbh,1,0,,0,0.0,0.0
+werk 21 gmbh,1,0,,0,0.0,0.0
+werner scholtes – it-beratung,1,0,,0,0.0,0.0
+wilken ciwi gmbh,1,0,,0,0.0,0.0
+wisutec umwelttechnik gmbh,1,0,,0,0.0,0.0
+wwl umweltplanung und geoinformatik gbr,2,0,,0,0.0,0.0
+DIaLOGIKa Gesellschaft für angewandte Informatik mbH,3,0,,0,0.0,0.0
+zeutschel gmbh,1,0,,0,0.0,0.0
++pluswerk ag,3,0,,0,0.0,0.0
+1) abl social federation gmbh – 2) ennit server gmbh,1,0,,0,0.0,0.0
+2av gmbh,1,0,,0,0.0,0.0
+3 pc gmbh neue kommunikation,1,0,,0,0.0,0.0
+BFE Studio und Medien Systeme GmbH,1,0,,0,0.0,0.0
+Business IT Nord GmbH,1,0,,0,0.0,0.0
+CHG-Meridian AG,3,0,,0,0.0,0.0
+CS Office Plus e.K.,1,0,,0,0.0,0.0
+Canon Deutschland GmbH,3,0,,0,0.0,0.0
+DAC Group Deutschland GmbH,1,0,,0,0.0,0.0
+act it-consulting & services gmbh,1,0,,0,0.0,0.0
+aed-sicad ag,1,0,,0,0.0,0.0
+aed-sicad gmbh,1,0,,0,0.0,0.0
+cerner health services deutschland gmbh,11,0,,0,0.0,0.0
+brainlab sales gmbh,2,0,,0,0.0,0.0
+brechensbauer weinhart und partner,1,0,,0,0.0,0.0
+bringe informationstechnik gmbh,1,0,,0,0.0,0.0
+bts bürotechnik gmbh,1,0,,0,0.0,0.0
+business technology consulting ag,1,0,,0,0.0,0.0
+c3 creative code and content gmbh,1,0,,0,0.0,0.0
+cassini consulting nord gmbh,1,0,,0,0.0,0.0
+cassini consulting süd gmbh,2,0,,0,0.0,0.0
+cb.e agentur für kommunikation,1,0,,0,0.0,0.0
+cellent gmbh,1,0,,0,0.0,0.0
+center for research in security prices at chicago booth,1,0,,0,0.0,0.0
+cfs - consulting for financial services gmbh,1,0,,0,0.0,0.0
+airitsystems hannover gmbh,1,0,,0,0.0,0.0
+"cgi deutschland ltd. & co. kg (rang 1), sopra steria ag (rang 2), compusafe data systems ag (rang 3) (siehe ziffer iv.3) – zusätzliche angaben)",1,0,,0,0.0,0.0
+cgm dentalsysteme gmbh,1,0,,0,0.0,0.0
+changepoint technology gmbh,1,0,,0,0.0,0.0
+chemnitzer werkstoffmechanik,1,0,,0,0.0,0.0
+cit gmbh - computer integrated telecommunication,1,0,,0,0.0,0.0
+ckc ag,2,0,,0,0.0,0.0
+clarity ag,1,0,,0,0.0,0.0
+clientfocus gmbh,1,0,,0,0.0,0.0
+coc ag,2,0,,0,0.0,0.0
+cognizant technology solution gmbh,1,0,,0,0.0,0.0
+commvault system gmbh,1,0,,0,0.0,0.0
+"bmat licensing, s.l.",1,0,,0,0.0,0.0
+bk rennen gmbh,1,0,,0,0.0,0.0
+bj consulting,1,0,,0,0.0,0.0
+bix consulting & co. kg,1,0,,0,0.0,0.0
+allgeier consulting services,1,0,,0,0.0,0.0
+alpha com deutschland gmbh,4,0,,0,0.0,0.0
+amexus informationstechnik gmbh & co. kg,1,0,,0,0.0,0.0
+applied sytems gmbh,1,0,,0,0.0,0.0
+applied technologies internet gmbh,1,0,,0,0.0,0.0
+areto consulting gmbh,1,0,,0,0.0,0.0
+arf gmbh,3,0,,0,0.0,0.0
+arina electronic mosca e. k.,1,0,,0,0.0,0.0
+ask – innovative visualisierungslösungen gmbh,1,0,,0,0.0,0.0
+audicon gmbh,2,0,,0,0.0,0.0
+beta systems iam software ag,3,0,,0,0.0,0.0
+bg bestehend aus sinc gmbh & alphabit gmbh,1,0,,0,0.0,0.0
+"bietergemeinschaft bsz-sta-ai, bestehend aus folgenden mitgliederm: administration intelligence ag",1,0,,0,0.0,0.0
+"bietergemeinschaft bsz-sta-ai, bestehend aus folgenden mitgliederm: staataanzeiger für baden-württemberg gmbh & co. kg",1,0,,0,0.0,0.0
+"bietergemeinschaft bsz-sta-ai, bestehend aus folgenden mitgliederm: verlag bayerische staatszeitung gmbh",1,0,,0,0.0,0.0
+bietergemeinschaft governikus gmbh & co. kg & procilon it-logistics gmbh,1,0,,0,0.0,0.0
+bietergemeinschaft gruler & cleve consulitng gmbh,1,0,,0,0.0,0.0
+bietergemeinschaft gruler & cleve consulting gmbh,1,0,,0,0.0,0.0
+bietergemeinschaft smf gmbh & co. kg / mt-ifs gmbh,1,0,,0,0.0,0.0
+bietergemeinschaft wohnungshelden gmbh & ritterwald unternehmensberatung gmbh vertreten durch herrn martin staudacher,1,0,,0,0.0,0.0
+big social media gmbh,1,0,,0,0.0,0.0
+"bige staatsanzeiger verlag gmbh, administration intelligence ag & secure cloud services gmbh",1,0,,0,0.0,0.0
+bit-p,1,0,,0,0.0,0.0
+"vodafone gmbh, region west – enr-w",1,0,,0,0.0,0.0
+versatel deutschland gmbh,2,0,,0,0.0,0.0
+valucon apps gmbh,1,0,,0,0.0,0.0
+rc – research & consulting gmbh,1,0,,0,0.0,0.0
+pro-com DATENSYSTEME GmbH,1,0,,0,0.0,0.0
+probiotec gmbh,3,0,,0,0.0,0.0
+prodyna ag,1,0,,0,0.0,0.0
+prolicense gmbh,2,0,,0,0.0,0.0
+prosoz herten gmbh,7,0,,0,0.0,0.0
+"provalida gmbh (los 1), finanz-data gmbh (los 2)",1,0,,0,0.0,0.0
+provativ gmbh,1,0,,0,0.0,0.0
+pta gmbh,4,0,,0,0.0,0.0
+publicis pixelpark eine marke der pixelpark gmbh,1,0,,0,0.0,0.0
+r &l ag,1,0,,0,0.0,0.0
+r-kom gmbh & co. kg,1,0,,0,0.0,0.0
+"real, -sb-warenhaus gmbh",1,0,,0,0.0,0.0
+rpdoc solutions gmbh,1,0,,0,0.0,0.0
+redaktionsbüro sinnthese,1,0,,0,0.0,0.0
+reese it system und service gmbh,1,0,,0,0.0,0.0
+regio it gmbh,1,0,,0,0.0,0.0
+ressourcenmangel,4,0,,0,0.0,0.0
+ressourcenmangel gmbh,9,0,,0,0.0,0.0
+rewe dortmund großhandel se & co. kg,1,0,,0,0.0,0.0
+rewe markt gmbh,1,0,,0,0.0,0.0
+rexx systems gmbh,3,0,,0,0.0,0.0
+rhaug gmbh,1,0,,0,0.0,0.0
+rif institut für forschung und transfer e.v./imsys immersive system gmbh & co. kg,1,0,,0,0.0,0.0
+riskme,1,0,,0,0.0,0.0
+planungsgruppe dörenkämper ahling,1,0,,0,0.0,0.0
+pit -cup gmbh,1,0,,0,0.0,0.0
+phi consulting gmbh,1,0,,0,0.0,0.0
+pfitzner-soft,1,0,,0,0.0,0.0
+mikrofilm-system-vertrieb joachim künzel kg,1,0,,0,0.0,0.0
+more holding,1,0,,0,0.0,0.0
+mta ag,1,0,,0,0.0,0.0
+mühlbauer id services gmbh,1,0,,0,0.0,0.0
+nanga systems gmbh,2,0,,0,0.0,0.0
+ncb new consultancy in business gmbh,1,0,,0,0.0,0.0
+neovias gmbh,1,0,,0,0.0,0.0
+netcologne gesellschaft für telekommunikation mbh,4,0,,0,0.0,0.0
+netcom bw gmbh,1,0,,0,0.0,0.0
+netzkollektiv gmbh,1,0,,0,0.0,0.0
+ngn new generation network gmbh,1,0,,0,0.0,0.0
+omninet gmbh,3,0,,0,0.0,0.0
+ooffee,1,0,,0,0.0,0.0
+or soft jänicke gmbh,1,0,,0,0.0,0.0
+orange five gmbh,1,0,,0,0.0,0.0
+orianda solutions ag,2,0,,0,0.0,0.0
+p&i ag,2,0,,0,0.0,0.0
+partec cluster competence center,1,0,,0,0.0,0.0
+pc-plus training & service gesellschaft für dv-dienstleistungen mbh,1,0,,0,0.0,0.0
+pco gmbh & co. kg,2,0,,0,0.0,0.0
+penny markt gmbh,1,0,,0,0.0,0.0
+pentadoc consulting ag,1,0,,0,0.0,0.0
+pfennigparade wkm gmbh,1,0,,0,0.0,0.0
+rolf ganser,1,0,,0,0.0,0.0
+rubinmedia agentur für visuelle kommunikation gmbh,1,0,,0,0.0,0.0
+uzuner consulting gmbh,1,0,,0,0.0,0.0
+treevolution.de gmbh,1,0,,0,0.0,0.0
+systemconnect gmbh,1,0,,0,0.0,0.0
+systemtechnik gmbh,1,0,,0,0.0,0.0
+tarent solutions gmbh,1,0,,0,0.0,0.0
+telent gmbh – ein unternehmen der euromicron gruppe,1,0,,0,0.0,0.0
+thales electronic systems gmbh,1,0,,0,0.0,0.0
+the dot net factoray dba,1,0,,0,0.0,0.0
+the it company,1,0,,0,0.0,0.0
+the it company gmbh,1,0,,0,0.0,0.0
+the it company gmbh support & services,1,0,,0,0.0,0.0
+tmr telekommunikation mittleres ruhrgebiet gmbh,1,0,,0,0.0,0.0
+toptranslation gmbh,1,0,,0,0.0,0.0
+triple a consulting gmbh & co. kg,1,0,,0,0.0,0.0
+ruhr-universität bochum,1,0,,0,0.0,0.0
+tu dresden,1,0,,0,0.0,0.0
+tüv informationstechnik gmbh – unternehmensgruppe tüv nord,1,0,,0,0.0,0.0
+u.n.p. software gmbh,4,0,,0,0.0,0.0
+ubique innovation ag,2,0,,0,0.0,0.0
+ubl informationssysteme gmbh,1,0,,0,0.0,0.0
+ulshöfer it,1,0,,0,0.0,0.0
+ulshöfer it gmbh + co kg,1,0,,0,0.0,0.0
+uniserv gmbh,1,0,,0,0.0,0.0
+universität des saarlandes,1,0,,0,0.0,0.0
+unternehmensgruppe dr. eckert gmbh,1,0,,0,0.0,0.0
+unterstützungsleistungen im bereich der programmierung für das bewerber-online-verfahren,1,0,,0,0.0,0.0
+syslink software ag,1,0,,0,0.0,0.0
+swift engineering gmbh,1,0,,0,0.0,0.0
+swarco traffic systems gmbh,4,0,,0,0.0,0.0
+sumarum ag,4,0,,0,0.0,0.0
+s&n ag,1,0,,0,0.0,0.0
+samedi gmbh,4,0,,0,0.0,0.0
+scanfabrik kg,2,0,,0,0.0,0.0
+scopeland technology,2,0,,0,0.0,0.0
+sec consult deutschland unternehmensberatung gmbh,1,0,,0,0.0,0.0
+sec consult unternehmensberatung gmbh,1,0,,0,0.0,0.0
+semico computer gmbh,1,0,,0,0.0,0.0
+sepago gmbh,1,0,,0,0.0,0.0
+shd system-haus-dresden gmbh,3,0,,0,0.0,0.0
+she informationstechnologie ag,3,0,,0,0.0,0.0
+simone muschack datenerfassung/büroservice,1,0,,0,0.0,0.0
+simple net gmbh,1,0,,0,0.0,0.0
+sitepark gesellschaft für informationsmanagement mbh,1,0,,0,0.0,0.0
+sks unternehmensberatung gmbh & co. kg,1,0,,0,0.0,0.0
+softgate gmbh,2,0,,0,0.0,0.0
+softwarebüro zauner gmbh & co. kg,2,0,,0,0.0,0.0
+solit gmbh,2,0,,0,0.0,0.0
+solvin gmbh,1,0,,0,0.0,0.0
+spirit 21,1,0,,0,0.0,0.0
+stadtwerke lutherstadt eisleben gmbh,1,0,,0,0.0,0.0
+"stefan englmeier, freiberuflicher softwareentwickler",1,0,,0,0.0,0.0
+stf itech gmbh,1,0,,0,0.0,0.0
+studio fizbin gmbh,1,0,,0,0.0,0.0
+inserteffect gmbh,1,0,,0,0.0,0.0
+interactive instruments gesellschaft,1,0,,0,0.0,0.0
+cpa global deutschland gmbh,1,0,,0,0.0,0.0
+"qualiteach, markus pfeffer",1,0,,0,0.0,0.0
+prevolution gmbh & co. kg,1,0,,0,0.0,0.0
+pricewaterhousecoopers pvt. ltd. (india),1,0,,0,0.0,0.0
+primedocs gmbh,1,0,,0,0.0,0.0
+print media group gmbh & co.kg,1,0,,0,0.0,0.0
+prodatis consulting ag,2,0,,0,0.0,0.0
+proetcon innovative informatikanwendungen,1,0,,0,0.0,0.0
+prognos ag,2,0,,0,0.0,0.0
+pronux gmbh,1,0,,0,0.0,0.0
+proware solutions gmbh,1,0,,0,0.0,0.0
+pvt essen gmbh,1,0,,0,0.0,0.0
+pwc strategy& (germany) gmbh,1,0,,0,0.0,0.0
+quintra business communication & consulting gmbh,2,0,,0,0.0,0.0
+prego services GmbH,2,0,,0,0.0,0.0
+r-tec it security gmbh,1,0,,0,0.0,0.0
+radiolocigs inc.,1,0,,0,0.0,0.0
+ramboll,1,0,,0,0.0,0.0
+ray sono ag,1,0,,0,0.0,0.0
+redaktionsbüro kauer ug,1,0,,0,0.0,0.0
+regio it,1,0,,0,0.0,0.0
+retarus gmbh,1,0,,0,0.0,0.0
+rf-computer e. k.,1,0,,0,0.0,0.0
+rheinmetall electronics gmbh,2,0,,0,0.0,0.0
+rhenus docs to data gmbh,2,0,,0,0.0,0.0
+rialgo realtime systems gmbh & co. kgrobert,1,0,,0,0.0,0.0
+premotec gmbh,1,0,,0,0.0,0.0
+portaltech reply gmbh,1,0,,0,0.0,0.0
+target group gmbh,2,0,,0,0.0,0.0
+otrs ag,2,0,,0,0.0,0.0
+ogitix software ag,1,0,,0,0.0,0.0
+okay bueno gmbh,1,0,,0,0.0,0.0
+oliver wyman gmbh,1,0,,0,0.0,0.0
+omnitrend gmbh,1,0,,0,0.0,0.0
+one business technology,1,0,,0,0.0,0.0
+oneconsult deutschland gmbh,1,0,,0,0.0,0.0
+opitz consulting,1,0,,0,0.0,0.0
+opscon it operations and consulting gmbh,1,0,,0,0.0,0.0
+oracle deutschland b.v. & co. kg hauptverwaltung,1,0,,0,0.0,0.0
+orga-soft backnang gmbh,1,0,,0,0.0,0.0
+ostertag detewe gmbh,3,0,,0,0.0,0.0
+p&i personal & informatik ag,13,0,,0,0.0,0.0
+poenicke consulting,1,0,,0,0.0,0.0
+"pareto securities as, zweigniederlassung frankfurt am main",1,0,,0,0.0,0.0
+pass systems management ag,1,0,,0,0.0,0.0
+paypal,1,0,,0,0.0,0.0
+pepcom gmbh,1,0,,0,0.0,0.0
+peras gmbh,1,0,,0,0.0,0.0
+14a it services gmbh,2,0,,0,0.0,0.0
+pic systems ag,1,0,,0,0.0,0.0
+pixelboxx gmbh,1,0,,0,0.0,0.0
+pixelpark,1,0,,0,0.0,0.0
+plazz ag,3,0,,0,0.0,0.0
+plenus it solutions gmbh,1,0,,0,0.0,0.0
+robominds gmbh,1,0,,0,0.0,0.0
+robotnik automation,1,0,,0,0.0,0.0
+robotron,1,0,,0,0.0,0.0
+spie telba gmbh,1,0,,0,0.0,0.0
+smartmeta.de,1,0,,0,0.0,0.0
+smf gmbh & co. kg,1,0,,0,0.0,0.0
+softtec gmbh,1,0,,0,0.0,0.0
+softwareforen leipzig gmbh,1,0,,0,0.0,0.0
+softwareone,1,0,,0,0.0,0.0
+soitron group,1,0,,0,0.0,0.0
+solutions direkt ag,1,0,,0,0.0,0.0
+solvvision gmbh,1,0,,0,0.0,0.0
+somtxt ug,1,0,,0,0.0,0.0
+spare labs europe s.l,1,0,,0,0.0,0.0
+spare labs inc.,1,0,,0,0.0,0.0
+sqs ag,1,0,,0,0.0,0.0
+roboyo gmbh,3,0,,0,0.0,0.0
+sri rechtsanwaltsgesellschaft mbh,1,0,,0,0.0,0.0
+stadtwerke münster gmbh,1,0,,0,0.0,0.0
+stilistica gmbh,1,0,,0,0.0,0.0
+sudile gbr,1,0,,0,0.0,0.0
+sunzinet ag,2,0,,0,0.0,0.0
+sws computersysteme ag,2,0,,0,0.0,0.0
+sympacon beratungsgesellschaft mbh,1,0,,0,0.0,0.0
+syracom ag,2,0,,0,0.0,0.0
+sys4 ag,1,0,,0,0.0,0.0
+sysback gmbh,2,0,,0,0.0,0.0
+system-management stiewi gmbh,1,0,,0,0.0,0.0
+sks unternehmensberatung gmbh & co.kg,1,0,,0,0.0,0.0
+siemens mobility gmbh,2,0,,0,0.0,0.0
+siemens gas and power gmbh & co. kg se sv cd eu c de gtm s1,1,0,,0,0.0,0.0
+siemens deutschland ag,1,0,,0,0.0,0.0
+rocket apes gmbh,1,0,,0,0.0,0.0
+roland berger ag,1,0,,0,0.0,0.0
+roland berger gmbh,2,0,,0,0.0,0.0
+rooom ag,1,0,,0,0.0,0.0
+rothschild & co deutschland gmbh,1,0,,0,0.0,0.0
+rothschild & co. deutschland gmbh,1,0,,0,0.0,0.0
+rr software gmbh,3,0,,0,0.0,0.0
+rt-solutions.de gmbh,1,0,,0,0.0,0.0
+"rödl & partner gmbh wirtschaftsprüfungsgesellschaft, steuerberatergesellschaft",1,0,,0,0.0,0.0
+rödl gmbh rechtsanwaltsgesellschaft steuerberatungsgesellschaft wirtschaftsprüfungsgesellschaft,1,0,,0,0.0,0.0
+s&s computer kamenz gmbh,1,0,,0,0.0,0.0
+sbsk gmbh & co. kg,1,0,,0,0.0,0.0
+schlaraffenburger streuobstagentur,1,0,,0,0.0,0.0
+schleswiger stadtwerke gmbh,1,0,,0,0.0,0.0
+scholz & friends berlin gmbh,1,0,,0,0.0,0.0
+schwacke gmbh,2,0,,0,0.0,0.0
+schütze ag,4,0,,0,0.0,0.0
+sd&c solution development & consulting gmbh,1,0,,0,0.0,0.0
+selectric nachrichtensysteme gmbh,1,0,,0,0.0,0.0
+ser gmbh,1,0,,0,0.0,0.0
+seven principles mobility gmbh,5,0,,0,0.0,0.0
+shd systemhaus dresden gmbh,1,0,,0,0.0,0.0
+"siehe abschnitt vi.3 „weitere angaben“, die bezuschlagten auftragnehmer sind dort benannt",1,0,,0,0.0,0.0
+objectfab gmbh,1,0,,0,0.0,0.0
+nwc services gmbh,2,0,,0,0.0,0.0
+nortal as,1,0,,0,0.0,0.0
+klima-bündnis,1,0,,0,0.0,0.0
+itslearning gmbh,1,0,,0,0.0,0.0
+itz informationstechnologie,2,0,,0,0.0,0.0
+ivu.elect gmbh,1,0,,0,0.0,0.0
+j. weiland,1,0,,0,0.0,0.0
+jo-soft gmbh,1,0,,0,0.0,0.0
+jobnet. ag,1,0,,0,0.0,0.0
+"k-is systemhaus gmbh, ndl. kassel",1,0,,0,0.0,0.0
+kapecon gmbh & co. kg,1,0,,0,0.0,0.0
+karlsruher institut für technologie (kit),1,0,,0,0.0,0.0
+kaspersky labs gmbh,1,0,,0,0.0,0.0
+keeen gmbh,1,0,,0,0.0,0.0
+knskb+ gmbh,1,0,,0,0.0,0.0
+logando display & media solutions gmbh,1,0,,0,0.0,0.0
+komre ag,1,0,,0,0.0,0.0
+kreiswerke main-kinzig gmbh,2,0,,0,0.0,0.0
+kreuzwerker gmbh,3,0,,0,0.0,0.0
+landwerke m-v breitband gmbh,1,0,,0,0.0,0.0
+lazard & co. gmbh,1,0,,0,0.0,0.0
+leuchtkraft,1,0,,0,0.0,0.0
+levigo solutions gmbh,2,0,,0,0.0,0.0
+"lieferung, montage, inbeitrebnahme von wlan-komponenten der marke ruckus",1,0,,0,0.0,0.0
+lincoln interational ag,1,0,,0,0.0,0.0
+linon medien kg,1,0,,0,0.0,0.0
+lm it serivce ag,1,0,,0,0.0,0.0
+itelligence,1,0,,0,0.0,0.0
+itec sysems ag,1,0,,0,0.0,0.0
+it-netze.de gmbh,1,0,,0,0.0,0.0
+"it unlimited ag,",1,0,,0,0.0,0.0
+inodis solutions gmbh,1,0,,0,0.0,0.0
+inovat dipl.ing. h.c. kniß,1,0,,0,0.0,0.0
+inovio gmbh,2,0,,0,0.0,0.0
+inovoo gmbh,1,0,,0,0.0,0.0
+inros lackner se,2,0,,0,0.0,0.0
+insiders technologies gmbh,1,0,,0,0.0,0.0
+institute for advanced sustainability studies e.v. (iass),1,0,,0,0.0,0.0
+intec industrie – technik gmbh & co. kg,1,0,,0,0.0,0.0
+intechore gmbh,1,0,,0,0.0,0.0
+integrata cegos gmbh,1,0,,0,0.0,0.0
+interflex datensysteme gmbh & co. kg,1,0,,0,0.0,0.0
+interlutions gmbh,1,0,,0,0.0,0.0
+international communication & marketing services,1,0,,0,0.0,0.0
+intranetz gmbh,1,0,,0,0.0,0.0
+ioki gmbh,1,0,,0,0.0,0.0
+ipg information process group gmbh deutschland,2,0,,0,0.0,0.0
+iqs new media gmbh,1,0,,0,0.0,0.0
+iron mountain (deutschland) services gmbh,1,0,,0,0.0,0.0
+is4it kritis gmbh,1,0,,0,0.0,0.0
+isa informationssysteme gmbh,1,0,,0,0.0,0.0
+isax gmbh & co.kg,12,0,,0,0.0,0.0
+isec7 gmbh,4,0,,0,0.0,0.0
+iserv gmbh,3,0,,0,0.0,0.0
+lmis ag,2,0,,0,0.0,0.0
+logicalis gmbh,5,0,,0,0.0,0.0
+nord/fm,1,0,,0,0.0,0.0
+netgo gmbh,4,0,,0,0.0,0.0
+mmo munich media operations gmbh,1,0,,0,0.0,0.0
+modis contracting solutions gmbh,3,0,,0,0.0,0.0
+mojin robotics gmbh,1,0,,0,0.0,0.0
+moonroc advisory partners gmbh,1,0,,0,0.0,0.0
+mslgroup germany gmbh,1,0,,0,0.0,0.0
+muenet gmbh,1,0,,0,0.0,0.0
+muth u. partner wirtschaftsprüfer – steuerberater – rechtsanwälte mbb,1,0,,0,0.0,0.0
+myconsult gmbh,2,0,,0,0.0,0.0
+national instruments germany gmbh,1,0,,0,0.0,0.0
+nato hq treasury nato is: office of financial contro,1,0,,0,0.0,0.0
+netcologne gmbh,2,0,,0,0.0,0.0
+nettropolis ag,1,0,,0,0.0,0.0
+lucom gmbh,1,0,,0,0.0,0.0
+neuhaus consulting gmbh,1,0,,0,0.0,0.0
+neuland.digital gmbh,1,0,,0,0.0,0.0
+neusta destination solutions GmbH,3,0,,0,0.0,0.0
+neusta infomantis gmbh,1,0,,0,0.0,0.0
+neusta mobile solutions gmbh,2,0,,0,0.0,0.0
+neusta webservices gmbh,1,0,,0,0.0,0.0
+nexus ag,2,0,,0,0.0,0.0
+nexway ag,1,0,,0,0.0,0.0
+nina tatjes,1,0,,0,0.0,0.0
+nke instrumentations,1,0,,0,0.0,0.0
+nolis gmbh,1,0,,0,0.0,0.0
+mindsquare AG,3,0,,0,0.0,0.0
+microsoft gmbh,1,0,,0,0.0,0.0
+mgrp,1,0,,0,0.0,0.0
+metra tec gmbh,1,0,,0,0.0,0.0
+ludwig & co. gmbh,1,0,,0,0.0,0.0
+luxoft gmbh,1,0,,0,0.0,0.0
+lvi deutschland gmbh,1,0,,0,0.0,0.0
+m it systemhaus gmbh,1,0,,0,0.0,0.0
+m&p begis gmbh,1,0,,0,0.0,0.0
+mach:idee – ingenieurbüro rüdiger mach,1,0,,0,0.0,0.0
+mainzer breitband gmbh,1,0,,0,0.0,0.0
+mansystems deutschland gmbh,1,0,,0,0.0,0.0
+manuel stahl,1,0,,0,0.0,0.0
+marktbeobachtung der verbraucherzentralen gbr,1,0,,0,0.0,0.0
+mathplan gmbh,2,0,,0,0.0,0.0
+matrix42 ag,1,0,,0,0.0,0.0
+mawoh systemhaus gmbh,1,0,,0,0.0,0.0
+maxxys ag,1,0,,0,0.0,0.0
+mds gmbh,2,0,,0,0.0,0.0
+media broadcast gmbh,4,0,,0,0.0,0.0
+medisoft gmbh,1,0,,0,0.0,0.0
+meko-s gmbh,1,0,,0,0.0,0.0
+mementor de gmbh,1,0,,0,0.0,0.0
+mermaid studios gmbh,1,0,,0,0.0,0.0
+meso digital interiors gmbh,1,0,,0,0.0,0.0
+messtechnik mehl gmbh,1,0,,0,0.0,0.0
+mestus gmbh,1,0,,0,0.0,0.0
+systemhaus bissinger gmbh,1,0,,0,0.0,0.0
+team q2 it-solutions ug,1,0,,0,0.0,0.0
+inmedias.it gmbh,1,0,,0,0.0,0.0
+bc competence gmbh,1,0,,0,0.0,0.0
+awesome information technology gmbh,1,0,,0,0.0,0.0
+axians athos gmbh,1,0,,0,0.0,0.0
+axians cloud & it-automation gmbh,1,0,,0,0.0,0.0
+b2m software gmbh,2,0,,0,0.0,0.0
+b2tec software gmbh,1,0,,0,0.0,0.0
+babiel,1,0,,0,0.0,0.0
+bachler werbeagentur gmbh,1,0,,0,0.0,0.0
+baremos it dienstleistungs gmbh,2,0,,0,0.0,0.0
+baringa partners llp,1,0,,0,0.0,0.0
+basis computer- & systemintegration gmbh,1,0,,0,0.0,0.0
+basys edv systeme gmbh,1,0,,0,0.0,0.0
+bcc unternehmensberatung gmbh,1,0,,0,0.0,0.0
+avl deutschland gmbh,1,0,,0,0.0,0.0
+"bde business datawarehouse engineering gmbh,",1,0,,0,0.0,0.0
+bee-i gmbh,1,0,,0,0.0,0.0
+benntec systemtechnik gmbh nl rostock,1,0,,0,0.0,0.0
+bestsolution.at edv systemhaus gmbh,1,0,,0,0.0,0.0
+better decisions gmbh,1,0,,0,0.0,0.0
+beuth verlag gmbh,1,0,,0,0.0,0.0
+bfi beratungsgesellschaft für informationstechnologie mbh hamburg,1,0,,0,0.0,0.0
+bfw kommunikationssysteme gmbh,1,0,,0,0.0,0.0
+"bietergemeinschaft andreas helmberger, adriana luchian, laurentiu ilici",1,0,,0,0.0,0.0
+bietergemeinschaft dynacon gmbh/brainsphere informationsworks gmbh,1,0,,0,0.0,0.0
+bietergemeinschaft networkers ag / controlware gmbh,1,0,,0,0.0,0.0
+avs abrechnungs- und verwaltungs-systeme gmbh,2,0,,0,0.0,0.0
+auticon gmbh,1,0,,0,0.0,0.0
+technische universität ilmenau,1,0,,0,0.0,0.0
+ambient innovation gmbh,1,0,,0,0.0,0.0
+adp employer services gmbh,2,0,,0,0.0,0.0
+adriana luchian,1,0,,0,0.0,0.0
+agineo gmbh,2,0,,0,0.0,0.0
+agro data edv service gmbh & co. kg,1,0,,0,0.0,0.0
+airbus cybersecurity gmbh,2,0,,0,0.0,0.0
+akka technologies gmbh,1,0,,0,0.0,0.0
+akquinet data center competence gmbh,1,0,,0,0.0,0.0
+allgeier es ag,1,0,,0,0.0,0.0
+allgeier it solutions,1,0,,0,0.0,0.0
+allgäuer überlandwerk gmbh,1,0,,0,0.0,0.0
+ambient information processing gmbh,2,0,,0,0.0,0.0
+"analysen, konzepte & anwendungsentwicklung für edv gerhild aselmeyer, dipl. math.",1,0,,0,0.0,0.0
+ausy technologies germany ag,3,0,,0,0.0,0.0
+applied systems gmbh,1,0,,0,0.0,0.0
+apps associates gmbh,1,0,,0,0.0,0.0
+appsphere ag,3,0,,0,0.0,0.0
+aquasoil gmbh,1,0,,0,0.0,0.0
+arche systeme gmbh,1,0,,0,0.0,0.0
+artemeon management partner gmbh,1,0,,0,0.0,0.0
+arxes- tolina gmbh part of netgo group,1,0,,0,0.0,0.0
+as-systeme it-business gmbh,1,0,,0,0.0,0.0
+auctores gmbh,1,0,,0,0.0,0.0
+audius gmbh,3,0,,0,0.0,0.0
+aumio gmbh,2,0,,0,0.0,0.0
+bietergemeinschaft xtention gruppe,1,0,,0,0.0,0.0
+binaere bauten gmbh,1,0,,0,0.0,0.0
+binsec gmbh,1,0,,0,0.0,0.0
+collenda gmbh,1,0,,0,0.0,0.0
+christian frei it security consulting,1,0,,0,0.0,0.0
+christoph nitz,1,0,,0,0.0,0.0
+cimpa gmbh,1,0,,0,0.0,0.0
+cionix gmbh,1,0,,0,0.0,0.0
+circle networks gmbh,1,0,,0,0.0,0.0
+ciss tdi gmbh,3,0,,0,0.0,0.0
+"civitalis gmbh, innovation und beratung",1,0,,0,0.0,0.0
+ck7 gmbh,1,0,,0,0.0,0.0
+clevis software services gmbh,1,0,,0,0.0,0.0
+clients & experts consulting gmbh,1,0,,0,0.0,0.0
+cocoloo gmbh,1,0,,0,0.0,0.0
+collibra,1,0,,0,0.0,0.0
+bippesbrandão gmbh,1,0,,0,0.0,0.0
+commotron gmbh,1,0,,0,0.0,0.0
+comramo kid gmbh,1,0,,0,0.0,0.0
+comundus regisafe gmbh,1,0,,0,0.0,0.0
+con terra - gesellschaft für angewandte informationstechnologie mbh,1,0,,0,0.0,0.0
+conbatex gmbh & co. kg,1,0,,0,0.0,0.0
+concentrade gmbh,1,0,,0,0.0,0.0
+confero group ag,1,0,,0,0.0,0.0
+conovus gmbh & co. kg,1,0,,0,0.0,0.0
+cops gmbh,1,0,,0,0.0,0.0
+cosmoblonde gmbh,1,0,,0,0.0,0.0
+count+care gmbh & co. kg,1,0,,0,0.0,0.0
+cgs gmbh,1,0,,0,0.0,0.0
+centercon gmbh,1,0,,0,0.0,0.0
+cassini consulting,1,0,,0,0.0,0.0
+carstens+partner gmbh & co. kg,1,0,,0,0.0,0.0
+björn steiger stiftung dienstleistung gmbh,1,0,,0,0.0,0.0
+blackberry deutschland gmbh,1,0,,0,0.0,0.0
+blic gmbh,2,0,,0,0.0,0.0
+blitzen gmbh & co. kg,1,0,,0,0.0,0.0
+bloola gmbh & co. kg,1,0,,0,0.0,0.0
+bohemia interactive simulations gmbh,2,0,,0,0.0,0.0
+bps international gmbh,6,0,,0,0.0,0.0
+brain-scc gmbh,2,0,,0,0.0,0.0
+breitband innovationen nord gmbh,1,0,,0,0.0,0.0
+breitenbach media,1,0,,0,0.0,0.0
+bridgefield gmbh,2,0,,0,0.0,0.0
+brockhaus consulting gmbh,1,0,,0,0.0,0.0
+brückner itbs,1,0,,0,0.0,0.0
+bt (germany) gmbh & co.ohg.,1,0,,0,0.0,0.0
+byte5 digital media gmbh,1,0,,0,0.0,0.0
+büchting + streit ag,1,0,,0,0.0,0.0
+cab produkttechnik gmbh & co. kg,1,0,,0,0.0,0.0
+caigos gmbh,2,0,,0,0.0,0.0
+callways call center gmbh,1,0,,0,0.0,0.0
+cam systems consulting gmbh,1,0,,0,0.0,0.0
+campus computersysteme gmbh,1,0,,0,0.0,0.0
+candidate select gmbh,1,0,,0,0.0,0.0
+carmedialab gmbh,1,0,,0,0.0,0.0
+adaptive financial consulting limited,1,0,,0,0.0,0.0
+acent ag,1,0,,0,0.0,0.0
+abb power grids switzerland ag,1,0,,0,0.0,0.0
+vintin operations gmbh,1,0,,0,0.0,0.0
+urban software institute gmbh,1,0,,0,0.0,0.0
+utimaco gmbh sicherheits-software,1,0,,0,0.0,0.0
+vaisala gmbh,1,0,,0,0.0,0.0
+valid digitalagentur gmbh,4,0,,0,0.0,0.0
+vater erpteam gmbh,1,0,,0,0.0,0.0
+vater solution gmbh,1,0,,0,0.0,0.0
+ve-kass ingenieurgesellschaft mbh,2,0,,0,0.0,0.0
+verimi gmbh,1,0,,0,0.0,0.0
+verlag für standesamtswesen gmbh,2,0,,0,0.0,0.0
+vertinex gmbh,1,0,,0,0.0,0.0
+viadee unternehmensberatung ag,1,0,,0,0.0,0.0
+visiondata business consult ag,1,0,,0,0.0,0.0
+xeptum consulting ag,1,0,,0,0.0,0.0
+vitagroup ag,2,0,,0,0.0,0.0
+vmt düssel video-medien-technik gmbh,1,0,,0,0.0,0.0
+vykon gmbh & co. kg,1,0,,0,0.0,0.0
+wabion gmbh,1,0,,0,0.0,0.0
+warth & klein grant thornton ag wirtschaftsprüfungsgesellschaft,1,0,,0,0.0,0.0
+warth & klein grant thornton ag wirtschaftsprüfungsgesellschaft mit hmc hanse management consulting gmbh,1,0,,0,0.0,0.0
+webtrekk gmbh,1,0,,0,0.0,0.0
+wegesrand gmbh & co kg,1,0,,0,0.0,0.0
+westfalen weser netz gmbh,1,0,,0,0.0,0.0
+wikom it-consulting und software gmbh,1,0,,0,0.0,0.0
+windhund gmbh,1,0,,0,0.0,0.0
+unternehmensberatung triestram & partner gmbh,2,0,,0,0.0,0.0
+universitätsmedizin der johannes gutenberg-universität mainz,1,0,,0,0.0,0.0
+university of delaware,1,0,,0,0.0,0.0
+univativ gmbh,3,0,,0,0.0,0.0
+tek-service ag,1,0,,0,0.0,0.0
+telesys gmbh,1,0,,0,0.0,0.0
+telonic gmbh,2,0,,0,0.0,0.0
+the brettinghams gmbh,3,0,,0,0.0,0.0
+the mathworks gmbh,2,0,,0,0.0,0.0
+the quality group it vision gmbh,1,0,,0,0.0,0.0
+thiele & klose gmbh,2,0,,0,0.0,0.0
+thüringer netkom gmbh,1,0,,0,0.0,0.0
+tie kinetix dach gmbh,24,0,,0,0.0,0.0
+trafficon – traffic consultants gmbh,1,0,,0,0.0,0.0
+traitgenetics gmbh,1,0,,0,0.0,0.0
+triology gmbh,1,0,,0,0.0,0.0
+trivadis germany gmbh,3,0,,0,0.0,0.0
+tsa public service gmbh,3,0,,0,0.0,0.0
+"tu dresden, institut für naturstofftechnik, professur für agrarsystemtechnik",1,0,,0,0.0,0.0
+turmsolutions,1,0,,0,0.0,0.0
+tv-netzgesellschaft mbh guben,1,0,,0,0.0,0.0
+tüv rheinland industrie service gmbh,1,0,,0,0.0,0.0
+t–systems international gmbh,1,0,,0,0.0,0.0
+u.n.p. - software gmbh,3,0,,0,0.0,0.0
+u2d | up2date solutions gmbh,1,0,,0,0.0,0.0
+ungerboeck systems international gmbh,1,0,,0,0.0,0.0
+uniscon gmbh (tüv süd),1,0,,0,0.0,0.0
+wolters kluwer deutschland gmbh,5,0,,0,0.0,0.0
+yipp b.v.,1,0,,0,0.0,0.0
+abb ag division industrieautomation,1,0,,0,0.0,0.0
+PTA Programmier-Technische Arbeiten GmbH,4,0,,0,0.0,0.0
+Engineering ITS AG,2,0,,0,0.0,0.0
+FZI Forschungszentrum Informatik,2,0,,0,0.0,0.0
+GID Global Information Distribution GmbH,1,0,,0,0.0,0.0
+Gesellschaft für Angewandte Hydrologie und Kartographie mbH,1,0,,0,0.0,0.0
+Implement IT GmbH,1,0,,0,0.0,0.0
+M-net Telekommunikations GmbH,2,0,,0,0.0,0.0
+MEGA International GmbH,2,0,,0,0.0,0.0
+Magnet Forensics GmbH,2,0,,0,0.0,0.0
+Ossenberg Digitalisierung und Software GmbH,1,0,,0,0.0,0.0
+PROCON IT GmbH,1,0,,0,0.0,0.0
+"PROSOZ Herten Softwareentwicklungs- und Beratungsgesellschaft für Gemeinden, Städte und Kreise mbH",1,0,,0,0.0,0.0
+PTV Planung Transport Verkehr AG,2,0,,0,0.0,0.0
+ze powergroup,1,0,,0,0.0,0.0
+QFM Fernmelde- und Elektromontagen GmbH Berlin,1,0,,0,0.0,0.0
+Qundis GmbH,1,0,,0,0.0,0.0
+RFC Professional GmbH,1,0,,0,0.0,0.0
+Rednet AG,4,0,,0,0.0,0.0
+RosCon Unternehmensberatung GmbH,1,0,,0,0.0,0.0
+S + P LION AG,2,0,,0,0.0,0.0
+SINTEC Informatik GmbH,1,0,,0,0.0,0.0
+Serrala Group GmbH,2,0,,0,0.0,0.0
+TIS Treasury Intelligence Solutions GmbH,2,0,,0,0.0,0.0
+VDS Verkehrstechnik GmbH,1,0,,0,0.0,0.0
+Zanders B.V.,1,0,,0,0.0,0.0
+ECS Enterprise Communications & Services GmbH,6,0,,0,0.0,0.0
+Datec Netzwerke & Druckerlösungen GmbH,1,0,,0,0.0,0.0
+Curamatik GmbH,2,0,,0,0.0,0.0
+Culture4life GmbH,2,0,,0,0.0,0.0
+zech sicherheitstechnik gmbh,1,0,,0,0.0,0.0
+zerycon gmbh,1,0,,0,0.0,0.0
+ziuz forensics b.v.,1,0,,0,0.0,0.0
+ztg zentrum für telematik und telemedizin gmbh,1,0,,0,0.0,0.0
+zöller & partner gmbh,1,0,,0,0.0,0.0
+"— bietergemeinschaft baker tilly / d-fine gbr, vertreten durch die baker tilly gmbh & co. kg, wirtschaftsprüfungsgesellschaft",1,0,,0,0.0,0.0
+//seibert/media,1,0,,0,0.0,0.0
+1&1 versatel,1,0,,0,0.0,0.0
+"1.) bietergemeinschaft assure consulting gmbh, aconcret gmbh & co. kg, vineyard management, 2.) kpmg ag wirtschaftsprüfungsgesellschaft, 3.) pricewaterhousecoopers gmbh wirtschaftsprüfungsgesellschaft",1,0,,0,0.0,0.0
+1000hands ag,1,0,,0,0.0,0.0
+3ce technologies inc.,1,0,,0,0.0,0.0
+4you systemanalyse-gmbh,1,0,,0,0.0,0.0
+52°north initiative for geospatial open source software gmbh,1,0,,0,0.0,0.0
+711media websolutions gmbh,2,0,,0,0.0,0.0
+7places ug,1,0,,0,0.0,0.0
+@one it gmbh,1,0,,0,0.0,0.0
+BITE GmbH,3,0,,0,0.0,0.0
+Bareos GmbH & Co. KG,1,0,,0,0.0,0.0
+Berens Mosiek Siemes Consulting GmbH,1,0,,0,0.0,0.0
+BlackBoar AG,1,0,,0,0.0,0.0
+Breitenbach Software Engineering GmbH,1,0,,0,0.0,0.0
+CGM Clinical Europe GmbH,6,0,,0,0.0,0.0
+Cerner Deutschland GmbH,1,0,,0,0.0,0.0
+innogy telnet gmbh,1,0,,0,0.0,0.0
+information services group germany gmbh,6,0,,0,0.0,0.0
+intersection gmbh,1,0,,0,0.0,0.0
+unipro gmbh,1,0,,0,0.0,0.0
+tg services gmbh,1,0,,0,0.0,0.0
+the boston consulting group gmbh,2,0,,0,0.0,0.0
+think project gmbh,1,0,,0,0.0,0.0
+think project! gmbh,1,0,,0,0.0,0.0
+tmt gmbh & co. kg,1,0,,0,0.0,0.0
+trafficon — traffic consultants gmbh,1,0,,0,0.0,0.0
+tukom gmbh,1,0,,0,0.0,0.0
+tüv nord it secure communications gmbh & co. kg,15,0,,0,0.0,0.0
+tüv rheinland energy gmbh,1,0,,0,0.0,0.0
+u.n.p:-software gmbh,1,0,,0,0.0,0.0
+ultra consulting network gmbh,1,0,,0,0.0,0.0
+urwtec gmbh,1,0,,0,0.0,0.0
+terrestris,1,0,,0,0.0,0.0
+valamis deutschland gmbh,1,0,,0,0.0,0.0
+vintin solutions gmbh,1,0,,0,0.0,0.0
+visionconnect gmbh,1,0,,0,0.0,0.0
+web commerce,1,0,,0,0.0,0.0
+webit!,1,0,,0,0.0,0.0
+werk21,1,0,,0,0.0,0.0
+westernacher solutions gmbh,3,0,,0,0.0,0.0
+wilhelm.tel gmbh,3,0,,0,0.0,0.0
+witstor gmbh,1,0,,0,0.0,0.0
+wmd group gmbh,1,0,,0,0.0,0.0
+www.ecg.eu gmbh,1,0,,0,0.0,0.0
+territory ctr gmbh,1,0,,0,0.0,0.0
+terranet gmbh,1,0,,0,0.0,0.0
+agentur siegmund,1,0,,0,0.0,0.0
+softwareone company,1,0,,0,0.0,0.0
+serve-u – buchholz und sünderhauf gbr,1,0,,0,0.0,0.0
+service plus gmbh,1,0,,0,0.0,0.0
+seven solutinos gmbh,1,0,,0,0.0,0.0
+siehe weitere angaben,1,0,,0,0.0,0.0
+silpion it-solutions gmbh,1,0,,0,0.0,0.0
+sitepark gmbh,2,0,,0,0.0,0.0
+siv.ag,3,0,,0,0.0,0.0
+smart enterprise solutions gmbh (smenso),1,0,,0,0.0,0.0
+smart mobile factory gmbh,1,0,,0,0.0,0.0
+smateso – smart team solutions (inh.: k. bittner),1,0,,0,0.0,0.0
+smiths heimann gmbh,1,0,,0,0.0,0.0
+stadt hilden,1,0,,0,0.0,0.0
+technogroup it-service gmbh,1,0,,0,0.0,0.0
+stiftung fledermaus,1,0,,0,0.0,0.0
+stiftung gesundheit,1,0,,0,0.0,0.0
+stiftung gesundheit fördergemeinschaft e.v.,2,0,,0,0.0,0.0
+syntagit gmbh,2,0,,0,0.0,0.0
+systemberatung hendrich - mathias hendrich,1,0,,0,0.0,0.0
+systems 7 gmbh,1,0,,0,0.0,0.0
+t.con gmbh & co. kg,1,0,,0,0.0,0.0
+tangro s.c. gmbh,1,0,,0,0.0,0.0
+technidata tcc products gmbh,3,0,,0,0.0,0.0
+technidata tccproducts gmbh,1,0,,0,0.0,0.0
+technidata ttc products gmbh,1,0,,0,0.0,0.0
+xantaro deutschland gmbh,1,0,,0,0.0,0.0
+xevit gmbh,5,0,,0,0.0,0.0
+xovis ag,1,0,,0,0.0,0.0
+Unify Communications and Collaboration GmbH& Co.KG,1,0,,0,0.0,0.0
+NTeam Gesellschaft für Softwareentwicklung und Kommunikationstechnologie mbH,1,0,,0,0.0,0.0
+NTeam GmbH,2,0,,0,0.0,0.0
+Neofonie GmbH,3,0,,0,0.0,0.0
+Nexus / cis GmbH,1,0,,0,0.0,0.0
+Oliver Wyman AG,1,0,,0,0.0,0.0
+PlanB. GmbH,1,0,,0,0.0,0.0
+SSP Kommunikation GmbH,2,0,,0,0.0,0.0
+"Siemens AG, Smart Infrastructure",2,0,,0,0.0,0.0
+Sirius GmbH,1,0,,0,0.0,0.0
+U-Werk GbR,1,0,,0,0.0,0.0
+URANO Informationssystems GmbH,2,0,,0,0.0,0.0
+Zweckverband Kommunale Datenverarbeitung Oldenburg (KDO),2,0,,0,0.0,0.0
+zentrum für technomathematik der universität bremen,1,0,,0,0.0,0.0
+aaron gmbh,1,0,,0,0.0,0.0
+abakus it-solutions sàrl,1,0,,0,0.0,0.0
+"abrechnung wir bitten um bestätigung, dass im rahmen der abrechnung das sepa-lastschriftverfahren eingesetzt werden darf oder eine portokostenvorauszahlung durch den ag möglich ist.",2,0,,0,0.0,0.0
+"accso, darmstadt",1,0,,0,0.0,0.0
+accso-accelerated solution gmbh,1,0,,0,0.0,0.0
+act it consulting & services ag,1,0,,0,0.0,0.0
+actemium cegelec gmbh,1,0,,0,0.0,0.0
+adito software gmbh,1,0,,0,0.0,0.0
+admova consulting gmbh,1,0,,0,0.0,0.0
+advitec informatic gmbh,1,0,,0,0.0,0.0
+aec3 deutschland gmbh,1,0,,0,0.0,0.0
+Micro Focus Deutschland GmbH,4,0,,0,0.0,0.0
+Mazars GmbH & Co. KG Wirtschaftsprüfungsgesellschaft,1,0,,0,0.0,0.0
+MR Datentechnik,4,0,,0,0.0,0.0
+IQVIA Commercial GmbH,2,0,,0,0.0,0.0
+zott + co. gmbh,1,0,,0,0.0,0.0
+2raumwelten grabowski & schwiebert gbr,1,0,,0,0.0,0.0
+3d welt vermessung gmbh,1,0,,0,0.0,0.0
+3pc,1,0,,0,0.0,0.0
+ATIX AG,3,0,,0,0.0,0.0
+AixConcept GmbH,5,0,,0,0.0,0.0
+Alter Solutions Deutschland GmbH,5,0,,0,0.0,0.0
+Beckerbillet GmbH,1,0,,0,0.0,0.0
+Bosch Sicherheitssysteme GmbH,2,0,,0,0.0,0.0
+BridgingIT GmbH,8,0,,0,0.0,0.0
+COM plan + service GmbH,1,0,,0,0.0,0.0
+Compart Deutschland GmbH,1,0,,0,0.0,0.0
+Consulting Piezunka und Schamoni – Information Technologies GmbH (CPS-IT),1,0,,0,0.0,0.0
+CyProtect AG,2,0,,0,0.0,0.0
+DextraData GmbH,1,0,,0,0.0,0.0
+EST Engineering Systems Technologies GmbH & Co. KG,1,0,,0,0.0,0.0
+ETL AG Wirtschaftsprüfungsgesellschaft,1,0,,0,0.0,0.0
+Ebner Stolz Mönning Bachem Wirtschaftsprüfer Steuerberater Rechtsanwälte mbB,1,0,,0,0.0,0.0
+EnergieSystemeNord GmbH,1,0,,0,0.0,0.0
+European Dynamics SA,3,0,,0,0.0,0.0
+GEOS mbH,1,0,,0,0.0,0.0
+German Edge Cloud GmbH & Co. KG,2,0,,0,0.0,0.0
+HKS Systeme GmbH,1,0,,0,0.0,0.0
+sendewerk gmbh,1,0,,0,0.0,0.0
+seibert/media gmbh,1,0,,0,0.0,0.0
+secunet security net-works ag,1,0,,0,0.0,0.0
+"mc kinsey & company, inc.",1,0,,0,0.0,0.0
+leitek informations- und automatisierungstechnik gmbh,1,0,,0,0.0,0.0
+leitwert gmbh,1,0,,0,0.0,0.0
+lexta gmbh,1,0,,0,0.0,0.0
+link protect gmbh,2,0,,0,0.0,0.0
+liveonline coaching - dr. jürgen theissing,10,0,,0,0.0,0.0
+lotterie-einnahme h. albert e.k.,1,0,,0,0.0,0.0
+m3 management consulting gmbh,2,0,,0,0.0,0.0
+managementarchitekt,1,0,,0,0.0,0.0
+mariadb corporation ab,2,0,,0,0.0,0.0
+matrix 42 ag,1,0,,0,0.0,0.0
+mazars gmbh & co. kg,1,0,,0,0.0,0.0
+"mckinsey & company, inc.",5,0,,0,0.0,0.0
+netcom connected services gmbh,1,0,,0,0.0,0.0
+mdn hübner gmbh,1,0,,0,0.0,0.0
+medDV GmbH,5,0,,0,0.0,0.0
+mementor gmbh,1,0,,0,0.0,0.0
+meona gmbh,1,0,,0,0.0,0.0
+meramo verlag gmbh,1,0,,0,0.0,0.0
+mhaag – it,1,0,,0,0.0,0.0
+"michael kreitmeier, beratender ingenieur / ik-hessen",1,0,,0,0.0,0.0
+mindtags gmbh,1,0,,0,0.0,0.0
+mosaiic gmbh,1,0,,0,0.0,0.0
+msy systems ag,1,0,,0,0.0,0.0
+mücomp,1,0,,0,0.0,0.0
+l&b solutions gmbh,1,0,,0,0.0,0.0
+königstein beratungsgesellschaft für edv- dienstleistungen mbh,1,0,,0,0.0,0.0
+ks quadrat gmbh,5,0,,0,0.0,0.0
+krämer marktforschung gmbh,1,0,,0,0.0,0.0
+intralot global operations b.v.,1,0,,0,0.0,0.0
+invent ag,1,0,,0,0.0,0.0
+ip dynamics gmbh,1,0,,0,0.0,0.0
+ip syscon gmbh,1,0,,0,0.0,0.0
+ipoque gmbh,2,0,,0,0.0,0.0
+ipoque gmbh haiger,1,0,,0,0.0,0.0
+iron mountain austria archivierung gmbh,1,0,,0,0.0,0.0
+iron mountain deutschland gmbh,2,0,,0,0.0,0.0
+it- beratung thomas pohl,1,0,,0,0.0,0.0
+it.nrw,1,0,,0,0.0,0.0
+itecon gmbh,1,0,,0,0.0,0.0
+itgain gmbh,1,0,,0,0.0,0.0
+iwb immobilienwirtschaftliche beratung gmbh,1,0,,0,0.0,0.0
+j-labs sp. z o.o,1,0,,0,0.0,0.0
+jf consulting & it-services,1,0,,0,0.0,0.0
+julius fröbus gmbh,1,0,,0,0.0,0.0
+jürgen regel,1,0,,0,0.0,0.0
+kacsa rendszer kfd.,1,0,,0,0.0,0.0
+kenoxa gmbh,1,0,,0,0.0,0.0
+kiesslich consulting,1,0,,0,0.0,0.0
+kiko – büro für kommunikation,1,0,,0,0.0,0.0
+koslowski kommunikation und sicherheit,1,0,,0,0.0,0.0
+kramer & crew gmbh & co. kg,4,0,,0,0.0,0.0
+n+p informationssysteme gmbh,1,0,,0,0.0,0.0
+netcom sicherheitstechnik gmbh,1,0,,0,0.0,0.0
+sec2do gmbh,1,0,,0,0.0,0.0
+ramboll management consulting gmbh,2,0,,0,0.0,0.0
+promotion software gmbh,2,0,,0,0.0,0.0
+protonic software gmbh,1,0,,0,0.0,0.0
+publicis pixelpark,1,0,,0,0.0,0.0
+publicis pixelpark gmbh,1,0,,0,0.0,0.0
+qiq – qcentris intelligent quality gmbh,1,0,,0,0.0,0.0
+qmatic deutschland gmbh,1,0,,0,0.0,0.0
+qs gmbh,1,0,,0,0.0,0.0
+qsc ag,2,0,,0,0.0,0.0
+quality systems international gmbh,3,0,,0,0.0,0.0
+qualityminds gmbh,2,0,,0,0.0,0.0
+r-tec gmbh,1,0,,0,0.0,0.0
+ratiodata gmbh,1,0,,0,0.0,0.0
+netmail emea gmbh,2,0,,0,0.0,0.0
+reiner alfes,1,0,,0,0.0,0.0
+reisswolf akten- und datenvernichtung gmbh & co. kg,1,0,,0,0.0,0.0
+ritterbach verlag gmbh,1,0,,0,0.0,0.0
+s&n invent ag,1,0,,0,0.0,0.0
+s.i.t. secure internet traffic gmbh& co kg,1,0,,0,0.0,0.0
+sap deutschland se & co. kg/ibm deutschland gmbh,1,0,,0,0.0,0.0
+sbe networks solutions gmbh,1,0,,0,0.0,0.0
+scdsoft ag,2,0,,0,0.0,0.0
+schwäbisch hall facility management gmbh,2,0,,0,0.0,0.0
+scisys gmbh,1,0,,0,0.0,0.0
+sd & c solutions development & consulting gmbh,1,0,,0,0.0,0.0
+promitto organisationsberatung gmbh,1,0,,0,0.0,0.0
+prologa energy gmbh,1,0,,0,0.0,0.0
+projektsteuerer,1,0,,0,0.0,0.0
+projektraum36 gmbh & co. kg,1,0,,0,0.0,0.0
+"neumann, weber, esser gbr",1,0,,0,0.0,0.0
+neurosoft gmbh,1,0,,0,0.0,0.0
+new communication gmbh & co. kg,2,0,,0,0.0,0.0
+norcom information technology ag,2,0,,0,0.0,0.0
+nortal gmbh,2,0,,0,0.0,0.0
+nttcable deutschland kg,5,0,,0,0.0,0.0
+nubedian gmbh,2,0,,0,0.0,0.0
+onedirect gmbh,1,0,,0,0.0,0.0
+outermedia,1,0,,0,0.0,0.0
+pabst tec christian pabst,1,0,,0,0.0,0.0
+paradatec gmbh,2,0,,0,0.0,0.0
+paragon customer communications korschenbroich gmbh,1,0,,0,0.0,0.0
+pass it-consulting gmbh & co. kg,1,0,,0,0.0,0.0
+pentadoc consulting,1,0,,0,0.0,0.0
+phi partners global ltd.,1,0,,0,0.0,0.0
+plano. Vertrieb GmbH,4,0,,0,0.0,0.0
+points gmbh,1,0,,0,0.0,0.0
+pragmatis gmbh,1,0,,0,0.0,0.0
+premier experts gmbh,1,0,,0,0.0,0.0
+prisma solutions deutschland gmbh,4,0,,0,0.0,0.0
+pro!vision gmbh,1,0,,0,0.0,0.0
+prodyna se,1,0,,0,0.0,0.0
+progress rail,1,0,,0,0.0,0.0
+aequitas software gmbh & co. kg,1,0,,0,0.0,0.0
+agentur2 gesellschaft für kommunikation und design mbh,1,0,,0,0.0,0.0
+infograph gesellschaft für graphische informationssysteme mbh,1,0,,0,0.0,0.0
+firma höpfinger gmbh & co. kg,1,0,,0,0.0,0.0
+ey-parthenon gmbh,1,0,,0,0.0,0.0
+f&b berlin – fischer & bochow partg,1,0,,0,0.0,0.0
+f.h. papenmeier gmbh & co. kg,1,0,,0,0.0,0.0
+faktor e gmbh,1,0,,0,0.0,0.0
+fecher gmbh,1,0,,0,0.0,0.0
+feine it-strategien für die justiz,1,0,,0,0.0,0.0
+fgtclb gmbh,2,0,,0,0.0,0.0
+finanz-data gmbh,1,0,,0,0.0,0.0
+finastra international gmbh,1,0,,0,0.0,0.0
+fink it-solutions gmbh,1,0,,0,0.0,0.0
+firma em-software ag,1,0,,0,0.0,0.0
+firma höpfinger gmbh & co.kg,1,0,,0,0.0,0.0
+exxcellent solutions gmbh,2,0,,0,0.0,0.0
+firma intercope gmbh,1,0,,0,0.0,0.0
+flocke kommunikation,2,0,,0,0.0,0.0
+flowconcept gmbh,1,0,,0,0.0,0.0
+fls gmbh,1,0,,0,0.0,0.0
+fme ag,2,0,,0,0.0,0.0
+fpi fuchs ingenieure gmbh,1,0,,0,0.0,0.0
+freicon gmbh & co. kg,1,0,,0,0.0,0.0
+freitag & co. gmbh,1,0,,0,0.0,0.0
+fusionsystems gmbh,1,0,,0,0.0,0.0
+g. muth partners gmbh corporate consulting,1,0,,0,0.0,0.0
+gallery systems,1,0,,0,0.0,0.0
+exxeta gmbh,1,0,,0,0.0,0.0
+exorbyte gmbh,1,0,,0,0.0,0.0
+agenturwebfox gmbh,1,0,,0,0.0,0.0
+elo digital office gmbh,1,0,,0,0.0,0.0
+easy-soft GmbH,2,0,,0,0.0,0.0
+edc-business it-consulting gmbh,1,0,,0,0.0,0.0
+edcom software & consulting gmbh,1,0,,0,0.0,0.0
+eduversum gmbh,1,0,,0,0.0,0.0
+edv-compas gmbh,2,0,,0,0.0,0.0
+efkon gmbh,1,0,,0,0.0,0.0
+ehmig gmbh,1,0,,0,0.0,0.0
+ekom21 KGRZ Hessen,1,0,,0,0.0,0.0
+electronic minds gmbh,1,0,,0,0.0,0.0
+elektro kreutzpointner gmbh,1,0,,0,0.0,0.0
+element44 gmbh,1,0,,0,0.0,0.0
+empolis information management gmbh,1,0,,0,0.0,0.0
+ewerk rz gmbh,18,0,,0,0.0,0.0
+empulse gmbh,1,0,,0,0.0,0.0
+energie- und wasserversorgung rheine gmbh,1,0,,0,0.0,0.0
+ennit server gmbh,1,0,,0,0.0,0.0
+epcan gmbh,2,0,,0,0.0,0.0
+ergosign gmbh,2,0,,0,0.0,0.0
+es networking jannes bilen,1,0,,0,0.0,0.0
+esc – enterprise security center gmbh,1,0,,0,0.0,0.0
+etengo ag,4,0,,0,0.0,0.0
+etomer gmbh,2,0,,0,0.0,0.0
+european dynamics deutschland gmbh,6,0,,0,0.0,0.0
+evercore partners international llp,1,0,,0,0.0,0.0
+gauss-lvs mbh,1,0,,0,0.0,0.0
+gbs europa gmbh,3,0,,0,0.0,0.0
+gebit münster gmbh & co. kg,2,0,,0,0.0,0.0
+ib-bank-systems gmbh | sks solutions,3,0,,0,0.0,0.0
+horn & company retail & consumer goods gmbh,1,0,,0,0.0,0.0
+hotsplots gmbh,1,0,,0,0.0,0.0
+house of objects software gmbh,1,0,,0,0.0,0.0
+huber & feneberg gmbh,1,0,,0,0.0,0.0
+hubermedia gmbh,1,0,,0,0.0,0.0
+hydron gmbh,2,0,,0,0.0,0.0
+höpfinger gmbh & co.kg,1,0,,0,0.0,0.0
+i-solutions health gmbh,1,0,,0,0.0,0.0
+i.vössing,1,0,,0,0.0,0.0
+i/con unternehmensberatung gmbh,2,0,,0,0.0,0.0
+ib&t software gmbh,3,0,,0,0.0,0.0
+ibr ingenieurbüro riemer,1,0,,0,0.0,0.0
+gemitec frank ehrich,1,0,,0,0.0,0.0
+icb gmbh,2,0,,0,0.0,0.0
+ifi consult gmbh,1,0,,0,0.0,0.0
+ign consult mbh,1,0,,0,0.0,0.0
+igs ingenieurgesellschaft stolz mbh,1,0,,0,0.0,0.0
+iguana nv,1,0,,0,0.0,0.0
+iibuco peter kadlec,1,0,,0,0.0,0.0
+ikanos gmbh,2,0,,0,0.0,0.0
+imdsoft gmbh,2,0,,0,0.0,0.0
+incloud engineering gmbh,1,0,,0,0.0,0.0
+indoc research,1,0,,0,0.0,0.0
+infai management gmbh,1,0,,0,0.0,0.0
+horn & company performance gmbh,1,0,,0,0.0,0.0
+horn & company financial services,1,0,,0,0.0,0.0
+hofmann gmbh,1,0,,0,0.0,0.0
+hmc hanse management consulting gmbh,1,0,,0,0.0,0.0
+geograt informationssystem gmbh,1,0,,0,0.0,0.0
+geosystems gmbh,1,0,,0,0.0,0.0
+gestaltig kreativbüro,1,0,,0,0.0,0.0
+gevas software gmbh,4,0,,0,0.0,0.0
+gib mbh,1,0,,0,0.0,0.0
+gimac gmbh,1,0,,0,0.0,0.0
+giscon geo.engineering.gmbh,1,0,,0,0.0,0.0
+gjc gmbh,1,0,,0,0.0,0.0
+global side gmbh,1,0,,0,0.0,0.0
+globits gmbh,1,0,,0,0.0,0.0
+god gmbh,1,0,,0,0.0,0.0
+gps gesellschaft für produktionssysteme gmbh,1,0,,0,0.0,0.0
+h. schomäcker gmbh,1,0,,0,0.0,0.0
+hallesche verkehrs-ag,1,0,,0,0.0,0.0
+hans peter esser gmbh,1,0,,0,0.0,0.0
+hansa luftbild ag,1,0,,0,0.0,0.0
+hansecom public transport ticketing solutions gmbh,2,0,,0,0.0,0.0
+"hartmann, mathias und partner",1,0,,0,0.0,0.0
+haufe service center gmbh,2,0,,0,0.0,0.0
+headtrip immersive media gmbh,1,0,,0,0.0,0.0
+heinrich georg silber,1,0,,0,0.0,0.0
+heller ingenieurges. mbh,1,0,,0,0.0,0.0
+heupel consultants gmbh & co. kg,1,0,,0,0.0,0.0
+dynatrace gmbh,1,0,,0,0.0,0.0
+dvz mecklenburg-vorpommern gmbh,1,0,,0,0.0,0.0
+druckerfachmann.de GmbH,3,0,,0,0.0,0.0
+bietergemeinschaft nexus gmbh und irights.lab gmbh,1,0,,0,0.0,0.0
+b&it group,1,0,,0,0.0,0.0
+bain & company germany inc.,1,0,,0,0.0,0.0
+baker tilly d-fine gbr c/o baker tilly gmbh & co. kg wirtschaftsprüfungsgesellschaft,1,0,,0,0.0,0.0
+"bauakademie beratung, bildung und entwicklung gmbh",1,0,,0,0.0,0.0
+bb consult systemanalyse und unternehmensberatung gmbh,1,0,,0,0.0,0.0
+bbwp gmbh wirtschaftsprüfungsgesellschaft mit beiten burkhardt rechtsanwaltsgesellschaft mbh,1,0,,0,0.0,0.0
+becon gmbh,2,0,,0,0.0,0.0
+beiten burkhardt rechtsanwaltsgesellschaft mbh,1,0,,0,0.0,0.0
+bfs health finance gmbh,1,0,,0,0.0,0.0
+"bietergemeinschaft faktor 3 ag und knskb+ gmbh, konsortialführer faktor 3 ag",1,0,,0,0.0,0.0
+"bietergemeinschaft ludwig & co. gmbh und accuracy deutschland, vertreten durch die ludwig & co. gmbh",1,0,,0,0.0,0.0
+bietergemeinschaft starzel.de,1,0,,0,0.0,0.0
+burg software & service,1,0,,0,0.0,0.0
+bietergemeinschaft vintin services gmbh & vintin solutions gmbh,1,0,,0,0.0,0.0
+bietergemeinschaft „jaggaer-fincons“,1,0,,0,0.0,0.0
+bisping & bisping gmbh & co. kg,3,0,,0,0.0,0.0
+biteil gesellschaft f. telekommunikation mbh,2,0,,0,0.0,0.0
+bitmarck service gmbh,1,0,,0,0.0,0.0
+bittner + krull softwaresysteme gmbh,1,0,,0,0.0,0.0
+bittner+krull softwaresysteme gmbh,1,0,,0,0.0,0.0
+"blackrock financial management, inc.",1,0,,0,0.0,0.0
+bmh beteiligungsmanagementgesellschaft hessen mbh,1,0,,0,0.0,0.0
+bohm nonnen urhahn büro für interaktive medien gmbh,1,0,,0,0.0,0.0
+bsl managementberatung gmbh,1,0,,0,0.0,0.0
+axxiome health gmbh,1,0,,0,0.0,0.0
+axilaris gmbh,1,0,,0,0.0,0.0
+avi.dat software&technology gmbh,1,0,,0,0.0,0.0
+av-comparatives gmbh,1,0,,0,0.0,0.0
+agroinnova,1,0,,0,0.0,0.0
+ahd gmbh & co. kg,2,0,,0,0.0,0.0
+akdb aör,1,0,,0,0.0,0.0
+alogis ag,1,0,,0,0.0,0.0
+alpha-test gmbh,3,0,,0,0.0,0.0
+am gmbh,1,0,,0,0.0,0.0
+amadeus it group sa,1,0,,0,0.0,0.0
+amalphi ag,2,0,,0,0.0,0.0
+amberg engineering ag,1,0,,0,0.0,0.0
+anita richter,1,0,,0,0.0,0.0
+aok-systems gmbh,1,0,,0,0.0,0.0
+apiarista gmbh,1,0,,0,0.0,0.0
+apiida ag,1,0,,0,0.0,0.0
+"appdome inc,",1,0,,0,0.0,0.0
+aptude inc,1,0,,0,0.0,0.0
+arc-greenlab gmbh,1,0,,0,0.0,0.0
+arelium gmbh,1,0,,0,0.0,0.0
+arge evergabe.de gmbh und administration intelligence ag,1,0,,0,0.0,0.0
+asioso gmbh,2,0,,0,0.0,0.0
+atelier damböck messebau gmbh,1,0,,0,0.0,0.0
+atsec information security gmbh,2,0,,0,0.0,0.0
+aurasec gmbh,2,0,,0,0.0,0.0
+autovia gmbh,1,0,,0,0.0,0.0
+bureau van dijk electronic publishing gmbh,4,0,,0,0.0,0.0
+buschmais gbr,1,0,,0,0.0,0.0
+droidsolutions gmbh,3,0,,0,0.0,0.0
+decada consulting gmbh,1,0,,0,0.0,0.0
+cpro strategy process & integration gmbh/cpro industry projects & solutions gmbh,1,0,,0,0.0,0.0
+crealogix ag,1,0,,0,0.0,0.0
+crimson technology,2,0,,0,0.0,0.0
+cubos internet gmbh,2,0,,0,0.0,0.0
+cyquest gmbh,1,0,,0,0.0,0.0
+daasi international gmbh,2,0,,0,0.0,0.0
+das büro am draht gmbh,1,0,,0,0.0,0.0
+das büro am draht gmbhf&b berlin – fischer & bochow partg,1,0,,0,0.0,0.0
+datenlotsen education systems gmbh,2,0,,0,0.0,0.0
+datenlotsen informationssyst. gmbh,1,0,,0,0.0,0.0
+datenwerke,1,0,,0,0.0,0.0
+deconhr pension solutions gmbh,1,0,,0,0.0,0.0
+buth & hermanns partnerschaftsgesellschaft mbb wirtschaftsprüfungsgesellschaft steuerberatungsgesellschaft,1,0,,0,0.0,0.0
+deepblue networks ag,2,0,,0,0.0,0.0
+delphi imm gmbh,1,0,,0,0.0,0.0
+deutsche glasfaser wholesale gmbh,3,0,,0,0.0,0.0
+devworx gmbh & cokg,1,0,,0,0.0,0.0
+dezem gmbh,1,0,,0,0.0,0.0
+die_schnittsteller gmbh,2,0,,0,0.0,0.0
+digital science and research solutions inc,1,0,,0,0.0,0.0
+ditho design gmbh,1,0,,0,0.0,0.0
+dms-consulting,1,0,,0,0.0,0.0
+dok systeme ing. -gesellschaft,1,0,,0,0.0,0.0
+dr. wiescher und partner gmbh,1,0,,0,0.0,0.0
+"cosylab, d. d.",1,0,,0,0.0,0.0
+corefiling,1,0,,0,0.0,0.0
+copitos gmbh,1,0,,0,0.0,0.0
+contractor consulting gmbh,1,0,,0,0.0,0.0
+"buttler rechtsanwaltsgesellschaft mbh, rechts- und unternehmensberatung",1,0,,0,0.0,0.0
+cabs-gmbh,2,0,,0,0.0,0.0
+cadfem gmbh,1,0,,0,0.0,0.0
+calpana business consulting deutschland gmbh,1,0,,0,0.0,0.0
+camptocamp germany gmbh,1,0,,0,0.0,0.0
+campus computer systeme,1,0,,0,0.0,0.0
+campuscore – software für hochschulen gmbh & co. kg,8,0,,0,0.0,0.0
+cap3 gmbh,2,0,,0,0.0,0.0
+card assist ca,1,0,,0,0.0,0.0
+casis heimann buchholz espinoza partnerschaft wirtschaftsprüfung,1,0,,0,0.0,0.0
+ceyoniq technology gmbh,2,0,,0,0.0,0.0
+chevin fleet solutions ltd,1,0,,0,0.0,0.0
+citigroup global markets europe ag,1,0,,0,0.0,0.0
+citigroup global markets europe limited,1,0,,0,0.0,0.0
+clear it gmbh,1,0,,0,0.0,0.0
+cluster reply gmbh & co. kg,1,0,,0,0.0,0.0
+cn-consult it beratungs- und dienstleistungs gmbh,1,0,,0,0.0,0.0
+coco finance gmbh,1,0,,0,0.0,0.0
+cognita deutschland gmbh,1,0,,0,0.0,0.0
+coheris,1,0,,0,0.0,0.0
+comwrap gmbh,1,0,,0,0.0,0.0
+consodalis gmbh,2,0,,0,0.0,0.0
+contagt gmbh,1,0,,0,0.0,0.0
+ö_konzept gmbh & co.kg agentur für werbung und kommunikation,1,0,,0,0.0,0.0

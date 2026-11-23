@@ -1,0 +1,34 @@
+\begin{table}[htbp]
+\centering
+\begin{threeparttable}
+\caption{Network resilience after removal of 100 suppliers}
+\label{tab:resilience}
+\begin{tabular}{lrrr}
+\toprule
+Removal strategy & Isolated buyers (\%) & Giant component (\%) & Components \\
+\midrule
+\multicolumn{4}{l}{\textit{CPV 30 (hardware){,} 1{,}369 buyers}} \\
+\quad Before removal & 0.0 & 95.1 & 46 \\
+\quad Lock-in targeted & 17.8 & 72.1 & 205 \\
+\quad Degree targeted & 23.4 & 65.2 & 246 \\
+\quad Random (mean) & 0.1 & 91.9 & 52 \\
+\addlinespace
+\multicolumn{4}{l}{\textit{CPV 48 (software){,} 914 buyers}} \\
+\quad Before removal & 0.0 & 91.5 & 67 \\
+\quad Lock-in targeted & 10.2 & 72.7 & 195 \\
+\quad Degree targeted & 20.1 & 65.3 & 221 \\
+\quad Random (mean) & 0.1 & 87.8 & 74 \\
+\addlinespace
+\multicolumn{4}{l}{\textit{CPV 72 (IT services){,} 933 buyers}} \\
+\quad Before removal & 0.0 & 92.7 & 93 \\
+\quad Lock-in targeted & 3.4 & 82.5 & 193 \\
+\quad Degree targeted & 7.8 & 81.2 & 203 \\
+\quad Random (mean) & 0.0 & 90.4 & 97 \\
+\bottomrule
+\end{tabular}
+\begin{tablenotes}[flushleft]\footnotesize
+\item \textit{Notes.} Aggregated bipartite buyer--supplier networks, 2017--2023, restricted to buyers with at least two supplier relationships. Suppliers are removed sequentially; the table reports the state after 100 removals, corresponding to 4.9\% / 4.9\% / 2.6\% of the suppliers in the respective segment. Isolated buyers are buyers left without any supplier relationship. The giant component is expressed as a share of all nodes carrying an edge in the intact network, so values are comparable across removal steps.
+\item Random removal is averaged over 100 iterations. In no segment did any iteration reach the damage of either targeted strategy.
+\end{tablenotes}
+\end{threeparttable}
+\end{table}
